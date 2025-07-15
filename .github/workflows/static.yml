@@ -42,7 +42,7 @@ jobs:
         git config --global user.email "actions@github.com"
         
         # Stage, commit, and push
-        git add ani-*.json
+        git add anime-*.json
         git status
         git diff-index --quiet HEAD || git commit -m "Update AniList data ${{ github.event.inputs.page_range || '1-20' }}"
         git pull --rebase  # Ensure we're up to date
