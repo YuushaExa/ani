@@ -6,9 +6,9 @@ on:
       page_range:
         description: 'Page range to fetch (e.g., 1-200)'
         required: true
-        default: '401-600'
+        default: '401-500'
   schedule:
-    - cron: '0 0 * * 0'  # Runs every Sunday at midnight UTC
+    - cron: '0 0 * * *'  
 
 jobs:
   fetch:
