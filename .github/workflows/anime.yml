@@ -33,7 +33,7 @@ jobs:
       run: npm install node-fetch@2
 
     - name: Fetch AniList data
-      run: node anime.js ${{ github.event.inputs.page_range || '1-20' }}
+      run: node script/anime.js ${{ github.event.inputs.page_range || '1-20' }}
 
     - name: Commit and push changes
       run: |
@@ -42,7 +42,7 @@ jobs:
         git config --global user.email "actions@github.com"
         
         # Stage, commit, and push
-        git add anime-*.json
+        git add data/anime-*.json
         git status
         git diff-index --quiet HEAD || git commit -m "Update AniList data ${{ github.event.inputs.page_range || '1-20' }}"
         git pull --rebase  # Ensure we're up to date
