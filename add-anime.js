@@ -14,7 +14,7 @@ if (isNaN(startPage) || isNaN(endPage) || startPage < 1 || endPage < startPage) 
 
 const perPage = 50;
 const pagesToFetch = Array.from({length: endPage - startPage + 1}, (_, i) => startPage + i);
-const outputFile = `anime-${startPage}-${endPage}.json`;
+const outputFile = `add-anime-${startPage}-${endPage}.json`;
 
 async function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
