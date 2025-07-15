@@ -3,6 +3,11 @@ name: Fetch AniList Data
 
 on:
   workflow_dispatch:
+    inputs:
+      page_range:
+        description: 'Page range to fetch (e.g., 1-200)'
+        required: true
+        default: '1-200'
   schedule:
     - cron: '0 0 * * 0'
 
@@ -12,6 +17,8 @@ jobs:
     
     steps:
     - uses: actions/checkout@v3
+      with:
+        persist-credentials: false
     
     - name: Set up Node.js
       uses: actions/setup-node@v3
@@ -22,12 +29,15 @@ jobs:
       run: npm install node-fetch@2
     
     - name: Fetch AniList data
-      run: node fetch-anilist.js
+      run: node fetch-anilist.js ${{ github.event.inputs.page_range || '1-20' }}
     
     - name: Commit and push changes
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
-        git add anilist-data.json
-        git diff --quiet && git diff --staged --quiet || git commit -m "Update AniList data"
+        git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+        git add ani-*.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update AniList data ${{ github.event.inputs.page_range || '1-20' }}"
         git push
