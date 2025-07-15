@@ -26,58 +26,6 @@ async function fetchJapaneseAnime(page) {
                     Page(page: $page, perPage: $perPage) {
                         media(type: ANIME, sort: ID) {
                             id
-                            idMal
-                            title {
-                                romaji
-                                english
-                                native
-                                userPreferred
-                            }
-                            type
-                            format
-                            status
-                            description(asHtml: false)
-                            startDate {
-                                year
-                                month
-                                day
-                            }
-                            endDate {
-                                year
-                                month
-                                day
-                            }
-                            season
-                            seasonYear
-                            seasonInt
-                            episodes
-                            duration
-                            chapters
-                            volumes
-                            countryOfOrigin
-                            isLicensed
-                            source
-                            hashtag
-                            trailer {
-                                id
-                                site
-                                thumbnail
-                            }
-                            updatedAt
-                            coverImage {
-                                extraLarge
-                                large
-                                medium
-                                color
-                            }
-                            bannerImage
-                            genres
-                            synonyms
-                            averageScore
-                            meanScore
-                            popularity
-                            trending
-                            favourites
                             tags {
                                 id
                                 name
@@ -87,29 +35,6 @@ async function fetchJapaneseAnime(page) {
                                 isGeneralSpoiler
                                 isMediaSpoiler
                                 isAdult
-                            }
-                            relations {
-                                edges {
-                                    id
-                                    relationType
-                                    node {
-                                        id
-                                        title {
-                                            romaji
-                                            english
-                                            native
-                                            userPreferred
-                                        }
-                                        type
-                                        format
-                                        status
-                                        bannerImage
-                                        coverImage {
-                                            large
-                                            color
-                                        }
-                                    }
-                                }
                             }
                             characters {
                                 edges {
@@ -156,33 +81,6 @@ async function fetchJapaneseAnime(page) {
                                         }
                                     }
                                 }
-                            }
-                            studios {
-                                edges {
-                                    id
-                                    isMain
-                                    node {
-                                        id
-                                        name
-                                    }
-                                }
-                            }
-                            isAdult
-                            nextAiringEpisode {
-                                id
-                                airingAt
-                                timeUntilAiring
-                                episode
-                            }
-                            rankings {
-                                id
-                                rank
-                                type
-                                format
-                                year
-                                season
-                                allTime
-                                context
                             }
                             recommendations {
                                 nodes {
