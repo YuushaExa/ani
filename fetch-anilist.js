@@ -22,89 +22,190 @@ async function sleep(ms) {
 
 async function fetchJapaneseAnime(page) {
     const query = `
-        query ($page: Int, $perPage: Int) {
-            Page(page: $page, perPage: $perPage) {
-                media(type: ANIME, sort: ID) {
-                    id
-                    idMal
-                    title {
-                        romaji
-                        english
-                        native
-                    }
-                    type
-                    format
-                    status
-                    description(asHtml: false)
-                    startDate {
-                        year
-                        month
-                        day
-                    }
-                    endDate {
-                        year
-                        month
-                        day
-                    }
-                    season
-                    seasonYear
-                    seasonInt
-                    episodes
-                    duration
-                    countryOfOrigin
-                    source
-                    hashtag
-                    coverImage {
-                        large
-                        medium
-                        color
-                    }
-                    bannerImage
-                    genres
-                    averageScore
-                    meanScore
-                    isAdult
-                    trailer {
-                        id
-                        site
-                        thumbnail
-                    }
-                    bannerImage
-                    synonyms
-                    relations {
-                        edges {
+         query ($page: Int, $perPage: Int) {
+                    Page(page: $page, perPage: $perPage) {
+                        media(type: ANIME, sort: ID) {
                             id
-                            relationType
-                            node {
-                                id
-                                title {
-                                    romaji
-                                    english
-                                    native
-                                }
-                                type
-                                format
-                                status
-                                coverImage {
-                                    large
-                                    color
-                                }
+                            idMal
+                            title {
+                                romaji
+                                english
+                                native
+                                userPreferred
                             }
-                        }
-                    }
-                    studios {
-                        edges {
-                            id
-                            isMain
-                            node {
+                            type
+                            format
+                            status
+                            description(asHtml: false)
+                            startDate {
+                                year
+                                month
+                                day
+                            }
+                            endDate {
+                                year
+                                month
+                                day
+                            }
+                            season
+                            seasonYear
+                            seasonInt
+                            episodes
+                            duration
+                            chapters
+                            volumes
+                            countryOfOrigin
+                            isLicensed
+                            source
+                            hashtag
+                            trailer {
+                                id
+                                site
+                                thumbnail
+                            }
+                            updatedAt
+                            coverImage {
+                                extraLarge
+                                large
+                                medium
+                                color
+                            }
+                            bannerImage
+                            genres
+                            synonyms
+                            averageScore
+                            meanScore
+                            popularity
+                            trending
+                            favourites
+                            tags {
                                 id
                                 name
+                                description
+                                category
+                                rank
+                                isGeneralSpoiler
+                                isMediaSpoiler
+                                isAdult
+                            }
+                            relations {
+                                edges {
+                                    id
+                                    relationType
+                                    node {
+                                        id
+                                        title {
+                                            romaji
+                                            english
+                                            native
+                                            userPreferred
+                                        }
+                                        type
+                                        format
+                                        status
+                                        bannerImage
+                                        coverImage {
+                                            large
+                                            color
+                                        }
+                                    }
+                                }
+                            }
+                            characters {
+                                edges {
+                                    id
+                                    role
+                                    name
+                                    voiceActors {
+                                        id
+                                        name {
+                                            full
+                                            native
+                                        }
+                                        language
+                                        image {
+                                            large
+                                        }
+                                    }
+                                    node {
+                                        id
+                                        name {
+                                            full
+                                            native
+                                            alternative
+                                        }
+                                        image {
+                                            large
+                                        }
+                                    }
+                                }
+                            }
+                            staff {
+                                edges {
+                                    id
+                                    role
+                                    node {
+                                        id
+                                        name {
+                                            full
+                                            native
+                                            alternative
+                                        }
+                                        image {
+                                            large
+                                        }
+                                    }
+                                }
+                            }
+                            studios {
+                                edges {
+                                    id
+                                    isMain
+                                    node {
+                                        id
+                                        name
+                                    }
+                                }
+                            }
+                            isAdult
+                            nextAiringEpisode {
+                                id
+                                airingAt
+                                timeUntilAiring
+                                episode
+                            }
+                            rankings {
+                                id
+                                rank
+                                type
+                                format
+                                year
+                                season
+                                allTime
+                                context
+                            }
+                            recommendations {
+                                nodes {
+                                    id
+                                    rating
+                                    userRating
+                                    mediaRecommendation {
+                                        id
+                                        title {
+                                            romaji
+                                            english
+                                            native
+                                            userPreferred
+                                        }
+                                        coverImage {
+                                            large
+                                        }
+                                    }
+                                }
                             }
                         }
                     }
                 }
-            }
-        }
     `;
 
      const variables = {
