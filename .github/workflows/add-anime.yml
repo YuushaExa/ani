@@ -1,4 +1,4 @@
-name: Fetch AniList Data
+name: Fetch Add-Anime
 
 on:
   workflow_dispatch:
@@ -6,7 +6,7 @@ on:
       page_range:
         description: 'Page range to fetch (e.g., 1-200)'
         required: true
-        default: '1-20'
+        default: '401-600'
   schedule:
     - cron: '0 0 * * 0'  # Runs every Sunday at midnight UTC
 
@@ -33,7 +33,7 @@ jobs:
       run: npm install node-fetch@2
 
     - name: Fetch AniList data
-      run: node fetch-anilist.js ${{ github.event.inputs.page_range || '1-20' }}
+      run: node add-anime.js ${{ github.event.inputs.page_range || '1-20' }}
 
     - name: Commit and push changes
       run: |
@@ -42,7 +42,7 @@ jobs:
         git config --global user.email "actions@github.com"
         
         # Stage, commit, and push
-        git add anime-*.json
+        git add add-anime-*.json
         git status
         git diff-index --quiet HEAD || git commit -m "Update AniList data ${{ github.event.inputs.page_range || '1-20' }}"
         git pull --rebase  # Ensure we're up to date
