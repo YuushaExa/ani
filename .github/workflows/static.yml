@@ -2,9 +2,8 @@
 name: Fetch AniList Data
 
 on:
-  workflow_dispatch: # Allows manual triggering
+  workflow_dispatch:
   schedule:
-    # Run every Sunday at 00:00 UTC
     - cron: '0 0 * * 0'
 
 jobs:
@@ -20,7 +19,7 @@ jobs:
         node-version: '16'
     
     - name: Install dependencies
-      run: npm install node-fetch
+      run: npm install node-fetch@2
     
     - name: Fetch AniList data
       run: node fetch-anilist.js
