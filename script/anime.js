@@ -140,8 +140,9 @@ async function fetchJapaneseAnime(page) {
 async function main() {
     let allData = [];
     let failedPages = [];
+    let shouldContinue = true;
 
-    for (let i = 0; i < pagesToFetch.length; i++) {
+    for (let i = 0; i < pagesToFetch.length && shouldContinue; i++) {
         const page = pagesToFetch[i];
         console.log(`Fetching page ${page} (${i+1}/${pagesToFetch.length})...`);
         
@@ -150,13 +151,22 @@ async function main() {
             if (data && data.length > 0) {
                 allData = [...allData, ...data];
                 console.log(`Page ${page} fetched successfully (${data.length} items)`);
+                
+                // If we got fewer items than expected, we've probably reached the end
+                if (data.length < perPage) {
+                    console.log(`Received only ${data.length} items (less than ${perPage}), stopping fetch.`);
+                    shouldContinue = false;
+                }
+            } else if (data && data.length === 0) {
+                console.log(`Page ${page} returned 0 items, stopping fetch.`);
+                shouldContinue = false;
             }
             
             // Add delay between requests (300ms)
             await sleep(300);
             
             // Pause for 1 minute every 20 pages
-            if ((i + 1) % 20 === 0 && i < pagesToFetch.length - 1) {
+            if ((i + 1) % 20 === 0 && i < pagesToFetch.length - 1 && shouldContinue) {
                 console.log('Pausing for 1 minute to avoid rate limiting...');
                 await sleep(60000); // 1 minute
             }
