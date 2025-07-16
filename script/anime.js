@@ -140,40 +140,25 @@ async function fetchJapaneseAnime(page) {
 async function main() {
     let allData = [];
     let failedPages = [];
-    let shouldContinue = true;
 
-    for (let i = 0; i < pagesToFetch.length && shouldContinue; i++) {
+    for (let i = 0; i < pagesToFetch.length; i++) {
         const page = pagesToFetch[i];
         console.log(`Fetching page ${page} (${i+1}/${pagesToFetch.length})...`);
         
         try {
             const data = await fetchJapaneseAnime(page);
-            
-            // If data is null (error), skip
-            if (!data) {
-                failedPages.push(page);
-                continue;
-            }
-
-            // Add data even if it's fewer than perPage
-            if (data.length > 0) {
+            if (data && data.length > 0) {
                 allData = [...allData, ...data];
                 console.log(`Page ${page} fetched successfully (${data.length} items)`);
-            }
-
-            // Stop AFTER processing if we got fewer than perPage items
-            if (data.length < perPage) {
-                console.log(`Received only ${data.length} items (less than ${perPage}), stopping fetch.`);
-                shouldContinue = false;
             }
             
             // Add delay between requests (300ms)
             await sleep(300);
             
-            // Pause for 1 minute every 20 pages (if continuing)
-            if ((i + 1) % 20 === 0 && i < pagesToFetch.length - 1 && shouldContinue) {
+            // Pause for 1 minute every 20 pages
+            if ((i + 1) % 20 === 0 && i < pagesToFetch.length - 1) {
                 console.log('Pausing for 1 minute to avoid rate limiting...');
-                await sleep(60000);
+                await sleep(60000); // 1 minute
             }
         } catch (error) {
             console.error(`Failed to fetch page ${page}:`, error);
@@ -189,3 +174,5 @@ async function main() {
         console.log(`Failed pages: ${failedPages.join(', ')}`);
     }
 }
+
+main().catch(console.error);
