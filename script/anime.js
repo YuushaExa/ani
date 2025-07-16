@@ -168,7 +168,7 @@ async function main() {
             // Pause for 1 minute every 20 pages
             if ((i + 1) % 20 === 0 && i < pagesToFetch.length - 1 && shouldContinue) {
                 console.log('Pausing for 1 minute to avoid rate limiting...');
-                await sleep(60000); // 1 minute
+                await sleep(70000); // 1 minute
             }
         } catch (error) {
             console.error(`Failed to fetch page ${page}:`, error);
