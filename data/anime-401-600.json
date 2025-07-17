@@ -1205,7 +1205,7 @@
       "Sci-Fi"
     ],
     "averageScore": 63,
-    "meanScore": 82,
+    "meanScore": 81,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -8295,10 +8295,11 @@
     },
     "bannerImage": null,
     "genres": [
-      "Comedy"
+      "Comedy",
+      "Romance"
     ],
     "averageScore": 66,
-    "meanScore": 69,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "QUeiRyKjsmE",
@@ -8870,7 +8871,7 @@
       "Fantasy"
     ],
     "averageScore": 71,
-    "meanScore": 72,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "0lkvDeo6wI8",
@@ -9146,7 +9147,7 @@
       "Drama",
       "Sports"
     ],
-    "averageScore": 71,
+    "averageScore": 70,
     "meanScore": 72,
     "isAdult": false,
     "trailer": null,
@@ -10069,8 +10070,8 @@
       "Music",
       "Slice of Life"
     ],
-    "averageScore": 62,
-    "meanScore": 78,
+    "averageScore": 61,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": {
       "id": "uNOo7eWH_e8",
@@ -10449,7 +10450,7 @@
     "genres": [
       "Music"
     ],
-    "averageScore": 51,
+    "averageScore": 50,
     "meanScore": 52,
     "isAdult": false,
     "trailer": {
@@ -11731,7 +11732,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 70,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -14938,7 +14939,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 48,
+    "meanScore": 49,
     "isAdult": false,
     "trailer": {
       "id": "zPDEPz6YQho",
@@ -15415,8 +15416,8 @@
       "Drama",
       "Hentai"
     ],
-    "averageScore": 54,
-    "meanScore": 58,
+    "averageScore": 53,
+    "meanScore": 57,
     "isAdult": true,
     "trailer": {
       "id": "tOFJf5P5BpQ",
@@ -16383,7 +16384,7 @@
       "Hentai"
     ],
     "averageScore": 56,
-    "meanScore": 60,
+    "meanScore": 59,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -22414,7 +22415,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 36,
+    "meanScore": 32,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -23281,7 +23282,7 @@
       "Romance"
     ],
     "averageScore": 67,
-    "meanScore": 70,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "HuZ-xK-P-aw",
@@ -23497,7 +23498,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 65,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": {
       "id": "UWWiu2TMKJ4",
@@ -25561,7 +25562,7 @@
       "Romance"
     ],
     "averageScore": 67,
-    "meanScore": 70,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "WjbLhMyN--Y",
@@ -32541,8 +32542,8 @@
       "Action",
       "Sports"
     ],
-    "averageScore": 59,
-    "meanScore": 69,
+    "averageScore": 58,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "-119oCbVCB8",
@@ -32648,7 +32649,7 @@
       "Action",
       "Sports"
     ],
-    "averageScore": 63,
+    "averageScore": 62,
     "meanScore": 72,
     "isAdult": false,
     "trailer": {
@@ -35933,7 +35934,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 61,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "q0KMIU_kjRc",
@@ -38328,8 +38329,8 @@
       "Mystery",
       "Thriller"
     ],
-    "averageScore": 47,
-    "meanScore": 52,
+    "averageScore": 46,
+    "meanScore": 51,
     "isAdult": false,
     "trailer": {
       "id": "FopiI3lAPeI",
@@ -39590,7 +39591,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 77,
+    "meanScore": 76,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -39753,8 +39754,8 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "averageScore": 72,
-    "meanScore": 83,
+    "averageScore": 71,
+    "meanScore": 82,
     "isAdult": false,
     "trailer": {
       "id": "BW6bx31UqAM",
@@ -41219,7 +41220,7 @@
       "Hentai"
     ],
     "averageScore": 49,
-    "meanScore": 52,
+    "meanScore": 53,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -41302,7 +41303,7 @@
       "Thriller"
     ],
     "averageScore": null,
-    "meanScore": 25,
+    "meanScore": 40,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -42484,7 +42485,7 @@
       "Romance"
     ],
     "averageScore": 58,
-    "meanScore": 70,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "GlcCq4ne2lk",
@@ -42791,12 +42792,12 @@
     "episodes": 1,
     "duration": null,
     "countryOfOrigin": "JP",
-    "source": null,
+    "source": "ORIGINAL",
     "hashtag": "#転スラ #tensura",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182206-gsReDa5z4Ci4.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182206-gsReDa5z4Ci4.jpg",
-      "color": "#43bbe4"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182206-V8XxHcPDh7kx.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182206-V8XxHcPDh7kx.jpg",
+      "color": "#35bbf1"
     },
     "bannerImage": null,
     "genres": [
@@ -45810,7 +45811,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 78,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -47519,8 +47520,8 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 67,
-    "meanScore": 73,
+    "averageScore": 66,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "qt9v4fsdTvc",
@@ -53973,8 +53974,8 @@
       "Action",
       "Drama"
     ],
-    "averageScore": 61,
-    "meanScore": 64,
+    "averageScore": 60,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": {
       "id": "zfthL1m2GFg",
@@ -54190,7 +54191,7 @@
     "genres": [
       "Horror"
     ],
-    "averageScore": 43,
+    "averageScore": 42,
     "meanScore": 43,
     "isAdult": false,
     "trailer": {
@@ -54587,7 +54588,7 @@
       "native": "SAKAMOTO DAYS 第２クール"
     },
     "type": "ANIME",
-    "format": "TV",
+    "format": "ONA",
     "status": "RELEASING",
     "description": "The second part of <i>SAKAMOTO DAYS</i>.<br><br>\n<i>Note: The series is streaming a week in advance on Netflix Japan starting with episode 2 released alongside episode 1.</i>",
     "startDate": {
@@ -54603,7 +54604,7 @@
     "season": "SUMMER",
     "seasonYear": 2025,
     "seasonInt": 253,
-    "episodes": null,
+    "episodes": 11,
     "duration": null,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -54619,7 +54620,7 @@
       "Comedy"
     ],
     "averageScore": 75,
-    "meanScore": 78,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": {
       "id": "ZCHwvfQlQ4M",
@@ -56197,7 +56198,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 47,
+    "meanScore": 45,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -56422,7 +56423,7 @@
       "Slice of Life"
     ],
     "averageScore": 56,
-    "meanScore": 63,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": {
       "id": "5R64pAPUZmk",
@@ -56801,7 +56802,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 69,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -58353,7 +58354,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184644-26IMV1l6gQjR.jpg",
     "genres": [],
     "averageScore": 63,
-    "meanScore": 73,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": {
       "id": "UYEZL13MUFk",
@@ -58842,7 +58843,7 @@
       "Drama",
       "Fantasy"
     ],
-    "averageScore": 73,
+    "averageScore": 72,
     "meanScore": 79,
     "isAdult": false,
     "trailer": {
@@ -59779,7 +59780,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 45,
+    "meanScore": 47,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -59891,7 +59892,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 44,
+    "meanScore": 48,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -60230,7 +60231,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 74,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -60564,8 +60565,8 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 69,
-    "meanScore": 79,
+    "averageScore": 68,
+    "meanScore": 78,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -60820,7 +60821,7 @@
       "Hentai",
       "Romance"
     ],
-    "averageScore": 61,
+    "averageScore": 62,
     "meanScore": 69,
     "isAdult": true,
     "trailer": null,
@@ -60890,7 +60891,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184816-vBC9NrWx3fEc.jpg",
     "genres": [],
     "averageScore": 71,
-    "meanScore": 75,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": {
       "id": "eYqSJhpNIYY",
@@ -61873,7 +61874,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 63,
+    "averageScore": 62,
     "meanScore": 69,
     "isAdult": true,
     "trailer": null,
@@ -62734,7 +62735,7 @@
       "Action"
     ],
     "averageScore": null,
-    "meanScore": 70,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "75FM2FMKXek",
@@ -63486,7 +63487,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 73,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -64005,7 +64006,7 @@
       "Mystery"
     ],
     "averageScore": 67,
-    "meanScore": 77,
+    "meanScore": 76,
     "isAdult": false,
     "trailer": {
       "id": "YO7maM6j01c",
@@ -64626,7 +64627,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 64,
+    "averageScore": 63,
     "meanScore": 68,
     "isAdult": true,
     "trailer": null,
@@ -65439,7 +65440,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 65,
+    "averageScore": 64,
     "meanScore": 71,
     "isAdult": true,
     "trailer": null,
@@ -67026,7 +67027,7 @@
       "Comedy"
     ],
     "averageScore": 60,
-    "meanScore": 65,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": {
       "id": "tdYgnXhHxH8",
@@ -70430,7 +70431,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 63,
+    "meanScore": 59,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -70613,7 +70614,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 85,
+    "meanScore": 84,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -71032,7 +71033,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 47,
+    "meanScore": 46,
     "isAdult": false,
     "trailer": {
       "id": "1u_S0MdUlAU",
@@ -71460,14 +71461,14 @@
       "day": 6
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 9,
+      "day": 21
     },
     "season": "SUMMER",
     "seasonYear": 2025,
     "seasonInt": 253,
-    "episodes": null,
+    "episodes": 12,
     "duration": 24,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -72316,7 +72317,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 69,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -74861,7 +74862,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 63,
+    "averageScore": 64,
     "meanScore": 86,
     "isAdult": false,
     "trailer": null,
@@ -76947,7 +76948,8 @@
     },
     "synonyms": [
       "Hibimeshi",
-      "ひびめし"
+      "ひびめし",
+      "歲月流逝飯菜依舊美味"
     ],
     "relations": {
       "edges": [
@@ -77186,7 +77188,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "averageScore": 62,
+    "averageScore": 63,
     "meanScore": 65,
     "isAdult": false,
     "trailer": {
@@ -77376,7 +77378,7 @@
       "Action"
     ],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": {
       "id": "HRlW6yZo6Kc",
@@ -78443,7 +78445,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 62,
+    "meanScore": 63,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -78771,7 +78773,7 @@
       "Comedy"
     ],
     "averageScore": 64,
-    "meanScore": 72,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "NjaNa4lO6a4",
@@ -81065,7 +81067,7 @@
       "Psychological"
     ],
     "averageScore": null,
-    "meanScore": 85,
+    "meanScore": 82,
     "isAdult": false,
     "trailer": {
       "id": "EInOy5U9S08",
@@ -82319,7 +82321,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 57,
+    "meanScore": 56,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -83026,7 +83028,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 69,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "9anZ-INq5Lg",
@@ -85150,7 +85152,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 68,
+    "averageScore": 67,
     "meanScore": 76,
     "isAdult": true,
     "trailer": null,
@@ -88387,7 +88389,7 @@
       "Fantasy"
     ],
     "averageScore": 62,
-    "meanScore": 70,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "lDxF3SSvwhc",
@@ -94291,7 +94293,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 46,
+    "meanScore": 45,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -97548,7 +97550,7 @@
     "idMal": 61239,
     "title": {
       "romaji": "Binan Koukou Chikyuu Bouei-bu Haikara!",
-      "english": null,
+      "english": "Cute High Earth Defense Club Hi-CARA!",
       "native": "美男高校地球防衛部ハイカラ！"
     },
     "type": "ANIME",
@@ -97586,7 +97588,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 59,
+    "meanScore": 57,
     "isAdult": false,
     "trailer": {
       "id": "L5AiuCQE-BY",
@@ -102930,7 +102932,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 57,
+    "meanScore": 55,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -103610,7 +103612,7 @@
       "Sci-Fi"
     ],
     "averageScore": 59,
-    "meanScore": 67,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": {
       "id": "2_CMnVD7NvI",
@@ -107488,8 +107490,8 @@
       "Fantasy",
       "Romance"
     ],
-    "averageScore": 47,
-    "meanScore": 49,
+    "averageScore": 46,
+    "meanScore": 48,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -110292,7 +110294,7 @@
     "id": 191403,
     "idMal": 61558,
     "title": {
-      "romaji": "Aikatsu! x Pripara THE MOVIE -Deai no Kiseki-",
+      "romaji": "Aikatsu! x PriPara THE MOVIE -Deai no Kiseki-",
       "english": null,
       "native": "アイカツ！×プリパラ THE MOVIE -出会いのキセキ-"
     },
@@ -110302,13 +110304,13 @@
     "description": null,
     "startDate": {
       "year": 2025,
-      "month": null,
-      "day": null
+      "month": 10,
+      "day": 10
     },
     "endDate": {
       "year": 2025,
-      "month": null,
-      "day": null
+      "month": 10,
+      "day": 10
     },
     "season": "FALL",
     "seasonYear": 2025,
@@ -110319,9 +110321,9 @@
     "source": "ORIGINAL",
     "hashtag": " #アイカツプリパラ",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191403-BdxxbLbPLdgE.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191403-BdxxbLbPLdgE.png",
-      "color": "#e443a1"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191403-BHyNZKR3uJHX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191403-BHyNZKR3uJHX.jpg",
+      "color": "#43c9e4"
     },
     "bannerImage": null,
     "genres": [
@@ -110379,7 +110381,24 @@
       ]
     },
     "studios": {
-      "edges": []
+      "edges": [
+        {
+          "id": 44497,
+          "isMain": true,
+          "node": {
+            "id": 6116,
+            "name": "Bandai Namco Pictures"
+          }
+        },
+        {
+          "id": 44498,
+          "isMain": false,
+          "node": {
+            "id": 6429,
+            "name": "Avex Pictures"
+          }
+        }
+      ]
     }
   },
   {
@@ -112481,7 +112500,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 84,
+    "meanScore": 85,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -112590,7 +112609,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 47,
+    "meanScore": 44,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -114430,7 +114449,7 @@
     "genres": [
       "Psychological"
     ],
-    "averageScore": 68,
+    "averageScore": 69,
     "meanScore": 78,
     "isAdult": false,
     "trailer": {
@@ -116152,7 +116171,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 55,
+    "meanScore": 56,
     "isAdult": true,
     "trailer": {
       "id": "IzPxqGtGLDE",
@@ -118423,7 +118442,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 63,
+    "meanScore": 62,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -119956,8 +119975,8 @@
       "Action",
       "Comedy"
     ],
-    "averageScore": 60,
-    "meanScore": 66,
+    "averageScore": 59,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -122458,7 +122477,7 @@
       "Romance"
     ],
     "averageScore": 52,
-    "meanScore": 58,
+    "meanScore": 57,
     "isAdult": false,
     "trailer": {
       "id": "98qNX-vLVFM",
@@ -125984,7 +126003,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 79,
+    "meanScore": 84,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -126503,7 +126522,7 @@
     },
     "type": "ANIME",
     "format": "ONA",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "Ninth season of <i>Yao Shen Ji</i>.",
     "startDate": {
       "year": 2025,
@@ -126629,7 +126648,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 75,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": {
       "id": "3KSAu5Ik2h0",
@@ -127155,7 +127174,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 10,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -127239,7 +127258,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 10,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -127307,7 +127326,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 57,
     "isAdult": false,
     "trailer": {
       "id": "lEzijOwAOOw",
@@ -127395,7 +127414,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "WBZb2KfGRUM",
@@ -127434,6 +127453,190 @@
           "node": {
             "id": 7684,
             "name": "INREALITY"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 196115,
+    "idMal": null,
+    "title": {
+      "romaji": "Golden Kamuy: Sapporo Beer Koujou-hen",
+      "english": null,
+      "native": "ゴールデンカムイ 札幌ビール工場編"
+    },
+    "type": "ANIME",
+    "format": "MOVIE",
+    "status": "NOT_YET_RELEASED",
+    "description": null,
+    "startDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 10
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 31
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": 2,
+    "duration": null,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "hashtag": "#ゴールデンカムイ",
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b196115-LSRdtIQyDRqX.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b196115-LSRdtIQyDRqX.jpg",
+      "color": "#e4bb5d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": false,
+    "trailer": {
+      "id": "OmVXY2I3xRQ",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/OmVXY2I3xRQ/hqdefault.jpg"
+    },
+    "synonyms": [],
+    "relations": {
+      "edges": [
+        {
+          "id": 112963,
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 142343,
+            "title": {
+              "romaji": "Golden Kamuy 4th Season",
+              "english": "Golden Kamuy Season 4",
+              "native": "ゴールデンカムイ 第四期"
+            },
+            "type": "ANIME",
+            "format": "TV",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx142343-o8gkjIF434qZ.jpg",
+              "color": null
+            }
+          }
+        },
+        {
+          "id": 112965,
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 166521,
+            "title": {
+              "romaji": "Golden Kamuy: Saishuushou",
+              "english": null,
+              "native": "ゴールデンカムイ 最終章"
+            },
+            "type": "ANIME",
+            "format": "TV",
+            "status": "NOT_YET_RELEASED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166521-C43c7jzYmEUw.jpg",
+              "color": "#f1785d"
+            }
+          }
+        },
+        {
+          "id": 112967,
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 86559,
+            "title": {
+              "romaji": "Golden Kamuy",
+              "english": "Golden Kamuy",
+              "native": "ゴールデンカムイ"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx86559-Y4xDmoz4ud43.jpg",
+              "color": "#f1860d"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 44499,
+          "isMain": true,
+          "node": {
+            "id": 112,
+            "name": "Brain's Base"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 196116,
+    "idMal": null,
+    "title": {
+      "romaji": "Nagachichi Nagai-san no Diet Funsen-ki",
+      "english": null,
+      "native": "ながちち永井さんのダイエット奮戦記"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "NOT_YET_RELEASED",
+    "description": "Based on the CG collection by Santa Tsuji (津路参汰).",
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": null,
+    "duration": null,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/default.jpg",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": true,
+    "trailer": null,
+    "synonyms": [],
+    "relations": {
+      "edges": []
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 44500,
+          "isMain": false,
+          "node": {
+            "id": 45,
+            "name": "Pink Pineapple"
           }
         }
       ]
