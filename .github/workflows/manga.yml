@@ -1,4 +1,4 @@
-name: Fetch Anime
+name: Fetch Manga
 
 on:
   workflow_dispatch:
