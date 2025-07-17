@@ -85,19 +85,6 @@ async function fetchJapaneseManga(page) {
                             }
                         }
                     }
-                    staff {
-                        edges {
-                            id
-                            role
-                            node {
-                                id
-                                name {
-                                    full
-                                    native
-                                }
-                            }
-                        }
-                    }
                     characters {
                         edges {
                             id
