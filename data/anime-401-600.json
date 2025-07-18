@@ -758,7 +758,7 @@
       "Romance"
     ],
     "averageScore": 67,
-    "meanScore": 69,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "OTL_4Fxwwtw",
@@ -8299,7 +8299,7 @@
       "Romance"
     ],
     "averageScore": 66,
-    "meanScore": 68,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "QUeiRyKjsmE",
@@ -8807,7 +8807,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 30,
+    "meanScore": 34,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -9657,7 +9657,7 @@
             },
             "type": "MANGA",
             "format": "MANGA",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120760-MtXvMgujLBpe.jpg",
               "color": "#e4280d"
@@ -10127,7 +10127,7 @@
     },
     "type": "ANIME",
     "format": "MOVIE",
-    "status": "NOT_YET_RELEASED",
+    "status": "FINISHED",
     "description": "<i>The All-Out War Begins.</i>\n\n<br><br>\nPart 1 of the theatrical trilogy adaptation of the Infinity Castle Arc.",
     "startDate": {
       "year": 2025,
@@ -11881,7 +11881,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 70,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -16512,7 +16512,7 @@
       "Horror",
       "Supernatural"
     ],
-    "averageScore": 62,
+    "averageScore": 61,
     "meanScore": 64,
     "isAdult": false,
     "trailer": {
@@ -22415,7 +22415,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 32,
+    "meanScore": 34,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -27042,7 +27042,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 51,
+    "meanScore": 52,
     "isAdult": false,
     "trailer": {
       "id": "C8hyaCPc-t0",
@@ -28362,7 +28362,7 @@
             },
             "type": "MANGA",
             "format": "MANGA",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120760-MtXvMgujLBpe.jpg",
               "color": "#e4280d"
@@ -28521,7 +28521,7 @@
             },
             "type": "MANGA",
             "format": "MANGA",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx120760-MtXvMgujLBpe.jpg",
               "color": "#e4280d"
@@ -29931,7 +29931,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "averageScore": 71,
+    "averageScore": 70,
     "meanScore": 73,
     "isAdult": false,
     "trailer": {
@@ -30155,7 +30155,7 @@
       "Comedy",
       "Mystery"
     ],
-    "averageScore": 67,
+    "averageScore": 66,
     "meanScore": 68,
     "isAdult": false,
     "trailer": {
@@ -31647,7 +31647,7 @@
             },
             "type": "MANGA",
             "format": "MANGA",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx141044-bBPhRIc0J88X.jpg",
               "color": "#781a50"
@@ -31822,7 +31822,7 @@
       "Romance"
     ],
     "averageScore": 59,
-    "meanScore": 66,
+    "meanScore": 65,
     "isAdult": true,
     "trailer": {
       "id": "K0fQ7nGCfV8",
@@ -32649,7 +32649,7 @@
       "Action",
       "Sports"
     ],
-    "averageScore": 62,
+    "averageScore": 63,
     "meanScore": 72,
     "isAdult": false,
     "trailer": {
@@ -34723,7 +34723,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180871-yIiseZoeUwjz.jpg",
     "genres": [],
     "averageScore": null,
-    "meanScore": 69,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "Edeugep9qqU",
@@ -35129,7 +35129,7 @@
       "Mystery"
     ],
     "averageScore": 60,
-    "meanScore": 63,
+    "meanScore": 62,
     "isAdult": false,
     "trailer": {
       "id": "6wpx2C6ujAg",
@@ -35934,7 +35934,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": {
       "id": "q0KMIU_kjRc",
@@ -52518,7 +52518,7 @@
     "idMal": 59868,
     "title": {
       "romaji": "Jibi Eopseo",
-      "english": null,
+      "english": "No Home",
       "native": "집이 없어"
     },
     "type": "ANIME",
@@ -52555,7 +52555,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "averageScore": 63,
+    "averageScore": 64,
     "meanScore": 69,
     "isAdult": false,
     "trailer": {
@@ -52651,7 +52651,7 @@
       "Sports"
     ],
     "averageScore": null,
-    "meanScore": 46,
+    "meanScore": 52,
     "isAdult": false,
     "trailer": {
       "id": "PkiydEPaiX0",
@@ -53570,8 +53570,8 @@
     "genres": [
       "Slice of Life"
     ],
-    "averageScore": 53,
-    "meanScore": 63,
+    "averageScore": 54,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -54604,7 +54604,7 @@
     "season": "SUMMER",
     "seasonYear": 2025,
     "seasonInt": 253,
-    "episodes": 11,
+    "episodes": 12,
     "duration": null,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -56198,7 +56198,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 45,
+    "meanScore": 46,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -57434,8 +57434,8 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 62,
-    "meanScore": 64,
+    "averageScore": 61,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": {
       "id": "D_KzFeuR6os",
@@ -59573,7 +59573,7 @@
       "Sports"
     ],
     "averageScore": null,
-    "meanScore": 66,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": {
       "id": "G88M88oSx6c",
@@ -60566,7 +60566,7 @@
       "Hentai"
     ],
     "averageScore": 68,
-    "meanScore": 78,
+    "meanScore": 77,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -63667,7 +63667,7 @@
       "Hentai"
     ],
     "averageScore": 53,
-    "meanScore": 61,
+    "meanScore": 62,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -64627,7 +64627,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 63,
+    "averageScore": 64,
     "meanScore": 68,
     "isAdult": true,
     "trailer": null,
@@ -64752,7 +64752,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185371-dzIjhVmmhLO3.jpg",
     "genres": [],
     "averageScore": 63,
-    "meanScore": 73,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "bxVTrX8TjrU",
@@ -65742,7 +65742,7 @@
       "Slice of Life"
     ],
     "averageScore": 67,
-    "meanScore": 69,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "U6OpyZBkYm4",
@@ -73360,7 +73360,7 @@
       "Mystery"
     ],
     "averageScore": null,
-    "meanScore": 75,
+    "meanScore": 76,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -84783,8 +84783,8 @@
       "Ecchi",
       "Romance"
     ],
-    "averageScore": 51,
-    "meanScore": 53,
+    "averageScore": 50,
+    "meanScore": 52,
     "isAdult": true,
     "trailer": {
       "id": "lWcqQNjyqkc",
@@ -84962,9 +84962,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "TPHB6cJw0ZE",
+      "id": "T2zMuUkbsJE",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/TPHB6cJw0ZE/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/T2zMuUkbsJE/hqdefault.jpg"
     },
     "synonyms": [
       "My Status as an Assassin Obviously Exceeds the Hero’s"
@@ -85625,7 +85625,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 60,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -90576,7 +90576,7 @@
     },
     "type": "ANIME",
     "format": "OVA",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "<b>Episode 1</b><br>\n<br>\n<i>Oyako to Mukaeru Asa wa ♥ - chapter 1</i><br>\nKurabe started working under his female boss, Sakino, and whenever he finished work, he would have a drinking party and have sex with Sakino. Just after she climaxed and went to sleep, Sakino's daughter, Sayana, appeared in his bedroom. Right in front of her mother, Sayana began to crave Kurabe's cock!?<br>\n<br>\n<i>Oyako to Mukaeru Asa wa ♥ - chapter 2</i><br>\nTokoroda, a teacher, comes to the home of Mai, a student who has just transferred to the school. Mai is cold at school, but at home she is like a completely different person, and actively seduces him!! It turns out that she is Mai's mother (with a very baby-like face)!! With the tiny mother and daughter Mai joining in, it's a steamy mother-daughter bowl!!<br>\n<br>\n<b>Episode 2</b><br>\n<br>\n<i>Oyako to Mukaeru Asa wa ♥ - chapter 3</i><br>\nA shut-in named Touki lives with his brother Yuuta, his brother's wife Keiko, and her daughter, Hio. Touki is curious about his brother's wife Keiko's sex life. He sets up a hidden camera in the couple's room and takes pictures of them!! However, his actions are discovered by Keiko and his niece Hio!! Hio and Keiko seduce Touki. Will Touki develop a rotten relationship with mother and daughter?<br>\n<br>\n<i>Oyako to Mukaeru Asa wa ♥ - chapter 5</i><br>\nKozue Komiyui, a classmate of Hio, was taught by Touki, who was her private tutor, when she was young. When Kozue visits Touki's house to see him, she faints from the sight she sees there, which is beyond her imagination. When she wakes up, she finds Touki, Keiko, and Hio naked having sex. Keiko forces her to make a choice, and she makes up her mind and throws herself into the group.<br>\n<br>\n(Source: Mediabank, translated and edited)",
     "startDate": {
       "year": 2025,
@@ -90606,7 +90606,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 55,
+    "meanScore": 57,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -94292,8 +94292,8 @@
       "Mahou Shoujo",
       "Supernatural"
     ],
-    "averageScore": null,
-    "meanScore": 45,
+    "averageScore": 44,
+    "meanScore": 47,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -95027,7 +95027,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 47,
+    "meanScore": 46,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -97588,7 +97588,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 57,
+    "meanScore": 58,
     "isAdult": false,
     "trailer": {
       "id": "L5AiuCQE-BY",
@@ -97903,7 +97903,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 63,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -103523,7 +103523,7 @@
       "Sci-Fi"
     ],
     "averageScore": 66,
-    "meanScore": 70,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "dSc27JPm3r8",
@@ -104116,7 +104116,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "averageScore": 80,
+    "averageScore": 79,
     "meanScore": 81,
     "isAdult": false,
     "trailer": {
@@ -105089,7 +105089,7 @@
       "Supernatural"
     ],
     "averageScore": 73,
-    "meanScore": 76,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": {
       "id": "sqXtNTTOhbw",
@@ -112204,7 +112204,7 @@
     },
     "type": "ANIME",
     "format": "ONA",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": null,
     "startDate": {
       "year": 2025,
@@ -112731,7 +112731,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 70,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "tcRB5UZ81zQ",
@@ -113461,8 +113461,8 @@
     "genres": [
       "Sci-Fi"
     ],
-    "averageScore": 44,
-    "meanScore": 45,
+    "averageScore": 43,
+    "meanScore": 44,
     "isAdult": false,
     "trailer": {
       "id": "Ix6oxwuc-rw",
@@ -114084,8 +114084,8 @@
       "Drama",
       "Supernatural"
     ],
-    "averageScore": 76,
-    "meanScore": 84,
+    "averageScore": 78,
+    "meanScore": 85,
     "isAdult": false,
     "trailer": {
       "id": "X1ZWOFHHfW4",
@@ -114218,7 +114218,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 75,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -116640,7 +116640,7 @@
     },
     "type": "ANIME",
     "format": "MOVIE",
-    "status": "NOT_YET_RELEASED",
+    "status": "FINISHED",
     "description": "Tooi, an ordinary high school girl, was expecting a normal school life—until everything changed on her very first day.\n<br><br>\nAfter catching the attention of the unpredictable and overly energetic classmate Jel, she's suddenly roped into the mysterious \"Youth Romance Club,\" a bizarre school group dedicated to chasing down anything that feels \"youthful\" or \"romantic.\"\n<br><br>\nWhat should've been a carefree club quickly spirals into chaotic antics, with Tooi constantly playing the straight man to everyone's nonsense. To make things even wilder, the club's antics start getting streamed online!\n<br><br>\nBetween laughter, unexpected twists, and even a mysterious incident, this unpredictable school life is just getting started.",
     "startDate": {
       "year": 2025,
@@ -117218,7 +117218,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193809-uTD4FjR8FdZx.jpg",
     "genres": [],
     "averageScore": null,
-    "meanScore": 68,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "yujyud8TwFI",
@@ -117310,7 +117310,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 64,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "ySxyfL5-Wjw",
@@ -117624,7 +117624,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193906-SXTGF2i8ky73.jpg",
     "genres": [],
     "averageScore": null,
-    "meanScore": 66,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "YSWVvpzKxLQ",
@@ -117724,7 +117724,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193907-ZWzj50I1zJlX.jpg",
     "genres": [],
     "averageScore": null,
-    "meanScore": 68,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "9hn3kWDafiQ",
@@ -120468,7 +120468,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 69,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "7gGdTXmQMgE",
@@ -122245,7 +122245,7 @@
             },
             "type": "ANIME",
             "format": "MOVIE",
-            "status": "NOT_YET_RELEASED",
+            "status": "FINISHED",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx178788-YGZc0lb7DNoe.jpg",
               "color": "#1a86e4"
@@ -124402,8 +124402,8 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "averageScore": 61,
-    "meanScore": 71,
+    "averageScore": 62,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "qidzapjAMVc",
@@ -126555,7 +126555,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 10,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -126648,7 +126648,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 77,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "3KSAu5Ik2h0",
@@ -127174,7 +127174,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 10,
+    "meanScore": 30,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -127326,7 +127326,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 57,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": {
       "id": "lEzijOwAOOw",
@@ -127414,7 +127414,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 70,
+    "meanScore": 76,
     "isAdult": false,
     "trailer": {
       "id": "WBZb2KfGRUM",
@@ -127625,7 +127625,9 @@
     "meanScore": null,
     "isAdult": true,
     "trailer": null,
-    "synonyms": [],
+    "synonyms": [
+      "Nagachichi Nagai-san Diet Struggle Day"
+    ],
     "relations": {
       "edges": []
     },
@@ -127637,6 +127639,100 @@
           "node": {
             "id": 45,
             "name": "Pink Pineapple"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 196144,
+    "idMal": 62068,
+    "title": {
+      "romaji": "Snowball Earth",
+      "english": null,
+      "native": "スノウボールアース"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "\"Yukio... I'm going to make a friend.\" A shy boy named Tetsuo. The only thing he had was a giant robot named Yukio. They became \"saviors\" in the fight against the galactic monsters coming from outer space. After the final battle, Tetsuo returns to Earth for the first time in ten years and witnesses an astonishing world. It's a frozen Earth (named Snowball Earth), where the entire land is covered in snow and ice, being turned into a deadly world! What happened to the human race? And will Tetsuo be able to fulfill the promise he made to Yukio?<br><br>\n(Source: Shogakukan, translated)",
+    "startDate": {
+      "year": 2026,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": null,
+    "duration": null,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "hashtag": "#スノウボールアース #snowballearth",
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196144-r8jZKamaHHC5.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196144-r8jZKamaHHC5.png",
+      "color": "#355dbb"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Mecha",
+      "Sci-Fi"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": false,
+    "trailer": {
+      "id": "3tw9o0fFrCM",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/3tw9o0fFrCM/hqdefault.jpg"
+    },
+    "synonyms": [],
+    "relations": {
+      "edges": [
+        {
+          "id": 112973,
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 136063,
+            "title": {
+              "romaji": "Snowball Earth",
+              "english": "Snowball Earth",
+              "native": "スノウボールアース"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "RELEASING",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx136063-KpzkWqydc0N4.jpg",
+              "color": "#50bbe4"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 44511,
+          "isMain": false,
+          "node": {
+            "id": 245,
+            "name": "Toho"
+          }
+        },
+        {
+          "id": 44512,
+          "isMain": true,
+          "node": {
+            "id": 6312,
+            "name": "Studio KAI"
           }
         }
       ]
