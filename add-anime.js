@@ -26,6 +26,16 @@ async function fetchJapaneseAnime(page) {
                     Page(page: $page, perPage: $perPage) {
                         media(type: ANIME, sort: ID) {
                             id
+                            tags {
+                                id
+                                name
+                                description
+                                category
+                                rank
+                                isGeneralSpoiler
+                                isMediaSpoiler
+                                isAdult
+                            }
                             characters {
                                 edges {
                                     id
@@ -50,6 +60,42 @@ async function fetchJapaneseAnime(page) {
                                             alternative
                                         }
                                         image {
+                                            large
+                                        }
+                                    }
+                                }
+                            }
+                            staff {
+                                edges {
+                                    id
+                                    role
+                                    node {
+                                        id
+                                        name {
+                                            full
+                                            native
+                                            alternative
+                                        }
+                                        image {
+                                            large
+                                        }
+                                    }
+                                }
+                            }
+                            recommendations {
+                                nodes {
+                                    id
+                                    rating
+                                    userRating
+                                    mediaRecommendation {
+                                        id
+                                        title {
+                                            romaji
+                                            english
+                                            native
+                                            userPreferred
+                                        }
+                                        coverImage {
                                             large
                                         }
                                     }
