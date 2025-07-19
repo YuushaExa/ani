@@ -12847,9 +12847,11 @@
           "node": {
             "id": 721,
             "name": {
-              "full": "Heinrich Lunge",
+              "full": "Heinrich Runge",
               "native": "ハインリッヒ・ルンゲ",
-              "alternative": []
+              "alternative": [
+                "Heinrich Lunge"
+              ]
             },
             "image": {
               "large": "https://s4.anilist.co/file/anilistcdn/character/large/b721-VSOxZHBedxtD.png"
