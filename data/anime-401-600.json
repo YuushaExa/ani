@@ -8298,8 +8298,8 @@
       "Comedy",
       "Romance"
     ],
-    "averageScore": 66,
-    "meanScore": 68,
+    "averageScore": 65,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "QUeiRyKjsmE",
@@ -15645,7 +15645,7 @@
       "Hentai"
     ],
     "averageScore": 71,
-    "meanScore": 75,
+    "meanScore": 76,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -16384,7 +16384,7 @@
       "Hentai"
     ],
     "averageScore": 56,
-    "meanScore": 59,
+    "meanScore": 60,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -23498,7 +23498,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 66,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "UWWiu2TMKJ4",
@@ -28506,7 +28506,9 @@
       "site": "youtube",
       "thumbnail": "https://i.ytimg.com/vi/eBivqKyjiqA/hqdefault.jpg"
     },
-    "synonyms": [],
+    "synonyms": [
+      "Kaiju No. 8: A Folga de Hoshina"
+    ],
     "relations": {
       "edges": [
         {
@@ -29086,7 +29088,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 50,
+    "meanScore": 58,
     "isAdult": false,
     "trailer": {
       "id": "6JyMnxSdbXg",
@@ -29931,8 +29933,8 @@
       "Comedy",
       "Slice of Life"
     ],
-    "averageScore": 70,
-    "meanScore": 72,
+    "averageScore": 71,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "i-dy1huj7-E",
@@ -30155,7 +30157,7 @@
       "Comedy",
       "Mystery"
     ],
-    "averageScore": 66,
+    "averageScore": 67,
     "meanScore": 68,
     "isAdult": false,
     "trailer": {
@@ -31186,8 +31188,8 @@
       "Action",
       "Fantasy"
     ],
-    "averageScore": 56,
-    "meanScore": 69,
+    "averageScore": 57,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "G9nHP6aRsjE",
@@ -32650,7 +32652,7 @@
       "Sports"
     ],
     "averageScore": 64,
-    "meanScore": 72,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "-119oCbVCB8",
@@ -34489,7 +34491,7 @@
       "Sports"
     ],
     "averageScore": null,
-    "meanScore": 50,
+    "meanScore": 51,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -36388,7 +36390,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 40,
+    "meanScore": 39,
     "isAdult": false,
     "trailer": {
       "id": "dOo3R-mCOZY",
@@ -36665,7 +36667,7 @@
       "Psychological",
       "Slice of Life"
     ],
-    "averageScore": 80,
+    "averageScore": 81,
     "meanScore": 81,
     "isAdult": false,
     "trailer": {
@@ -39803,7 +39805,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "averageScore": 71,
+    "averageScore": 72,
     "meanScore": 82,
     "isAdult": false,
     "trailer": {
@@ -43009,7 +43011,7 @@
       "Music"
     ],
     "averageScore": null,
-    "meanScore": 75,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": {
       "id": "nkbxYlYm8jo",
@@ -47569,7 +47571,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 66,
+    "averageScore": 67,
     "meanScore": 72,
     "isAdult": false,
     "trailer": {
@@ -49692,7 +49694,7 @@
       "Music"
     ],
     "averageScore": 62,
-    "meanScore": 70,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -54024,7 +54026,7 @@
       "Drama"
     ],
     "averageScore": 60,
-    "meanScore": 63,
+    "meanScore": 62,
     "isAdult": false,
     "trailer": {
       "id": "zfthL1m2GFg",
@@ -60873,7 +60875,7 @@
       "Romance"
     ],
     "averageScore": 62,
-    "meanScore": 69,
+    "meanScore": 70,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -62229,7 +62231,7 @@
       "Hentai"
     ],
     "averageScore": 67,
-    "meanScore": 77,
+    "meanScore": 78,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -62786,7 +62788,7 @@
       "Action"
     ],
     "averageScore": null,
-    "meanScore": 68,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "75FM2FMKXek",
@@ -66939,8 +66941,8 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185576-mrRcekCboeNh.jpg",
     "genres": [],
-    "averageScore": 58,
-    "meanScore": 72,
+    "averageScore": 59,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "r-kkCrVZUzc",
@@ -67517,7 +67519,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 41,
+    "meanScore": 37,
     "isAdult": false,
     "trailer": {
       "id": "ccRN_gNsc_c",
@@ -68610,7 +68612,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 45,
+    "meanScore": 40,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -69300,7 +69302,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "averageScore": 53,
+    "averageScore": 54,
     "meanScore": 65,
     "isAdult": false,
     "trailer": {
@@ -71545,7 +71547,7 @@
       "Slice of Life"
     ],
     "averageScore": 60,
-    "meanScore": 67,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "1jbtsWH_oro",
@@ -74922,7 +74924,7 @@
       "Fantasy"
     ],
     "averageScore": 64,
-    "meanScore": 86,
+    "meanScore": 87,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -77139,8 +77141,8 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185940-uFgZI3OPjDGA.jpg",
     "genres": [],
-    "averageScore": 56,
-    "meanScore": 67,
+    "averageScore": 57,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "OK0wyh5tQ90",
@@ -77248,7 +77250,7 @@
       "Slice of Life"
     ],
     "averageScore": 62,
-    "meanScore": 64,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": {
       "id": "0c64HTxW_5I",
@@ -77917,7 +77919,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "averageScore": 60,
+    "averageScore": 61,
     "meanScore": 64,
     "isAdult": false,
     "trailer": {
@@ -81807,7 +81809,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 10,
+    "meanScore": 40,
     "isAdult": false,
     "trailer": {
       "id": "https://youtu.be/vVzcYRIH8g4",
@@ -82308,7 +82310,7 @@
       "Action"
     ],
     "averageScore": 72,
-    "meanScore": 83,
+    "meanScore": 84,
     "isAdult": false,
     "trailer": {
       "id": "vWfsu3_cZn4",
@@ -90686,7 +90688,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 56,
+    "meanScore": 59,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -98889,7 +98891,7 @@
             },
             "type": "ANIME",
             "format": "TV_SHORT",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188884-pmEMLEcpTovv.png",
               "color": "#e4c993"
@@ -102614,7 +102616,7 @@
     },
     "type": "ANIME",
     "format": "TV_SHORT",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": null,
     "startDate": {
       "year": 2025,
@@ -102622,14 +102624,14 @@
       "day": 4
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 6,
+      "day": 27
     },
     "season": "SPRING",
     "seasonYear": 2025,
     "seasonInt": 252,
-    "episodes": null,
+    "episodes": 13,
     "duration": 1,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -103691,7 +103693,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "averageScore": 62,
+    "averageScore": 63,
     "meanScore": 69,
     "isAdult": false,
     "trailer": {
@@ -104197,7 +104199,7 @@
       "Sci-Fi"
     ],
     "averageScore": 79,
-    "meanScore": 81,
+    "meanScore": 80,
     "isAdult": false,
     "trailer": {
       "id": "qbthdPHU8FQ",
@@ -112811,7 +112813,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 70,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "tcRB5UZ81zQ",
@@ -114164,7 +114166,7 @@
       "Drama",
       "Supernatural"
     ],
-    "averageScore": 79,
+    "averageScore": 80,
     "meanScore": 85,
     "isAdult": false,
     "trailer": {
@@ -114465,7 +114467,7 @@
     "genres": [
       "Fantasy"
     ],
-    "averageScore": 55,
+    "averageScore": 56,
     "meanScore": 68,
     "isAdult": false,
     "trailer": {
@@ -114743,7 +114745,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 49,
+    "meanScore": 48,
     "isAdult": false,
     "trailer": {
       "id": "gO14Cp6_f38",
@@ -116251,7 +116253,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 56,
+    "meanScore": 55,
     "isAdult": true,
     "trailer": {
       "id": "IzPxqGtGLDE",
@@ -117225,7 +117227,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193730-9O1yo7mBRzMV.jpg",
     "genres": [],
     "averageScore": 60,
-    "meanScore": 73,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": {
       "id": "gq0C6-Qu1eQ",
@@ -119703,18 +119705,18 @@
     "status": "NOT_YET_RELEASED",
     "description": null,
     "startDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 10,
+      "day": 17
     },
     "endDate": {
       "year": null,
       "month": null,
       "day": null
     },
-    "season": null,
-    "seasonYear": null,
-    "seasonInt": null,
+    "season": "FALL",
+    "seasonYear": 2025,
+    "seasonInt": 254,
     "episodes": null,
     "duration": null,
     "countryOfOrigin": "JP",
@@ -120074,7 +120076,7 @@
       "Action",
       "Comedy"
     ],
-    "averageScore": 59,
+    "averageScore": 60,
     "meanScore": 65,
     "isAdult": false,
     "trailer": null,
@@ -121329,7 +121331,7 @@
       "Psychological"
     ],
     "averageScore": null,
-    "meanScore": 68,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "aEKyYTL8ptI",
@@ -122576,7 +122578,7 @@
       "Romance"
     ],
     "averageScore": 53,
-    "meanScore": 58,
+    "meanScore": 57,
     "isAdult": false,
     "trailer": {
       "id": "98qNX-vLVFM",
@@ -123904,7 +123906,7 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195457-b3ItZ3qppFv8.jpg",
     "genres": [],
-    "averageScore": 75,
+    "averageScore": 76,
     "meanScore": 83,
     "isAdult": false,
     "trailer": {
@@ -124079,7 +124081,7 @@
     "idMal": 61984,
     "title": {
       "romaji": "bâan: Otona no Kyoukai",
-      "english": "bâan: The Boundaries of Adulthood",
+      "english": "bâan: The Boundary of Adulthood",
       "native": "bâan -大人の彊界-"
     },
     "type": "ANIME",
@@ -125722,7 +125724,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 61,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -125794,7 +125796,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 82,
+    "meanScore": 81,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -125922,7 +125924,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 75,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -126379,7 +126381,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 49,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -126654,7 +126656,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 69,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -128437,7 +128439,7 @@
     },
     "bannerImage": null,
     "genres": [],
-    "averageScore": 56,
+    "averageScore": 57,
     "meanScore": 64,
     "isAdult": false,
     "trailer": {
@@ -129711,7 +129713,7 @@
       "Music"
     ],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 57,
     "isAdult": false,
     "trailer": {
       "id": "pAoiV8loK2U",
@@ -129774,7 +129776,7 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196283-4nVxXIXljNNq.jpg",
     "genres": [],
-    "averageScore": null,
+    "averageScore": 57,
     "meanScore": 71,
     "isAdult": false,
     "trailer": {
@@ -129879,7 +129881,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 46,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -130033,6 +130035,102 @@
           "node": {
             "id": 119,
             "name": "Viz Media"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 196356,
+    "idMal": 62102,
+    "title": {
+      "romaji": "Ibitte Konai Gibo to Gishi",
+      "english": null,
+      "native": "いびってこない義母と義姉"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "Miya is the illegitimate child of a prominent family. When her mother dies and her father’s estate agrees to take her in, she’s convinced she knows what awaits her in her new home: a life of servitude and misery at the hands of her wicked stepmother and stepsisters. Yet when she finally meets the women she expects to treat her like dirt, they actually end up being…sweet?! A hilarious and heartfelt comedy that’s sure to put a smile on your face!\n<br><br>\n(Source: Seven Seas Entertainment)",
+    "startDate": {
+      "year": 2026,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": null,
+    "duration": null,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196356-DDz8OsxYvaFz.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196356-DDz8OsxYvaFz.png",
+      "color": "#e4c9a1"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": false,
+    "trailer": {
+      "id": "gqJXnwB1qBc",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/gqJXnwB1qBc/hqdefault.jpg"
+    },
+    "synonyms": [
+      "My Stepmother and Stepsisters Aren’t Wicked",
+      "My mother-in-law and sister-in-law who don't bully me."
+    ],
+    "relations": {
+      "edges": [
+        {
+          "id": 113135,
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 137202,
+            "title": {
+              "romaji": "Ibitte Konai Gibo to Gishi",
+              "english": "My Stepmother and Stepsisters Aren’t Wicked",
+              "native": "いびってこない義母と義姉"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "RELEASING",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx137202-Iadogp5oZrMS.jpg",
+              "color": "#f1ae93"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 44562,
+          "isMain": true,
+          "node": {
+            "id": 7683,
+            "name": "NEWON"
+          }
+        },
+        {
+          "id": 44563,
+          "isMain": false,
+          "node": {
+            "id": 31,
+            "name": "NBCUniversal Entertainment Japan"
           }
         }
       ]
