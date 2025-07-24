@@ -15513,7 +15513,7 @@
       "Comedy",
       "Romance"
     ],
-    "averageScore": 60,
+    "averageScore": 59,
     "meanScore": 60,
     "isAdult": false,
     "trailer": {
@@ -22945,7 +22945,7 @@
       "Hentai"
     ],
     "averageScore": 69,
-    "meanScore": 71,
+    "meanScore": 72,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -25788,7 +25788,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 62,
+    "averageScore": 61,
     "meanScore": 63,
     "isAdult": false,
     "trailer": {
@@ -28211,7 +28211,7 @@
     "description": "Marie, a former martial artist, has a new job as the personal maid of Arthur, the heir to a large conglomerate. However, Arthur is ruthless and hates people of the highest order, so Marie has to pretend to be a robot to work for him! If it is discovered that she is human, she will be executed immediately, but Arthur is extremely kind to inorganic objects and... unexpectedly goes into a doting route!<br><br>\n\nDoting or death? The strongest romantic comedy that will make you laugh and make your heart thumping.<br><br>\n\n(Source: Crunchyroll News) ",
     "startDate": {
       "year": 2025,
-      "month": null,
+      "month": 10,
       "day": null
     },
     "endDate": {
@@ -28243,9 +28243,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "lFyvbZHVQK4",
+      "id": "ai2lFZTq9d0",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/lFyvbZHVQK4/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/ai2lFZTq9d0/hqdefault.jpg"
     },
     "synonyms": [
       "Mechanical Marie",
@@ -28290,6 +28290,14 @@
           "node": {
             "id": 7225,
             "name": "Liber"
+          }
+        },
+        {
+          "id": 44565,
+          "isMain": false,
+          "node": {
+            "id": 76,
+            "name": "Yomiuri TV"
           }
         }
       ]
@@ -28940,7 +28948,7 @@
     "idMal": 59517,
     "title": {
       "romaji": "Chitose-kun wa Ramune Bin no Naka",
-      "english": null,
+      "english": "Chitose Is in the Ramune Bottle",
       "native": "千歳くんはラムネ瓶のなか"
     },
     "type": "ANIME",
@@ -28984,7 +28992,6 @@
       "thumbnail": "https://i.ytimg.com/vi/1FUDGYAieuM/hqdefault.jpg"
     },
     "synonyms": [
-      "Chitose Is in the Ramune Bottle",
       "Ramune no Bin ni Shizunda Biidama no Tsuki",
       "ラムネの瓶に沈んだビー玉の月",
       "Chiramune",
@@ -29928,7 +29935,7 @@
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180425-e5yNWog1hDuu.jpg",
       "color": "#bbe4f1"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180425-l3CldufhygVc.jpg",
     "genres": [
       "Comedy",
       "Slice of Life"
@@ -30067,7 +30074,11 @@
     "averageScore": null,
     "meanScore": null,
     "isAdult": false,
-    "trailer": null,
+    "trailer": {
+      "id": "QqLA-04V_uw",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/QqLA-04V_uw/hqdefault.jpg"
+    },
     "synonyms": [
       "Wonda",
       "One Dance",
@@ -30113,6 +30124,14 @@
             "id": 6734,
             "name": "Cyclone Graphics"
           }
+        },
+        {
+          "id": 44564,
+          "isMain": false,
+          "node": {
+            "id": 517,
+            "name": "Asmik Ace"
+          }
         }
       ]
     }
@@ -30157,7 +30176,7 @@
       "Comedy",
       "Mystery"
     ],
-    "averageScore": 67,
+    "averageScore": 66,
     "meanScore": 68,
     "isAdult": false,
     "trailer": {
@@ -32039,7 +32058,7 @@
       "Romance"
     ],
     "averageScore": 65,
-    "meanScore": 67,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": {
       "id": "QOVabX4iYYY",
@@ -32652,7 +32671,7 @@
       "Sports"
     ],
     "averageScore": 64,
-    "meanScore": 73,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "-119oCbVCB8",
@@ -37111,7 +37130,7 @@
       "Sci-Fi"
     ],
     "averageScore": 56,
-    "meanScore": 60,
+    "meanScore": 61,
     "isAdult": false,
     "trailer": {
       "id": "DawicVkrMzw",
@@ -39911,7 +39930,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "averageScore": 77,
+    "averageScore": 76,
     "meanScore": 78,
     "isAdult": false,
     "trailer": {
@@ -40455,7 +40474,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 10,
+    "meanScore": 35,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -43412,7 +43431,7 @@
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182309-tThxqSRn3At1.jpg",
       "color": "#0da1fe"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/182309-kvcHexJjshIV.jpg",
     "genres": [
       "Comedy",
       "Slice of Life",
@@ -48467,7 +48486,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 66,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -52513,7 +52532,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 51,
+    "averageScore": 52,
     "meanScore": 55,
     "isAdult": true,
     "trailer": null,
@@ -55145,7 +55164,7 @@
       "Romance"
     ],
     "averageScore": 62,
-    "meanScore": 68,
+    "meanScore": 67,
     "isAdult": true,
     "trailer": {
       "id": "Vd-HFj5yzTE",
@@ -57344,8 +57363,8 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "averageScore": 58,
-    "meanScore": 60,
+    "averageScore": 57,
+    "meanScore": 59,
     "isAdult": false,
     "trailer": {
       "id": "Vomd4o9lNXU",
@@ -61817,7 +61836,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 48,
+    "meanScore": 49,
     "isAdult": false,
     "trailer": {
       "id": "XKjBH-q6WTg",
@@ -62230,7 +62249,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 67,
+    "averageScore": 68,
     "meanScore": 78,
     "isAdult": true,
     "trailer": null,
@@ -65357,7 +65376,7 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185505-aiHnezTm9aqt.jpg",
     "genres": [],
-    "averageScore": 50,
+    "averageScore": 49,
     "meanScore": 51,
     "isAdult": false,
     "trailer": {
@@ -67917,7 +67936,7 @@
       "Slice of Life"
     ],
     "averageScore": 64,
-    "meanScore": 70,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "L4wurjkd0JM",
@@ -71255,7 +71274,7 @@
       "Fantasy"
     ],
     "averageScore": 66,
-    "meanScore": 80,
+    "meanScore": 79,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -71515,7 +71534,7 @@
     "type": "ANIME",
     "format": "TV",
     "status": "RELEASING",
-    "description": "The second season of <i>Puniru wa Kawaii Slime</i>.",
+    "description": "The second season of <i>Puniru wa Kawaii Slime</i>.<br><br>\n\nAfter years of friendship with the slime girl, Puniru goes missing in the middle of training to become cuter. Meanwhile middle schooler Kotarou struggles to deal with her shape-shifting charms — and his feelings. Later, Kotarou receives an unexpected, leaky package..<br><br>\n\n(Source: Crunchyroll, Netflix, edited)",
     "startDate": {
       "year": 2025,
       "month": 7,
@@ -71533,20 +71552,20 @@
     "duration": 24,
     "countryOfOrigin": "JP",
     "source": "MANGA",
-    "hashtag": "#ぷにるはかわいいスライム #ぷにる #ぷにかわ #ぷにる2期",
+    "hashtag": "#ぷにるはかわいいスライム #ぷにる #ぷにかわ",
     "coverImage": {
       "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185755-xMle6RCAPwA6.png",
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185755-xMle6RCAPwA6.png",
       "color": "#5dc9f1"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185755-moB5bSDuJNm7.jpg",
     "genres": [
       "Comedy",
       "Fantasy",
       "Romance",
       "Slice of Life"
     ],
-    "averageScore": 60,
+    "averageScore": 61,
     "meanScore": 68,
     "isAdult": false,
     "trailer": {
@@ -71555,7 +71574,9 @@
       "thumbnail": "https://i.ytimg.com/vi/1jbtsWH_oro/hqdefault.jpg"
     },
     "synonyms": [
-      "Puniru is a Cute Slime Season 2"
+      "Puniru is a Cute Slime Season 2",
+      "ぷにかわ 2",
+      "PuniKawa 2"
     ],
     "relations": {
       "edges": [
@@ -77249,7 +77270,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "averageScore": 62,
+    "averageScore": 61,
     "meanScore": 63,
     "isAdult": false,
     "trailer": {
@@ -78506,7 +78527,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 64,
+    "meanScore": 63,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -80869,7 +80890,7 @@
       "Music"
     ],
     "averageScore": null,
-    "meanScore": 73,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": {
       "id": "BYU0nLyMJ_E",
@@ -81465,7 +81486,7 @@
     "description": "Luna Ishikawa is a dark and mysterious vampire—or so she'd like her new classmates to believe. The truth is, while she may be one of the not-so-mythical bloodsuckers, she doesn't really live up to the hype. She's short and clumsy, and she can't even suck blood properly! So when her classmate Tatsuta Ootori discovers her little “drinking problem,” he can't help but lend a hand. Can he nurse Luna from the small, timid animal she is into a fearsome creature of the night?!\n<br><br>\n(Source: Yen Press)",
     "startDate": {
       "year": 2025,
-      "month": null,
+      "month": 10,
       "day": null
     },
     "endDate": {
@@ -81473,9 +81494,9 @@
       "month": null,
       "day": null
     },
-    "season": null,
-    "seasonYear": null,
-    "seasonInt": null,
+    "season": "FALL",
+    "seasonYear": 2025,
+    "seasonInt": 254,
     "episodes": null,
     "duration": null,
     "countryOfOrigin": "JP",
@@ -81496,9 +81517,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "XLnzZFwcp9M",
+      "id": "IQYLQsqO6Vw",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/XLnzZFwcp9M/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/IQYLQsqO6Vw/hqdefault.jpg"
     },
     "synonyms": [
       "Vampire-chan Can't Suck Properly"
@@ -82007,7 +82028,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "averageScore": 60,
+    "averageScore": 61,
     "meanScore": 62,
     "isAdult": false,
     "trailer": {
@@ -84458,7 +84479,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 61,
+    "meanScore": 60,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -86285,7 +86306,7 @@
       "Fantasy"
     ],
     "averageScore": 79,
-    "meanScore": 86,
+    "meanScore": 85,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -92675,9 +92696,9 @@
     "source": "LIGHT_NOVEL",
     "hashtag": null,
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187663-Cp0sbCcV183d.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187663-Cp0sbCcV183d.jpg",
-      "color": "#4393e4"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187663-cP1vtkFc4Idp.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187663-cP1vtkFc4Idp.png",
+      "color": "#43a1e4"
     },
     "bannerImage": null,
     "genres": [
@@ -92689,7 +92710,11 @@
     "averageScore": null,
     "meanScore": null,
     "isAdult": false,
-    "trailer": null,
+    "trailer": {
+      "id": "hHwaVf9L72Q",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/hHwaVf9L72Q/hqdefault.jpg"
+    },
     "synonyms": [
       "A Gatherer's Adventure in Isekai",
       "Material Collector's Another World Travels"
@@ -102115,7 +102140,7 @@
       "Mecha"
     ],
     "averageScore": null,
-    "meanScore": 10,
+    "meanScore": 35,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -107736,7 +107761,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 55,
+    "meanScore": 53,
     "isAdult": false,
     "trailer": {
       "id": "DCHBlLf3kxg",
@@ -110896,8 +110921,8 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 53,
-    "meanScore": 59,
+    "averageScore": 54,
+    "meanScore": 60,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -112813,7 +112838,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 71,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "tcRB5UZ81zQ",
@@ -113543,7 +113568,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "averageScore": 43,
+    "averageScore": 44,
     "meanScore": 44,
     "isAdult": false,
     "trailer": {
@@ -114224,9 +114249,9 @@
           "node": {
             "id": 192810,
             "title": {
-              "romaji": "Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo",
+              "romaji": "Juju Sanpo: Gekijouban",
               "english": null,
-              "native": "劇場版総集編 呪術廻戦 懐玉・玉折 劇場版じゅじゅさんぽ"
+              "native": "じゅじゅさんぽ 劇場版"
             },
             "type": "ANIME",
             "format": "SPECIAL",
@@ -114264,14 +114289,14 @@
     "id": 192810,
     "idMal": null,
     "title": {
-      "romaji": "Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo",
+      "romaji": "Juju Sanpo: Gekijouban",
       "english": null,
-      "native": "劇場版総集編 呪術廻戦 懐玉・玉折 劇場版じゅじゅさんぽ"
+      "native": "じゅじゅさんぽ 劇場版"
     },
     "type": "ANIME",
     "format": "SPECIAL",
     "status": "FINISHED",
-    "description": "A new mini anime short that screens alongside the <i>Jujutsu Kaisen: Kaigyoku・Gyokusetsu</i> compilation film.",
+    "description": "An anime short that screens alongside the <i>Jujutsu Kaisen: Kaigyoku・Gyokusetsu</i> compilation film, before it begins. Gojo, Geto, and Shoko have a little chat before their film starts in the theater.",
     "startDate": {
       "year": 2025,
       "month": 5,
@@ -114300,11 +114325,12 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 76,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
-      "JUJUTSU KAISEN: Hidden Inventory / Premature Death - Juju Stroll"
+      "JUJUTSU KAISEN: Hidden Inventory / Premature Death - Juju Stroll",
+      "劇場版総集編 呪術廻戦 懐玉・玉折 劇場版じゅじゅさんぽ"
     ],
     "relations": {
       "edges": [
@@ -116252,7 +116278,7 @@
       "Hentai",
       "Romance"
     ],
-    "averageScore": null,
+    "averageScore": 48,
     "meanScore": 55,
     "isAdult": true,
     "trailer": {
@@ -117226,7 +117252,7 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193730-9O1yo7mBRzMV.jpg",
     "genres": [],
-    "averageScore": 60,
+    "averageScore": 61,
     "meanScore": 74,
     "isAdult": false,
     "trailer": {
@@ -120077,7 +120103,7 @@
       "Comedy"
     ],
     "averageScore": 60,
-    "meanScore": 65,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -124596,7 +124622,7 @@
     "trailer": null,
     "synonyms": [
       "The Villainess Is Being Doted on by the Crown Prince of the Neighboring Country",
-      "The illainess Adored by the Prince of the Neighhor Kingdom"
+      "The Villainess Adored by the Prince of the Neighbor Kingdom"
     ],
     "relations": {
       "edges": [
@@ -129713,7 +129739,7 @@
       "Music"
     ],
     "averageScore": null,
-    "meanScore": 57,
+    "meanScore": 58,
     "isAdult": false,
     "trailer": {
       "id": "pAoiV8loK2U",
@@ -129776,8 +129802,8 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196283-4nVxXIXljNNq.jpg",
     "genres": [],
-    "averageScore": 57,
-    "meanScore": 71,
+    "averageScore": 56,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "VXUbEH0DvSM",
@@ -129881,7 +129907,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 46,
+    "meanScore": 50,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -130134,6 +130160,75 @@
           }
         }
       ]
+    }
+  },
+  {
+    "id": 196402,
+    "idMal": null,
+    "title": {
+      "romaji": "LOLLIPOP CHAINSAW Shin Project",
+      "english": null,
+      "native": "ロリポップチェーンソー 新作プロジェクト"
+    },
+    "type": "ANIME",
+    "format": null,
+    "status": "NOT_YET_RELEASED",
+    "description": "A brand-new game and anime project in the works! The pop and cute Juliet returns in this over-the-top zombie action game packed with dark humor!<br><br>\n(Source: Twitter)",
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": null,
+    "duration": null,
+    "countryOfOrigin": "JP",
+    "source": "VIDEO_GAME",
+    "hashtag": " #ロリポップチェーンソー",
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196402-gtuL8QO8le4S.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196402-gtuL8QO8le4S.png",
+      "color": "#ffc91a"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": false,
+    "trailer": null,
+    "synonyms": [],
+    "relations": {
+      "edges": [
+        {
+          "id": 113151,
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 160819,
+            "title": {
+              "romaji": "Lollipop Chainsaw",
+              "english": null,
+              "native": "ロリポップチェーンソー"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx160819-JyGCDlHb5dkc.png",
+              "color": "#e4bb5d"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": []
     }
   }
 ]
