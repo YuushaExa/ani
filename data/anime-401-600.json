@@ -10071,7 +10071,7 @@
       "Slice of Life"
     ],
     "averageScore": 61,
-    "meanScore": 77,
+    "meanScore": 76,
     "isAdult": false,
     "trailer": {
       "id": "uNOo7eWH_e8",
@@ -15741,7 +15741,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 55,
+    "meanScore": 54,
     "isAdult": false,
     "trailer": {
       "id": "V3hJ_l-Zcw0",
@@ -22945,7 +22945,7 @@
       "Hentai"
     ],
     "averageScore": 69,
-    "meanScore": 72,
+    "meanScore": 71,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -24187,7 +24187,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 15,
+    "meanScore": 26,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -29131,7 +29131,7 @@
     "id": 180136,
     "idMal": 59741,
     "title": {
-      "romaji": "Tsuihou Sareta Tensei Juukishi wa Game Sashiki de Musou Suru",
+      "romaji": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
       "english": null,
       "native": "追放された転生重騎士はゲーム知識で無双する"
     },
@@ -29187,7 +29187,7 @@
           "node": {
             "id": 150194,
             "title": {
-              "romaji": "Tsuihou Sareta Tensei Juukishi wa Game Sashiki de Musou Suru",
+              "romaji": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
               "english": null,
               "native": "追放された転生重騎士はゲーム知識で無双する"
             },
@@ -29206,7 +29206,7 @@
           "node": {
             "id": 150193,
             "title": {
-              "romaji": "Tsuihou Sareta Tensei Juukishi wa Game Sashiki de Musou Suru",
+              "romaji": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
               "english": "The Exiled Heavy Knight Knows How to Game the System",
               "native": "追放された転生重騎士はゲーム知識で無双する"
             },
@@ -33101,7 +33101,7 @@
       "Action"
     ],
     "averageScore": 68,
-    "meanScore": 70,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "j7RbmhKeaZs",
@@ -36595,7 +36595,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 83,
+    "meanScore": 84,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -36686,7 +36686,7 @@
       "Psychological",
       "Slice of Life"
     ],
-    "averageScore": 81,
+    "averageScore": 80,
     "meanScore": 81,
     "isAdult": false,
     "trailer": {
@@ -37129,7 +37129,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "averageScore": 56,
+    "averageScore": 57,
     "meanScore": 61,
     "isAdult": false,
     "trailer": {
@@ -39931,7 +39931,7 @@
       "Slice of Life"
     ],
     "averageScore": 76,
-    "meanScore": 78,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": {
       "id": "YP17uvO9amU",
@@ -42554,8 +42554,8 @@
       "Drama",
       "Romance"
     ],
-    "averageScore": 58,
-    "meanScore": 69,
+    "averageScore": 57,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "GlcCq4ne2lk",
@@ -47590,7 +47590,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 67,
+    "averageScore": 66,
     "meanScore": 72,
     "isAdult": false,
     "trailer": {
@@ -47834,7 +47834,7 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "The president of the chorus club, Satomi Oka, is approached by a yakuza named Kyoji Narita. Kyoji’s yakuza group holds a customary karaoke competition, and whoever earns the title of worst singer must get a tattoo. Since he was asked to be Kyoji’s singing teacher, Satomi has no choice but to go along with these practice sessions. Brought together by karaoke, where will Satomi and Kyoji end up?<br>\n<br>\n(Source: Crunchyroll)",
     "startDate": {
       "year": 2025,
@@ -48017,7 +48017,7 @@
             },
             "type": "ANIME",
             "format": "TV",
-            "status": "NOT_YET_RELEASED",
+            "status": "RELEASING",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183127-NuhBFFae2NYe.jpg",
               "color": "#d628e4"
@@ -51600,7 +51600,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183520-Bbl0Rsn63ph8.jpg",
     "genres": [],
     "averageScore": 66,
-    "meanScore": 76,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": {
       "id": "BerwUFzdj4U",
@@ -56348,7 +56348,7 @@
       "Adventure"
     ],
     "averageScore": null,
-    "meanScore": 44,
+    "meanScore": 43,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -58048,6 +58048,25 @@
               "color": "#e4bba1"
             }
           }
+        },
+        {
+          "id": 113167,
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 49473,
+            "title": {
+              "romaji": "Anne no Aijou",
+              "english": null,
+              "native": "アンの愛情"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/19473.jpg",
+              "color": "#e4bb5d"
+            }
+          }
         }
       ]
     },
@@ -58133,8 +58152,8 @@
     },
     "bannerImage": null,
     "genres": [],
-    "averageScore": 53,
-    "meanScore": 66,
+    "averageScore": 54,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "nPLVQLobl7A",
@@ -61047,7 +61066,7 @@
       "Hentai"
     ],
     "averageScore": 50,
-    "meanScore": 58,
+    "meanScore": 57,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -65076,7 +65095,7 @@
     "genres": [
       "Fantasy"
     ],
-    "averageScore": 50,
+    "averageScore": 51,
     "meanScore": 53,
     "isAdult": false,
     "trailer": null,
@@ -65195,7 +65214,7 @@
       "Psychological"
     ],
     "averageScore": 59,
-    "meanScore": 65,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": {
       "id": "kYBUm4QiYsE",
@@ -65376,7 +65395,7 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185505-aiHnezTm9aqt.jpg",
     "genres": [],
-    "averageScore": 49,
+    "averageScore": 50,
     "meanScore": 51,
     "isAdult": false,
     "trailer": {
@@ -71964,7 +71983,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 47,
+    "meanScore": 48,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -78088,12 +78107,12 @@
     "idMal": 60726,
     "title": {
       "romaji": "My Melody & Kuromi",
-      "english": null,
+      "english": "My Melody & Kuromi",
       "native": "My Melody & Kuromi"
     },
     "type": "ANIME",
     "format": "ONA",
-    "status": "NOT_YET_RELEASED",
+    "status": "FINISHED",
     "description": "My Melody opens a cake shop in Mariland. After encountering a heart in the forest, strange things start happening around her. Meanwhile, Kuromi's Japanese sweets shop across the street is always empty. Kuromi searches for the secret to My Melody's cakes. My Melody and Kuromi work hard to prepare for a sweets-making contest judged by the world-famous pastry chef Pistachio. However, no one knows that this will lead to an incident that threatens the fate of Mariland.<br><br>\n(Source: Netflix)",
     "startDate": {
       "year": 2025,
@@ -78123,7 +78142,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 76,
     "isAdult": false,
     "trailer": {
       "id": "3oKamSmjono",
@@ -82028,7 +82047,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "averageScore": 61,
+    "averageScore": 60,
     "meanScore": 62,
     "isAdult": false,
     "trailer": {
@@ -84866,7 +84885,7 @@
       "Romance"
     ],
     "averageScore": 51,
-    "meanScore": 53,
+    "meanScore": 52,
     "isAdult": true,
     "trailer": {
       "id": "lWcqQNjyqkc",
@@ -91867,7 +91886,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 47,
+    "meanScore": 48,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -91927,7 +91946,7 @@
       "Adventure"
     ],
     "averageScore": null,
-    "meanScore": 38,
+    "meanScore": 40,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -92109,7 +92128,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 44,
+    "meanScore": 45,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -97695,7 +97714,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 60,
+    "meanScore": 59,
     "isAdult": false,
     "trailer": {
       "id": "L5AiuCQE-BY",
@@ -99919,7 +99938,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 28,
+    "meanScore": 41,
     "isAdult": false,
     "trailer": {
       "id": "MZu8r_l_kVo",
@@ -103039,7 +103058,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 56,
+    "meanScore": 58,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -109170,7 +109189,7 @@
       "Music"
     ],
     "averageScore": null,
-    "meanScore": 76,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": {
       "id": "7kT2Azgw3rc",
@@ -110440,9 +110459,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "H9HB3NjEhEM",
+      "id": "zVtKnbZMKfU",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/H9HB3NjEhEM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/zVtKnbZMKfU/hqdefault.jpg"
     },
     "synonyms": [],
     "relations": {
@@ -110667,7 +110686,7 @@
     },
     "type": "ANIME",
     "format": "OVA",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "<i>\"Yeah, you're doing well. You've grown up.\"</i> Shinsuke is praised by his admired senior Miyuki. He was carefully trained from the time he was a new employee, encouraged by her consideration, admired and had feelings for her. Recently, she has been working remotely from home, and meetings are held over the internet. He was happy to get a glimpse of her home, but what he saw on the screen when he forgot to turn it off... Shinsuke, seeing her in a shameless state that would be bad if anyone knew about it, takes his married senior to the hotel, overwriting her as if he's tearing her apart. Miyuki, overflowing without resistance as if she's given up, is absorbed in their fleeting intercourse as if she's lost herself. What happens to them is...",
     "startDate": {
       "year": 2025,
@@ -110727,7 +110746,7 @@
     },
     "type": "ANIME",
     "format": "OVA",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "A young boy, Mario, is asked by his father, who works for a video game company, to become the GM. Although he is not keen, as a result of his analysis, he realizes that he can experience the same stimulation he received in the game in real life, and as an experiment, he sets his sights on a quiet girl named Koharu Takashina. Koharu wishes to become “a useful and gorgeous character,” which is the opposite of reality. However, the class she is given is that of a prostitute! After being raped by a rough man, her womb starts tingling, even though she is still a virgin in real life...<br>\n<br>\n(Source: PinkPineapple, translated)",
     "startDate": {
       "year": 2025,
@@ -111057,8 +111076,8 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 56,
-    "meanScore": 66,
+    "averageScore": 57,
+    "meanScore": 67,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -111681,7 +111700,11 @@
     "averageScore": null,
     "meanScore": null,
     "isAdult": false,
-    "trailer": null,
+    "trailer": {
+      "id": "4HJNiZV0HJ4",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/4HJNiZV0HJ4/hqdefault.jpg"
+    },
     "synonyms": [
       "Link Click Season 3"
     ],
@@ -113569,7 +113592,7 @@
       "Sci-Fi"
     ],
     "averageScore": 44,
-    "meanScore": 44,
+    "meanScore": 45,
     "isAdult": false,
     "trailer": {
       "id": "Ix6oxwuc-rw",
@@ -116344,7 +116367,7 @@
   },
   {
     "id": 193613,
-    "idMal": null,
+    "idMal": 62108,
     "title": {
       "romaji": "Synapusyu THE MOVIE: Pushu Hoppe Dancing PARTY",
       "english": null,
@@ -120103,7 +120126,7 @@
       "Comedy"
     ],
     "averageScore": 60,
-    "meanScore": 66,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -122238,7 +122261,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195187-OCOzjj8u4kXF.jpg",
     "genres": [],
     "averageScore": null,
-    "meanScore": 71,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "pWf8JdEAoOM",
@@ -125600,7 +125623,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "averageScore": null,
+    "averageScore": 60,
     "meanScore": 79,
     "isAdult": false,
     "trailer": {
@@ -128465,8 +128488,8 @@
     },
     "bannerImage": null,
     "genres": [],
-    "averageScore": 57,
-    "meanScore": 64,
+    "averageScore": 56,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": {
       "id": "JJuHoFVvR4Q",
@@ -129803,7 +129826,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196283-4nVxXIXljNNq.jpg",
     "genres": [],
     "averageScore": 56,
-    "meanScore": 70,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "VXUbEH0DvSM",
