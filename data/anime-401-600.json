@@ -8298,7 +8298,7 @@
       "Comedy",
       "Romance"
     ],
-    "averageScore": 65,
+    "averageScore": 66,
     "meanScore": 67,
     "isAdult": false,
     "trailer": {
@@ -8807,7 +8807,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 34,
+    "meanScore": 32,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -9614,7 +9614,7 @@
       "Sci-Fi"
     ],
     "averageScore": 78,
-    "meanScore": 79,
+    "meanScore": 78,
     "isAdult": false,
     "trailer": {
       "id": "86pUz-brRJQ",
@@ -10827,7 +10827,7 @@
       "Romance"
     ],
     "averageScore": 72,
-    "meanScore": 73,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": {
       "id": "m9eFOwi1JOM",
@@ -12058,7 +12058,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 60,
+    "meanScore": 61,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -25562,7 +25562,7 @@
       "Romance"
     ],
     "averageScore": 68,
-    "meanScore": 69,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "WjbLhMyN--Y",
@@ -27528,7 +27528,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 76,
+    "averageScore": 77,
     "meanScore": 77,
     "isAdult": false,
     "trailer": {
@@ -31721,9 +31721,9 @@
     "source": "LIGHT_NOVEL",
     "hashtag": "#死亡遊戯",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180746-EZCndlrZMgjb.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180746-EZCndlrZMgjb.jpg",
-      "color": "#f15da1"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180746-nSe3H4VsaLvV.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180746-nSe3H4VsaLvV.jpg",
+      "color": "#f1c9c9"
     },
     "bannerImage": null,
     "genres": [
@@ -31734,7 +31734,11 @@
     "averageScore": null,
     "meanScore": null,
     "isAdult": false,
-    "trailer": null,
+    "trailer": {
+      "id": "9qGxpihfOgg",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/9qGxpihfOgg/hqdefault.jpg"
+    },
     "synonyms": [
       "Playing Death Games to Put Food on the Table"
     ],
@@ -36579,7 +36583,7 @@
     "seasonYear": null,
     "seasonInt": null,
     "episodes": 26,
-    "duration": null,
+    "duration": 20,
     "countryOfOrigin": "CN",
     "source": "OTHER",
     "hashtag": null,
@@ -47864,8 +47868,8 @@
       "Comedy",
       "Music"
     ],
-    "averageScore": 58,
-    "meanScore": 68,
+    "averageScore": 60,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "j5k7BgIqkI0",
@@ -48149,7 +48153,7 @@
             },
             "type": "ANIME",
             "format": "ONA",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189891-UvNQzMMStf94.png",
               "color": "#e4bba1"
@@ -50892,8 +50896,8 @@
       "Adventure",
       "Comedy"
     ],
-    "averageScore": 58,
-    "meanScore": 67,
+    "averageScore": 59,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "v1dqJClQKwg",
@@ -56494,7 +56498,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "averageScore": 56,
+    "averageScore": 57,
     "meanScore": 64,
     "isAdult": false,
     "trailer": {
@@ -59664,7 +59668,7 @@
       "Sports"
     ],
     "averageScore": null,
-    "meanScore": 71,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "G88M88oSx6c",
@@ -60982,7 +60986,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184816-vBC9NrWx3fEc.jpg",
     "genres": [],
     "averageScore": 71,
-    "meanScore": 74,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": {
       "id": "eYqSJhpNIYY",
@@ -62166,7 +62170,7 @@
       "Slice of Life"
     ],
     "averageScore": 57,
-    "meanScore": 60,
+    "meanScore": 59,
     "isAdult": false,
     "trailer": {
       "id": "AmkNOLfYq1Q",
@@ -62362,7 +62366,7 @@
       "Music"
     ],
     "averageScore": 73,
-    "meanScore": 77,
+    "meanScore": 76,
     "isAdult": false,
     "trailer": {
       "id": "JK8GE-6pU8U",
@@ -63236,7 +63240,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 74,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": {
       "id": "https://www.youtube.com/watch?v=CPUy7OkLsF8",
@@ -65532,7 +65536,7 @@
       "Hentai"
     ],
     "averageScore": 64,
-    "meanScore": 71,
+    "meanScore": 70,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -77289,7 +77293,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "averageScore": 62,
+    "averageScore": 61,
     "meanScore": 63,
     "isAdult": false,
     "trailer": {
@@ -78141,8 +78145,8 @@
     "genres": [
       "Slice of Life"
     ],
-    "averageScore": 62,
-    "meanScore": 77,
+    "averageScore": 69,
+    "meanScore": 80,
     "isAdult": false,
     "trailer": {
       "id": "3oKamSmjono",
@@ -78546,7 +78550,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 63,
+    "meanScore": 64,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -78798,7 +78802,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "averageScore": 70,
+    "averageScore": 71,
     "meanScore": 81,
     "isAdult": false,
     "trailer": {
@@ -82047,7 +82051,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "averageScore": 60,
+    "averageScore": 61,
     "meanScore": 62,
     "isAdult": false,
     "trailer": {
@@ -89196,7 +89200,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 60,
+    "meanScore": 61,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -91155,7 +91159,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 58,
+    "meanScore": 59,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -91329,7 +91333,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 63,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -91455,7 +91459,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 76,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": {
       "id": "fc3tnhqARok",
@@ -93912,7 +93916,7 @@
     "status": "NOT_YET_RELEASED",
     "description": "In a world full of dangerous monsters, our unnamed protagonist finds himself reborn at the very bottom of the food chain as an immobile, powerless egg. Even just hatching will require leveling up by fighting monsters–the same monsters who’d love to eat him as a snack. But with the help of the mysterious voice in his head, he’s determined to grow into the most powerful creature in the world!\n<br><br>\n(Source: Seven Seas Entertainment)",
     "startDate": {
-      "year": null,
+      "year": 2026,
       "month": null,
       "day": null
     },
@@ -93928,11 +93932,11 @@
     "duration": null,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
-    "hashtag": null,
+    "hashtag": "#ドラたま",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187941-TZ8neJpnS8es.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187941-TZ8neJpnS8es.jpg",
-      "color": "#f1c950"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187941-0NiMUWrfiIe3.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187941-0NiMUWrfiIe3.jpg",
+      "color": "#50e4a1"
     },
     "bannerImage": null,
     "genres": [
@@ -93943,7 +93947,11 @@
     "averageScore": null,
     "meanScore": null,
     "isAdult": false,
-    "trailer": null,
+    "trailer": {
+      "id": "c6XGa6HXyq0",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/c6XGa6HXyq0/hqdefault.jpg"
+    },
     "synonyms": [
       "Reincarnated as a Dragon Hatchling",
       "DoraTama"
@@ -93991,7 +93999,24 @@
       ]
     },
     "studios": {
-      "edges": []
+      "edges": [
+        {
+          "id": 44573,
+          "isMain": true,
+          "node": {
+            "id": 7516,
+            "name": "GA-CREW"
+          }
+        },
+        {
+          "id": 44574,
+          "isMain": true,
+          "node": {
+            "id": 6126,
+            "name": "Felix Film"
+          }
+        }
+      ]
     }
   },
   {
@@ -103058,7 +103083,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 59,
+    "meanScore": 57,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -104242,8 +104267,8 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "averageScore": 79,
-    "meanScore": 80,
+    "averageScore": 80,
+    "meanScore": 81,
     "isAdult": false,
     "trailer": {
       "id": "qbthdPHU8FQ",
@@ -107616,7 +107641,7 @@
       "Fantasy",
       "Romance"
     ],
-    "averageScore": 46,
+    "averageScore": 47,
     "meanScore": 48,
     "isAdult": false,
     "trailer": null,
@@ -107750,7 +107775,7 @@
     },
     "type": "ANIME",
     "format": "ONA",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "Mini anime of <i>Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi</i>.",
     "startDate": {
       "year": 2025,
@@ -111076,7 +111101,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 57,
+    "averageScore": 56,
     "meanScore": 66,
     "isAdult": true,
     "trailer": null,
@@ -114215,7 +114240,7 @@
       "Supernatural"
     ],
     "averageScore": 80,
-    "meanScore": 84,
+    "meanScore": 85,
     "isAdult": false,
     "trailer": {
       "id": "X1ZWOFHHfW4",
@@ -114348,7 +114373,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 76,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -116302,7 +116327,7 @@
       "Romance"
     ],
     "averageScore": 48,
-    "meanScore": 55,
+    "meanScore": 56,
     "isAdult": true,
     "trailer": {
       "id": "IzPxqGtGLDE",
@@ -118592,7 +118617,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 57,
+    "meanScore": 56,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -119128,7 +119153,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194218-29qViwglD0ir.jpg",
     "genres": [],
     "averageScore": null,
-    "meanScore": 68,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "BWEmA6AxIyM",
@@ -121185,7 +121210,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 75,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "9BLoDcwM-zU",
@@ -122626,8 +122651,8 @@
       "Fantasy",
       "Romance"
     ],
-    "averageScore": 53,
-    "meanScore": 57,
+    "averageScore": 52,
+    "meanScore": 56,
     "isAdult": false,
     "trailer": {
       "id": "98qNX-vLVFM",
@@ -123955,7 +123980,7 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195457-b3ItZ3qppFv8.jpg",
     "genres": [],
-    "averageScore": 75,
+    "averageScore": 76,
     "meanScore": 83,
     "isAdult": false,
     "trailer": {
@@ -127476,7 +127501,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 72,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "lEzijOwAOOw",
@@ -128488,8 +128513,8 @@
     },
     "bannerImage": null,
     "genres": [],
-    "averageScore": 56,
-    "meanScore": 63,
+    "averageScore": 57,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": {
       "id": "JJuHoFVvR4Q",
@@ -128564,7 +128589,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 10,
+    "meanScore": 30,
     "isAdult": false,
     "trailer": {
       "id": "Lgj9wFPjmEw",
@@ -129762,7 +129787,7 @@
       "Music"
     ],
     "averageScore": null,
-    "meanScore": 58,
+    "meanScore": 54,
     "isAdult": false,
     "trailer": {
       "id": "pAoiV8loK2U",
@@ -129930,7 +129955,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 50,
+    "meanScore": 52,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -130295,8 +130320,8 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "averageScore": null,
-    "meanScore": 72,
+    "averageScore": 66,
+    "meanScore": 76,
     "isAdult": false,
     "trailer": {
       "id": "0iaEZzOkcDw",
