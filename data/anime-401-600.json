@@ -758,7 +758,7 @@
       "Romance"
     ],
     "averageScore": 67,
-    "meanScore": 68,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "OTL_4Fxwwtw",
@@ -12978,7 +12978,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 20,
+    "meanScore": 30,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -13337,7 +13337,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 20,
+    "meanScore": 25,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -14021,7 +14021,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 20,
+    "meanScore": 25,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -14209,7 +14209,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 20,
+    "meanScore": 25,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -14389,7 +14389,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 20,
+    "meanScore": 25,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -22087,7 +22087,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 20,
+    "meanScore": 25,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -23281,7 +23281,7 @@
       "Comedy",
       "Romance"
     ],
-    "averageScore": 67,
+    "averageScore": 66,
     "meanScore": 68,
     "isAdult": false,
     "trailer": {
@@ -26408,7 +26408,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 71,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -27529,7 +27529,7 @@
       "Fantasy"
     ],
     "averageScore": 77,
-    "meanScore": 77,
+    "meanScore": 78,
     "isAdult": false,
     "trailer": {
       "id": "0OBF29HoV4A",
@@ -47594,7 +47594,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 66,
+    "averageScore": 67,
     "meanScore": 72,
     "isAdult": false,
     "trailer": {
@@ -47868,15 +47868,17 @@
       "Comedy",
       "Music"
     ],
-    "averageScore": 62,
-    "meanScore": 71,
+    "averageScore": 63,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "j5k7BgIqkI0",
       "site": "youtube",
       "thumbnail": "https://i.ytimg.com/vi/j5k7BgIqkI0/hqdefault.jpg"
     },
-    "synonyms": [],
+    "synonyms": [
+      "เลสโก คาราโอเกะ!"
+    ],
     "relations": {
       "edges": [
         {
@@ -47987,7 +47989,9 @@
       "site": "youtube",
       "thumbnail": "https://i.ytimg.com/vi/S-qnR3woNf0/hqdefault.jpg"
     },
-    "synonyms": [],
+    "synonyms": [
+      "หมดหัวใจให้นายคนเดียว"
+    ],
     "relations": {
       "edges": [
         {
@@ -49717,7 +49721,7 @@
       "Music"
     ],
     "averageScore": 62,
-    "meanScore": 71,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -56352,7 +56356,7 @@
       "Adventure"
     ],
     "averageScore": null,
-    "meanScore": 43,
+    "meanScore": 45,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -57510,7 +57514,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 62,
+    "averageScore": 61,
     "meanScore": 63,
     "isAdult": false,
     "trailer": {
@@ -62366,7 +62370,7 @@
       "Music"
     ],
     "averageScore": 73,
-    "meanScore": 76,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": {
       "id": "JK8GE-6pU8U",
@@ -72068,7 +72072,7 @@
       "Slice of Life"
     ],
     "averageScore": 64,
-    "meanScore": 72,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "7YKvpV0UE2M",
@@ -73040,7 +73044,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 30,
+    "meanScore": 37,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -73160,7 +73164,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 20,
+    "meanScore": 25,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -73280,7 +73284,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 20,
+    "meanScore": 25,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -73728,7 +73732,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 61,
+    "meanScore": 60,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -73942,7 +73946,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 20,
+    "meanScore": 35,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -74062,7 +74066,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 15,
+    "meanScore": 26,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -74362,7 +74366,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 20,
+    "meanScore": 35,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -76306,7 +76310,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 64,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": {
       "id": "t94LtxGOA9U",
@@ -77963,8 +77967,8 @@
       "Drama",
       "Slice of Life"
     ],
-    "averageScore": 61,
-    "meanScore": 64,
+    "averageScore": 62,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": {
       "id": "e-KOoy7bXYM",
@@ -78145,7 +78149,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "averageScore": 71,
+    "averageScore": 73,
     "meanScore": 80,
     "isAdult": false,
     "trailer": {
@@ -82051,7 +82055,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "averageScore": 61,
+    "averageScore": 60,
     "meanScore": 62,
     "isAdult": false,
     "trailer": {
@@ -82183,7 +82187,7 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186586-WhHIESRWpjku.jpg",
     "genres": [],
-    "averageScore": 54,
+    "averageScore": 55,
     "meanScore": 68,
     "isAdult": false,
     "trailer": {
@@ -85823,7 +85827,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 74,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -89200,7 +89204,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 61,
+    "meanScore": 63,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -89292,7 +89296,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 69,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "N6XpO4sMVC0",
@@ -90453,7 +90457,7 @@
       "Action"
     ],
     "averageScore": 60,
-    "meanScore": 62,
+    "meanScore": 61,
     "isAdult": false,
     "trailer": {
       "id": "VHoDvjIMhR8",
@@ -90732,7 +90736,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 59,
+    "meanScore": 60,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -91459,7 +91463,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 77,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": {
       "id": "fc3tnhqARok",
@@ -105831,7 +105835,7 @@
       "Fantasy"
     ],
     "averageScore": 62,
-    "meanScore": 71,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "VNGnINmsrF8",
@@ -107651,7 +107655,7 @@
       "Romance"
     ],
     "averageScore": 47,
-    "meanScore": 48,
+    "meanScore": 49,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -117402,7 +117406,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193809-uTD4FjR8FdZx.jpg",
     "genres": [],
     "averageScore": null,
-    "meanScore": 71,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "yujyud8TwFI",
@@ -117494,7 +117498,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": {
       "id": "ySxyfL5-Wjw",
@@ -117808,7 +117812,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193906-SXTGF2i8ky73.jpg",
     "genres": [],
     "averageScore": null,
-    "meanScore": 68,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "YSWVvpzKxLQ",
@@ -117908,7 +117912,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193907-ZWzj50I1zJlX.jpg",
     "genres": [],
     "averageScore": null,
-    "meanScore": 70,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "9hn3kWDafiQ",
@@ -127510,7 +127514,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 65,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": {
       "id": "lEzijOwAOOw",
@@ -128523,7 +128527,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": 57,
-    "meanScore": 63,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": {
       "id": "JJuHoFVvR4Q",
@@ -129859,7 +129863,7 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196283-4nVxXIXljNNq.jpg",
     "genres": [],
-    "averageScore": 56,
+    "averageScore": 57,
     "meanScore": 68,
     "isAdult": false,
     "trailer": {
@@ -130329,7 +130333,7 @@
       "Mecha",
       "Sci-Fi"
     ],
-    "averageScore": 67,
+    "averageScore": 68,
     "meanScore": 75,
     "isAdult": false,
     "trailer": {
@@ -130627,7 +130631,7 @@
     },
     "type": "ANIME",
     "format": "MUSIC",
-    "status": "NOT_YET_RELEASED",
+    "status": "FINISHED",
     "description": "Music video animated by Amebiyori for the song <i>Koiboshi Perico</i> by Tsukino Mito.",
     "startDate": {
       "year": 2025,
@@ -130688,6 +130692,110 @@
     },
     "studios": {
       "edges": []
+    }
+  },
+  {
+    "id": 196613,
+    "idMal": null,
+    "title": {
+      "romaji": "Dou Po Cangqiong: Nian Fan 4",
+      "english": null,
+      "native": "斗破苍穹 年番4"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "NOT_YET_RELEASED",
+    "description": "The eight season of Dou Po Cangqiong.<br><br>\n\n<i>Note: Episodes 158 to 209.</i>",
+    "startDate": {
+      "year": 2025,
+      "month": 8,
+      "day": 3
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": 52,
+    "duration": 24,
+    "countryOfOrigin": "CN",
+    "source": "OTHER",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196613-20kz65bVsHl7.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196613-20kz65bVsHl7.jpg",
+      "color": "#e4935d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": false,
+    "trailer": null,
+    "synonyms": [
+      "Battle Through the Heavens 8",
+      "斗破苍穹百世轮回",
+      "斗破苍穹成帝之路",
+      "斗破苍穹 第8季",
+      "Dou Po Cangqiong 8"
+    ],
+    "relations": {
+      "edges": [
+        {
+          "id": 113283,
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 168164,
+            "title": {
+              "romaji": "Dou Po Cangqiong: Nian Fan 3",
+              "english": null,
+              "native": "斗破苍穹 年番3"
+            },
+            "type": "ANIME",
+            "format": "ONA",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx168164-u56VsAe2DUAH.png",
+              "color": "#5d93e4"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 44580,
+          "isMain": false,
+          "node": {
+            "id": 6991,
+            "name": "Yuewen Animation & Comics"
+          }
+        },
+        {
+          "id": 44581,
+          "isMain": true,
+          "node": {
+            "id": 6470,
+            "name": "Motion Magic"
+          }
+        },
+        {
+          "id": 44582,
+          "isMain": false,
+          "node": {
+            "id": 6382,
+            "name": "Tencent Penguin Pictures"
+          }
+        }
+      ]
     }
   }
 ]
