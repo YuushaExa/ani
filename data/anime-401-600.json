@@ -731,14 +731,14 @@
       "day": 6
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 9,
+      "day": 21
     },
     "season": "SUMMER",
     "seasonYear": 2025,
     "seasonInt": 253,
-    "episodes": null,
+    "episodes": 12,
     "duration": 24,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -765,7 +765,9 @@
       "site": "youtube",
       "thumbnail": "https://i.ytimg.com/vi/OTL_4Fxwwtw/hqdefault.jpg"
     },
-    "synonyms": [],
+    "synonyms": [
+      "Khải huyền dị giới Mynoghra: Chinh phục thế giới từ nền văn minh suy tàn"
+    ],
     "relations": {
       "edges": [
         {
@@ -4060,8 +4062,8 @@
       "Fantasy",
       "Hentai"
     ],
-    "averageScore": 49,
-    "meanScore": 54,
+    "averageScore": 50,
+    "meanScore": 55,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -8871,7 +8873,7 @@
       "Fantasy"
     ],
     "averageScore": 71,
-    "meanScore": 71,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "0lkvDeo6wI8",
@@ -9812,7 +9814,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "averageScore": 70,
+    "averageScore": 71,
     "meanScore": 79,
     "isAdult": false,
     "trailer": {
@@ -10674,7 +10676,7 @@
       "Drama",
       "Fantasy"
     ],
-    "averageScore": 75,
+    "averageScore": 76,
     "meanScore": 76,
     "isAdult": false,
     "trailer": {
@@ -10826,7 +10828,7 @@
       "Comedy",
       "Romance"
     ],
-    "averageScore": 72,
+    "averageScore": 73,
     "meanScore": 74,
     "isAdult": false,
     "trailer": {
@@ -11971,7 +11973,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 72,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "prZc3O-ajMY",
@@ -14939,7 +14941,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 49,
+    "meanScore": 51,
     "isAdult": false,
     "trailer": {
       "id": "zPDEPz6YQho",
@@ -15513,7 +15515,7 @@
       "Comedy",
       "Romance"
     ],
-    "averageScore": 59,
+    "averageScore": 60,
     "meanScore": 60,
     "isAdult": false,
     "trailer": {
@@ -15741,7 +15743,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 54,
+    "meanScore": 56,
     "isAdult": false,
     "trailer": {
       "id": "V3hJ_l-Zcw0",
@@ -22415,7 +22417,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 34,
+    "meanScore": 37,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -26525,14 +26527,14 @@
     "id": 179930,
     "idMal": 59435,
     "title": {
-      "romaji": "Undead Unluck Special",
+      "romaji": "Undead Unluck: Winter-hen",
       "english": null,
-      "native": "アンデッドアンラック スペシャル"
+      "native": "アンデッドアンラック Winter編"
     },
     "type": "ANIME",
     "format": "SPECIAL",
     "status": "NOT_YET_RELEASED",
-    "description": "A one-hour original special that is scheduled to broadcast in 2025.",
+    "description": "A one-hour special that adapts the \"Winter Arc\", scheduled to broadcast in 2025.",
     "startDate": {
       "year": 2025,
       "month": null,
@@ -26543,20 +26545,20 @@
       "month": null,
       "day": null
     },
-    "season": null,
-    "seasonYear": null,
-    "seasonInt": null,
+    "season": "FALL",
+    "seasonYear": 2025,
+    "seasonInt": 254,
     "episodes": 1,
     "duration": 60,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#アンデッドアンラック",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179930-5ZUBRqfoM8dB.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179930-5ZUBRqfoM8dB.jpg",
-      "color": "#d61a78"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179930-6jU0xJ5xvFTb.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179930-6jU0xJ5xvFTb.jpg",
+      "color": "#ffd600"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179930-zFY4rcN45RK1.jpg",
     "genres": [
       "Action",
       "Comedy",
@@ -26567,11 +26569,16 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "0LA-1QWL100",
+      "id": "JabRUQXRbEg",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/0LA-1QWL100/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/JabRUQXRbEg/hqdefault.jpg"
     },
-    "synonyms": [],
+    "synonyms": [
+      "アンデッドアンラック スペシャル",
+      "Undead Unluck Special",
+      "Undead Unluck: Winter Arc",
+      "アンデッドアンラック ウィンター編"
+    ],
     "relations": {
       "edges": [
         {
@@ -26618,7 +26625,7 @@
       "edges": [
         {
           "id": 41123,
-          "isMain": true,
+          "isMain": false,
           "node": {
             "id": 287,
             "name": "David Production"
@@ -26630,6 +26637,14 @@
           "node": {
             "id": 7508,
             "name": "UNLIMITED PRODUCE by TMS"
+          }
+        },
+        {
+          "id": 44594,
+          "isMain": true,
+          "node": {
+            "id": 7229,
+            "name": "E&H Production"
           }
         }
       ]
@@ -26804,7 +26819,7 @@
       "Psychological"
     ],
     "averageScore": null,
-    "meanScore": 55,
+    "meanScore": 57,
     "isAdult": false,
     "trailer": {
       "id": "eHabbPq_zAs",
@@ -28974,11 +28989,11 @@
     "source": "LIGHT_NOVEL",
     "hashtag": "#チラムネ",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180082-tAd8tapnkZa4.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180082-tAd8tapnkZa4.png",
-      "color": "#50a1e4"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180082-IZAlf06G2VVm.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180082-IZAlf06G2VVm.png",
+      "color": "#43aeff"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180082-EoMpR2lHsD73.jpg",
     "genres": [
       "Comedy",
       "Romance"
@@ -32567,8 +32582,8 @@
       "Action",
       "Sports"
     ],
-    "averageScore": 59,
-    "meanScore": 68,
+    "averageScore": 60,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "-119oCbVCB8",
@@ -32674,7 +32689,7 @@
       "Action",
       "Sports"
     ],
-    "averageScore": 64,
+    "averageScore": 65,
     "meanScore": 72,
     "isAdult": false,
     "trailer": {
@@ -39483,7 +39498,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 74,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": {
       "id": "Relxo1yzAI8",
@@ -40540,7 +40555,7 @@
       "Comedy"
     ],
     "averageScore": 60,
-    "meanScore": 74,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -42676,7 +42691,7 @@
       "Mahou Shoujo"
     ],
     "averageScore": null,
-    "meanScore": 32,
+    "meanScore": 37,
     "isAdult": false,
     "trailer": {
       "id": "C1AZ-NGbpkA",
@@ -47868,7 +47883,7 @@
       "Comedy",
       "Music"
     ],
-    "averageScore": 62,
+    "averageScore": 63,
     "meanScore": 69,
     "isAdult": false,
     "trailer": {
@@ -49821,9 +49836,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "Lx1YT8ATX4Y",
+      "id": "Eh4ziCRb2Ao",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/Lx1YT8ATX4Y/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Eh4ziCRb2Ao/hqdefault.jpg"
     },
     "synonyms": [
       "Love Live! Nijigasaki High School Idol Club the Movie - Finale - Chapter 2"
@@ -54705,7 +54720,7 @@
       "Action",
       "Comedy"
     ],
-    "averageScore": 76,
+    "averageScore": 77,
     "meanScore": 77,
     "isAdult": false,
     "trailer": {
@@ -59680,7 +59695,7 @@
       "Sports"
     ],
     "averageScore": null,
-    "meanScore": 73,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": {
       "id": "G88M88oSx6c",
@@ -61081,7 +61096,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 50,
+    "averageScore": 51,
     "meanScore": 58,
     "isAdult": true,
     "trailer": null,
@@ -63774,7 +63789,7 @@
       "Hentai"
     ],
     "averageScore": 53,
-    "meanScore": 61,
+    "meanScore": 60,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -65412,7 +65427,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185505-aiHnezTm9aqt.jpg",
     "genres": [],
     "averageScore": 50,
-    "meanScore": 51,
+    "meanScore": 52,
     "isAdult": false,
     "trailer": {
       "id": "98tanj-P94Y",
@@ -67071,7 +67086,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 66,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -67429,7 +67444,7 @@
       "Fantasy"
     ],
     "averageScore": 65,
-    "meanScore": 67,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": {
       "id": "TVB_eWCfMV4",
@@ -70729,7 +70744,7 @@
       "Fantasy"
     ],
     "averageScore": 63,
-    "meanScore": 84,
+    "meanScore": 85,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -77975,7 +77990,7 @@
       "Drama",
       "Slice of Life"
     ],
-    "averageScore": 61,
+    "averageScore": 62,
     "meanScore": 64,
     "isAdult": false,
     "trailer": {
@@ -78157,7 +78172,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "averageScore": 74,
+    "averageScore": 75,
     "meanScore": 81,
     "isAdult": false,
     "trailer": {
@@ -80327,7 +80342,7 @@
       "Slice of Life"
     ],
     "averageScore": 61,
-    "meanScore": 69,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "yow8PBNcINU",
@@ -80395,7 +80410,7 @@
       "Slice of Life"
     ],
     "averageScore": 52,
-    "meanScore": 59,
+    "meanScore": 60,
     "isAdult": false,
     "trailer": {
       "id": "gzJe3W8-jYw",
@@ -84900,7 +84915,7 @@
       "Ecchi",
       "Romance"
     ],
-    "averageScore": 51,
+    "averageScore": 50,
     "meanScore": 52,
     "isAdult": true,
     "trailer": {
@@ -88507,7 +88522,7 @@
       "Fantasy"
     ],
     "averageScore": 62,
-    "meanScore": 70,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "lDxF3SSvwhc",
@@ -90273,7 +90288,7 @@
       "Fantasy"
     ],
     "averageScore": 62,
-    "meanScore": 68,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "njxatFON6Zg",
@@ -90464,7 +90479,7 @@
     "genres": [
       "Action"
     ],
-    "averageScore": 60,
+    "averageScore": 59,
     "meanScore": 61,
     "isAdult": false,
     "trailer": {
@@ -93422,8 +93437,8 @@
     "status": "NOT_YET_RELEASED",
     "description": "Always ready for a fight! Destruction for destruction's sake! The online streamer Aoringo is a troll, making the worst of the worst of boundary-pushing flamebait content and raking in the revenue from the hate-watchers. You may think he's nothing more than a bottom feeder and a drain on society, but in reality, he's high school dropout Souji Enishiro, a caring older brother with a sweet tooth who loves nothing more than his little sister. His viral videos? Just a way to pay his sister's medical bills. And even if all of humanity hates him, he doesn't care, so long as his little sister gets better. But then, something very strange begins to happen…\n<br><br>\n(Source: K Manga, edited)",
     "startDate": {
-      "year": null,
-      "month": null,
+      "year": 2026,
+      "month": 1,
       "day": null
     },
     "endDate": {
@@ -93431,20 +93446,20 @@
       "month": null,
       "day": null
     },
-    "season": null,
-    "seasonYear": null,
-    "seasonInt": null,
+    "season": "WINTER",
+    "seasonYear": 2026,
+    "seasonInt": 261,
     "episodes": null,
     "duration": null,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#デッドアカウント #デドアカ",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187901-H2zTGHwSBVzJ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187901-H2zTGHwSBVzJ.jpg",
-      "color": "#50aee4"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187901-BJzsBhJPJH7M.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187901-BJzsBhJPJH7M.png",
+      "color": "#50f1e4"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187901-03I5T8QVX1FG.jpg",
     "genres": [
       "Action",
       "Supernatural"
@@ -93452,7 +93467,11 @@
     "averageScore": null,
     "meanScore": null,
     "isAdult": false,
-    "trailer": null,
+    "trailer": {
+      "id": "6Lv4RyUqmYc",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/6Lv4RyUqmYc/hqdefault.jpg"
+    },
     "synonyms": [
       "デドアカ"
     ],
@@ -93487,6 +93506,14 @@
           "node": {
             "id": 118,
             "name": "SynergySP"
+          }
+        },
+        {
+          "id": 44595,
+          "isMain": false,
+          "node": {
+            "id": 323,
+            "name": "Nippon Columbia"
           }
         }
       ]
@@ -98066,7 +98093,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 68,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -107663,7 +107690,7 @@
       "Romance"
     ],
     "averageScore": 47,
-    "meanScore": 49,
+    "meanScore": 48,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -111122,7 +111149,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 56,
+    "averageScore": 57,
     "meanScore": 66,
     "isAdult": true,
     "trailer": null,
@@ -111564,7 +111591,7 @@
     "genres": [
       "Ecchi"
     ],
-    "averageScore": 70,
+    "averageScore": 71,
     "meanScore": 77,
     "isAdult": false,
     "trailer": {
@@ -112907,7 +112934,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 69,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "tcRB5UZ81zQ",
@@ -113905,7 +113932,7 @@
       "Drama"
     ],
     "averageScore": null,
-    "meanScore": 66,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": {
       "id": "UKSyu8gZ_rs",
@@ -114261,7 +114288,7 @@
       "Supernatural"
     ],
     "averageScore": 81,
-    "meanScore": 84,
+    "meanScore": 85,
     "isAdult": false,
     "trailer": {
       "id": "X1ZWOFHHfW4",
@@ -117330,7 +117357,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193730-9O1yo7mBRzMV.jpg",
     "genres": [],
     "averageScore": 61,
-    "meanScore": 74,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "gq0C6-Qu1eQ",
@@ -124608,7 +124635,7 @@
       "Mahou Shoujo"
     ],
     "averageScore": 63,
-    "meanScore": 71,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "qidzapjAMVc",
@@ -128543,7 +128570,7 @@
     },
     "bannerImage": null,
     "genres": [],
-    "averageScore": 57,
+    "averageScore": 58,
     "meanScore": 64,
     "isAdult": false,
     "trailer": {
@@ -129881,7 +129908,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196283-4nVxXIXljNNq.jpg",
     "genres": [],
     "averageScore": 57,
-    "meanScore": 68,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "VXUbEH0DvSM",
@@ -130854,8 +130881,8 @@
     "genres": [
       "Supernatural"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 61,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": {
       "id": "aI769CgHfLc",
@@ -130982,6 +131009,102 @@
           "node": {
             "id": 45,
             "name": "Pink Pineapple"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 196750,
+    "idMal": null,
+    "title": {
+      "romaji": "Sister Breeder",
+      "english": null,
+      "native": "シスターブリーダー"
+    },
+    "type": "ANIME",
+    "format": null,
+    "status": "NOT_YET_RELEASED",
+    "description": "Shouta is very affectionate towards his sisters Rena and Aina, they grew up as close siblings. Day by day, he becomes more affectionate towards Aina... and eventually he even sneaks into her room at night!? Rena tries to stop Shouta, but ends up receiving his affection in Aina's place. Due to her hidden feelings for Shouta and the pleasure of experiencing things for the first time, the once innocent Rena is steadily being trained by Shouta...!?\n<br><br>\n(Source: Lune-soft, translated and edited)",
+    "startDate": {
+      "year": 2025,
+      "month": 9,
+      "day": 26
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": "FALL",
+    "seasonYear": 2025,
+    "seasonInt": 254,
+    "episodes": null,
+    "duration": 20,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196750-aG069Eup7do1.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196750-aG069Eup7do1.png",
+      "color": "#f1bb43"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196750-cmc0IEyZbqOj.jpg",
+    "genres": [
+      "Hentai"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": true,
+    "trailer": null,
+    "synonyms": [],
+    "relations": {
+      "edges": [
+        {
+          "id": 113375,
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 92365,
+            "title": {
+              "romaji": "Sister Breeder",
+              "english": null,
+              "native": "シスターブリーダー"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx92365-PazvytfmAOxt.jpg",
+              "color": "#e4c950"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 44591,
+          "isMain": false,
+          "node": {
+            "id": 6128,
+            "name": "Bunny Walker"
+          }
+        },
+        {
+          "id": 44592,
+          "isMain": false,
+          "node": {
+            "id": 823,
+            "name": "Lune Pictures"
+          }
+        },
+        {
+          "id": 44593,
+          "isMain": true,
+          "node": {
+            "id": 405,
+            "name": "T-REX"
           }
         }
       ]
