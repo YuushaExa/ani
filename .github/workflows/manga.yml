@@ -7,8 +7,6 @@ on:
         description: 'Page range to fetch (e.g., 1-200)'
         required: true
         default: '401-600'
-  schedule:
-    - cron: '0 0 * * *'  
 
 jobs:
   fetch:
