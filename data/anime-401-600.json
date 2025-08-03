@@ -758,7 +758,7 @@
       "Romance"
     ],
     "averageScore": 67,
-    "meanScore": 67,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "OTL_4Fxwwtw",
@@ -20053,7 +20053,7 @@
       "Sports"
     ],
     "averageScore": null,
-    "meanScore": 55,
+    "meanScore": 52,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -23500,7 +23500,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "UWWiu2TMKJ4",
@@ -28217,13 +28217,13 @@
     "idMal": 59484,
     "title": {
       "romaji": "Kikaijikake no Marie",
-      "english": null,
+      "english": "Mechanical Marie",
       "native": "機械じかけのマリー"
     },
     "type": "ANIME",
     "format": "TV",
     "status": "NOT_YET_RELEASED",
-    "description": "Marie, a former martial artist, has a new job as the personal maid of Arthur, the heir to a large conglomerate. However, Arthur is ruthless and hates people of the highest order, so Marie has to pretend to be a robot to work for him! If it is discovered that she is human, she will be executed immediately, but Arthur is extremely kind to inorganic objects and... unexpectedly goes into a doting route!<br><br>\n\nDoting or death? The strongest romantic comedy that will make you laugh and make your heart thumping.<br><br>\n\n(Source: Crunchyroll News) ",
+    "description": "<i> “At last, she’s complete. This is Marie, a robot maid.”</i>\n<br><br>\nMarie, a former legendary martial artist, now conceals her identity as a human and starts working as a “robot” in the mansion of Arthur, heir to a conglomerate that despises humans. Her human identity must remain hidden—because one slip-up and she’s dead! Her naturally emotionless demeanor helps her maintain her “robot” disguise and flawlessly perform her duties, all while struggling to protect Arthur from assassins sent to take his life. She lives each day on the edge with her heart racing, because Arthur is head over heels for Marie, and her human identity is nearly exposed!<br><br>\n\nA maid pretending to be a robot x A young heir who hates humans. Get ready for a heartwarming comedy that’ll make you laugh and cry! What began as a lie between master and maid blossoms into a love neither of them saw coming.<br><br>\n\n(Source: Crunchyroll) ",
     "startDate": {
       "year": 2025,
       "month": 10,
@@ -28263,7 +28263,6 @@
       "thumbnail": "https://i.ytimg.com/vi/ai2lFZTq9d0/hqdefault.jpg"
     },
     "synonyms": [
-      "Mechanical Marie",
       "Mechanically Marie"
     ],
     "relations": {
@@ -29956,7 +29955,7 @@
       "Slice of Life"
     ],
     "averageScore": 71,
-    "meanScore": 73,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "i-dy1huj7-E",
@@ -31307,7 +31306,7 @@
       "Supernatural"
     ],
     "averageScore": 56,
-    "meanScore": 72,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "PLG2Uexyi9s",
@@ -31357,7 +31356,7 @@
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx180742-wdxjJDJql09I.jpg",
       "color": "#4378e4"
     },
-    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180742-rjwwJvlRHHCB.jpg",
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180742-OeUf5VgcdX6l.jpg",
     "genres": [
       "Comedy",
       "Fantasy"
@@ -39950,7 +39949,7 @@
       "Slice of Life"
     ],
     "averageScore": 77,
-    "meanScore": 78,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": {
       "id": "YP17uvO9amU",
@@ -42573,8 +42572,8 @@
       "Drama",
       "Romance"
     ],
-    "averageScore": 57,
-    "meanScore": 68,
+    "averageScore": 58,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "GlcCq4ne2lk",
@@ -44661,7 +44660,7 @@
     "idMal": 60028,
     "title": {
       "romaji": "Hime Kishi wa Barbaroi no Yome",
-      "english": null,
+      "english": "The Warrior Princess and the Barbaric King",
       "native": "姫騎士は蛮族の嫁"
     },
     "type": "ANIME",
@@ -49903,7 +49902,7 @@
     "idMal": 60168,
     "title": {
       "romaji": "Watashi wo Tabetai, Hitodenashi",
-      "english": null,
+      "english": "This Monster Wants to Eat Me",
       "native": "私を喰べたい、ひとでなし"
     },
     "type": "ANIME",
@@ -49951,7 +49950,6 @@
     },
     "synonyms": [
       "A Monster Wants to Eat Me",
-      "This Monster Wants to Eat Me",
       "WataTabe",
       "わたたべ"
     ],
@@ -50252,7 +50250,7 @@
       "Drama",
       "Romance"
     ],
-    "averageScore": 63,
+    "averageScore": 64,
     "meanScore": 71,
     "isAdult": false,
     "trailer": {
@@ -50392,7 +50390,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "averageScore": null,
+    "averageScore": 57,
     "meanScore": 74,
     "isAdult": false,
     "trailer": {
@@ -54720,7 +54718,7 @@
       "Action",
       "Comedy"
     ],
-    "averageScore": 76,
+    "averageScore": 77,
     "meanScore": 77,
     "isAdult": false,
     "trailer": {
@@ -58056,8 +58054,8 @@
             "format": "MANGA",
             "status": "RELEASING",
             "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx190343-XlsiS7uN2PYG.jpg",
-              "color": "#e45d78"
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx190343-So5eoXRqJ4oY.jpg",
+              "color": "#f1ae50"
             }
           }
         },
@@ -59053,7 +59051,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "averageScore": 75,
+    "averageScore": 76,
     "meanScore": 83,
     "isAdult": false,
     "trailer": {
@@ -59695,7 +59693,7 @@
       "Sports"
     ],
     "averageScore": null,
-    "meanScore": 74,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": {
       "id": "G88M88oSx6c",
@@ -60688,7 +60686,7 @@
       "Hentai"
     ],
     "averageScore": 68,
-    "meanScore": 77,
+    "meanScore": 76,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -61097,7 +61095,7 @@
       "Hentai"
     ],
     "averageScore": 51,
-    "meanScore": 58,
+    "meanScore": 57,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -62071,13 +62069,13 @@
     "idMal": 60395,
     "title": {
       "romaji": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
-      "english": null,
+      "english": "The Invisible Man and His Soon-to-Be Wife",
       "native": "透明男と人間女～そのうち夫婦になるふたり～"
     },
     "type": "ANIME",
     "format": "TV",
     "status": "NOT_YET_RELEASED",
-    "description": "Yakou Shizuka, a quiet and bashful woman, works at a detective agency. Her boss Tounome owns the company and is the gentlemanly type–kind and dapper–though he also has an unusual trait: he’s invisible! This is perfect for detective work, but he quickly comes to find it doesn’t work on Yakou, who is blind and always knows if he’s near. Charmed, Tounome is determined to get her to date him and isn’t against using his many “skills.” Yakou’s quirky coworkers–a contrarian human man and a sisterly beastwoman–kindly watch over her as she stumbles and blushes through the uncharted waters of office romance.<br>\n<br>\n(Source: Seven Seas Entertainment)",
+    "description": "Akira Tounome is an invisible gentleman who runs a detective agency, and Shizuka Yakou is a mild-mannered human female who works there. Shizuka can always find Akira even when he turns completely invisible. A quiet love begins to blossom between them as the invisible man and blind girl grow closer to each other…<br>\n<br>\n(Source: Crunchyroll)",
     "startDate": {
       "year": 2026,
       "month": null,
@@ -62115,9 +62113,7 @@
       "site": "youtube",
       "thumbnail": "https://i.ytimg.com/vi/Llxv9oEuRjM/hqdefault.jpg"
     },
-    "synonyms": [
-      "The Invisible Man and His Soon-to-Be Wife"
-    ],
+    "synonyms": [],
     "relations": {
       "edges": [
         {
@@ -63197,9 +63193,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "xHowIeFWKqk",
+      "id": "rbu6yNob980",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/xHowIeFWKqk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/rbu6yNob980/hqdefault.jpg"
     },
     "synonyms": [],
     "relations": {
@@ -64749,8 +64745,8 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 63,
-    "meanScore": 67,
+    "averageScore": 64,
+    "meanScore": 68,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -64959,8 +64955,8 @@
       "Psychological",
       "Sci-Fi"
     ],
-    "averageScore": 87,
-    "meanScore": 87,
+    "averageScore": 88,
+    "meanScore": 88,
     "isAdult": false,
     "trailer": {
       "id": "j7dxZjwIhu0",
@@ -65427,7 +65423,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185505-aiHnezTm9aqt.jpg",
     "genres": [],
     "averageScore": 50,
-    "meanScore": 51,
+    "meanScore": 52,
     "isAdult": false,
     "trailer": {
       "id": "98tanj-P94Y",
@@ -66060,7 +66056,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 64,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": {
       "id": "lTUVw7wd5qY",
@@ -68397,7 +68393,7 @@
       "Supernatural"
     ],
     "averageScore": 82,
-    "meanScore": 82,
+    "meanScore": 83,
     "isAdult": false,
     "trailer": {
       "id": "uXr9Ha9qRHE",
@@ -68917,7 +68913,7 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185682-QA2XZFH6mo3n.jpg",
     "genres": [],
-    "averageScore": 59,
+    "averageScore": 60,
     "meanScore": 70,
     "isAdult": false,
     "trailer": {
@@ -70743,7 +70739,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 63,
+    "averageScore": 64,
     "meanScore": 85,
     "isAdult": false,
     "trailer": null,
@@ -77203,7 +77199,7 @@
     "episodes": 5,
     "duration": 1,
     "countryOfOrigin": "JP",
-    "source": "OTHER",
+    "source": "VIDEO_GAME",
     "hashtag": null,
     "coverImage": {
       "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185940-0P7uAIhn0Wj7.jpg",
@@ -78577,7 +78573,7 @@
       "Romance"
     ],
     "averageScore": 53,
-    "meanScore": 65,
+    "meanScore": 64,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -79572,13 +79568,13 @@
     "idMal": 60781,
     "title": {
       "romaji": "Alma-chan wa Kazoku ni Naritai",
-      "english": null,
+      "english": "Alma-chan Wants to Be a Family!",
       "native": "アルマちゃんは家族になりたい"
     },
     "type": "ANIME",
     "format": "TV",
     "status": "NOT_YET_RELEASED",
-    "description": "A slice-of-life comedy about an ultimate weapon in the shape of a cute little girl named \"Alma\", and the two scientists who created her! These two scientific geniuses are constantly being befuddled by Alma's incisive questions and analysis of their relationship!<br><br>\n\n(Source: Comic Newtype, translated)",
+    "description": "A body that combines the appearance of an adorable young girl with overwhelming combat efficiency. An AI with intelligence and decision-making skills that surpass human capabilities—the perfect autonomous robot, \"Alma\" was created by the overlooked young genius scientists Enji and Suzume whose brilliance should've been recognized by the world! Alma calls Enji and Suzume \"Father\" and \"Mother\" which leaves them completely flustered. Regardless, the three begin a life together as a family in order to nurture Alma's powerful AI and help her evolve into the ultimate robot. Alma's curiosity has no limits as everything she sees and touches is new to her. Alma keeps Enji and Suzume on their toes with her unmatched learning capabilities and unstoppable energy as she explores the bigger world. A brand-new kind of family comedy (?!) begins!!<br><br>\n\n(Source: Crunchyroll)",
     "startDate": {
       "year": 2025,
       "month": null,
@@ -79619,7 +79615,6 @@
     },
     "synonyms": [
       "Shoujogata Heiki wa Kazoku ni Naritai",
-      "Alma-chan Want to Have a Family",
       "I want to be a family"
     ],
     "relations": {
@@ -85054,13 +85049,13 @@
     "idMal": 61026,
     "title": {
       "romaji": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
-      "english": null,
+      "english": "My Status as an Assassin Obviously Exceeds the Hero’s",
       "native": "暗殺者である俺のステータスが 勇者よりも明らかに強いのだが"
     },
     "type": "ANIME",
     "format": "TV",
     "status": "NOT_YET_RELEASED",
-    "description": "When Akira’s class is magically summoned to another world, he and his classmates are awarded fantastical powers–but while one of them is lucky enough to become a true Hero, Akira becomes a mere Assassin. However, against all odds, the Assassin just might be the most powerful role of all! Harboring doubts about the intentions of the king, Akira uses his newfound strength as a master of the shadows to uncover the secrets and conspiracies of the crown.\n<br><br>(Source: Seven Seas Entertainment)",
+    "description": "Akira Oda and his high school classmates are summoned to another world! While the other students are granted cheat abilities through the summoning, Akira merely gains the abilities of a mediocre “assassin.” However, his status soon surpasses “hero,” the strongest profession. After Akira becomes suspicious of the King behind the summoning, he is falsely framed for a crime and forced to flee.\n<br><br>\n(Source: Crunchyroll)",
     "startDate": {
       "year": 2025,
       "month": 10,
@@ -85098,9 +85093,7 @@
       "site": "youtube",
       "thumbnail": "https://i.ytimg.com/vi/T2zMuUkbsJE/hqdefault.jpg"
     },
-    "synonyms": [
-      "My Status as an Assassin Obviously Exceeds the Hero’s"
-    ],
+    "synonyms": [],
     "relations": {
       "edges": [
         {
@@ -90779,7 +90772,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 61,
+    "meanScore": 60,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -91380,7 +91373,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -103276,7 +103269,7 @@
     "duration": 6,
     "countryOfOrigin": "JP",
     "source": "OTHER",
-    "hashtag": "#カリスマ #めちゃめちゃカリスマ #めちゃカリ",
+    "hashtag": "#めちゃめちゃカリスマ #めちゃカリ",
     "coverImage": {
       "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188943-Psawqvs4QoGZ.jpg",
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188943-Psawqvs4QoGZ.jpg",
@@ -103335,158 +103328,6 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx156132-p488cVxSOO0g.jpg",
               "color": "#d65d1a"
-            }
-          }
-        },
-        {
-          "id": 107404,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 189085,
-            "title": {
-              "romaji": "Charisma 1-shuukan",
-              "english": null,
-              "native": "カリスマ1週間"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189085-KW4gehvxeFG5.jpg",
-              "color": "#ff8635"
-            }
-          }
-        },
-        {
-          "id": 107686,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 189509,
-            "title": {
-              "romaji": "Otsucharisma! Bounenkai",
-              "english": null,
-              "native": "おつカリスマ！忘年会"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189509-HJUJza8VcQ4B.jpg",
-              "color": "#e4ae0d"
-            }
-          }
-        },
-        {
-          "id": 107793,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 189708,
-            "title": {
-              "romaji": "Charisma tte Ii na",
-              "english": null,
-              "native": "カリスマっていいな"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189708-1CiheoHrqGyH.jpg",
-              "color": "#e46b1a"
-            }
-          }
-        },
-        {
-          "id": 108716,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 190325,
-            "title": {
-              "romaji": "Charisma Picnic",
-              "english": null,
-              "native": "カリスマピクニック"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190325-9u5E05Mbiiuq.jpg",
-              "color": "#fe500d"
-            }
-          }
-        },
-        {
-          "id": 109718,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 191059,
-            "title": {
-              "romaji": "Charisma Jamboree",
-              "english": null,
-              "native": "カリスマジャンボリー"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191059-QDzqArJRxmPe.jpg",
-              "color": "#ffa143"
-            }
-          }
-        },
-        {
-          "id": 110462,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 192298,
-            "title": {
-              "romaji": "Charisma in Da House",
-              "english": null,
-              "native": "カリスマ・イン・ダ・ハウス"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192298-NaFkqE2eQ0Kz.jpg",
-              "color": "#f143a1"
-            }
-          }
-        },
-        {
-          "id": 111741,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 194229,
-            "title": {
-              "romaji": "Charisma Pizza Party",
-              "english": null,
-              "native": "カリスマピザパーティー"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194229-bOGNoRxvbVzg.jpg",
-              "color": "#e4a150"
-            }
-          }
-        },
-        {
-          "id": 112228,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 194945,
-            "title": {
-              "romaji": "Charisma Sabira",
-              "english": null,
-              "native": "カリスマさびら"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194945-eYjoUQ4IZXGG.jpg",
-              "color": "#e4ae43"
             }
           }
         }
@@ -103956,25 +103797,6 @@
     "relations": {
       "edges": [
         {
-          "id": 107403,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 188943,
-            "title": {
-              "romaji": "Mecha Mecha Charisma",
-              "english": null,
-              "native": "めちゃめちゃカリスマ"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188943-Psawqvs4QoGZ.jpg",
-              "color": "#e4500d"
-            }
-          }
-        },
-        {
           "id": 107405,
           "relationType": "CHARACTER",
           "node": {
@@ -104009,139 +103831,6 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx156132-p488cVxSOO0g.jpg",
               "color": "#d65d1a"
-            }
-          }
-        },
-        {
-          "id": 107688,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 189509,
-            "title": {
-              "romaji": "Otsucharisma! Bounenkai",
-              "english": null,
-              "native": "おつカリスマ！忘年会"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189509-HJUJza8VcQ4B.jpg",
-              "color": "#e4ae0d"
-            }
-          }
-        },
-        {
-          "id": 107788,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 189708,
-            "title": {
-              "romaji": "Charisma tte Ii na",
-              "english": null,
-              "native": "カリスマっていいな"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189708-1CiheoHrqGyH.jpg",
-              "color": "#e46b1a"
-            }
-          }
-        },
-        {
-          "id": 108715,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 190325,
-            "title": {
-              "romaji": "Charisma Picnic",
-              "english": null,
-              "native": "カリスマピクニック"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190325-9u5E05Mbiiuq.jpg",
-              "color": "#fe500d"
-            }
-          }
-        },
-        {
-          "id": 109712,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 191059,
-            "title": {
-              "romaji": "Charisma Jamboree",
-              "english": null,
-              "native": "カリスマジャンボリー"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191059-QDzqArJRxmPe.jpg",
-              "color": "#ffa143"
-            }
-          }
-        },
-        {
-          "id": 110456,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 192298,
-            "title": {
-              "romaji": "Charisma in Da House",
-              "english": null,
-              "native": "カリスマ・イン・ダ・ハウス"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192298-NaFkqE2eQ0Kz.jpg",
-              "color": "#f143a1"
-            }
-          }
-        },
-        {
-          "id": 111748,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 194229,
-            "title": {
-              "romaji": "Charisma Pizza Party",
-              "english": null,
-              "native": "カリスマピザパーティー"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194229-bOGNoRxvbVzg.jpg",
-              "color": "#e4a150"
-            }
-          }
-        },
-        {
-          "id": 112234,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 194945,
-            "title": {
-              "romaji": "Charisma Sabira",
-              "english": null,
-              "native": "カリスマさびら"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194945-eYjoUQ4IZXGG.jpg",
-              "color": "#e4ae43"
             }
           }
         }
@@ -105333,7 +105022,7 @@
       "Supernatural"
     ],
     "averageScore": 75,
-    "meanScore": 78,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": {
       "id": "sqXtNTTOhbw",
@@ -105643,7 +105332,7 @@
     "duration": 4,
     "countryOfOrigin": "JP",
     "source": "OTHER",
-    "hashtag": "#カリスマ #おつカリスマ",
+    "hashtag": "#おつカリスマ",
     "coverImage": {
       "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189509-HJUJza8VcQ4B.jpg",
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189509-HJUJza8VcQ4B.jpg",
@@ -105669,44 +105358,6 @@
     ],
     "relations": {
       "edges": [
-        {
-          "id": 107685,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 188943,
-            "title": {
-              "romaji": "Mecha Mecha Charisma",
-              "english": null,
-              "native": "めちゃめちゃカリスマ"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188943-Psawqvs4QoGZ.jpg",
-              "color": "#e4500d"
-            }
-          }
-        },
-        {
-          "id": 107687,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 189085,
-            "title": {
-              "romaji": "Charisma 1-shuukan",
-              "english": null,
-              "native": "カリスマ1週間"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189085-KW4gehvxeFG5.jpg",
-              "color": "#ff8635"
-            }
-          }
-        },
         {
           "id": 107689,
           "relationType": "CHARACTER",
@@ -105742,120 +105393,6 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx156132-p488cVxSOO0g.jpg",
               "color": "#d65d1a"
-            }
-          }
-        },
-        {
-          "id": 107786,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 189708,
-            "title": {
-              "romaji": "Charisma tte Ii na",
-              "english": null,
-              "native": "カリスマっていいな"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189708-1CiheoHrqGyH.jpg",
-              "color": "#e46b1a"
-            }
-          }
-        },
-        {
-          "id": 108714,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 190325,
-            "title": {
-              "romaji": "Charisma Picnic",
-              "english": null,
-              "native": "カリスマピクニック"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190325-9u5E05Mbiiuq.jpg",
-              "color": "#fe500d"
-            }
-          }
-        },
-        {
-          "id": 109720,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 191059,
-            "title": {
-              "romaji": "Charisma Jamboree",
-              "english": null,
-              "native": "カリスマジャンボリー"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191059-QDzqArJRxmPe.jpg",
-              "color": "#ffa143"
-            }
-          }
-        },
-        {
-          "id": 110460,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 192298,
-            "title": {
-              "romaji": "Charisma in Da House",
-              "english": null,
-              "native": "カリスマ・イン・ダ・ハウス"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192298-NaFkqE2eQ0Kz.jpg",
-              "color": "#f143a1"
-            }
-          }
-        },
-        {
-          "id": 111752,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 194229,
-            "title": {
-              "romaji": "Charisma Pizza Party",
-              "english": null,
-              "native": "カリスマピザパーティー"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194229-bOGNoRxvbVzg.jpg",
-              "color": "#e4a150"
-            }
-          }
-        },
-        {
-          "id": 112225,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 194945,
-            "title": {
-              "romaji": "Charisma Sabira",
-              "english": null,
-              "native": "カリスマさびら"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194945-eYjoUQ4IZXGG.jpg",
-              "color": "#e4ae43"
             }
           }
         }
@@ -108743,7 +108280,7 @@
     "duration": 4,
     "countryOfOrigin": "JP",
     "source": "OTHER",
-    "hashtag": "#カリスマピクニック #カリピク #カリスマ",
+    "hashtag": "#カリスマピクニック #カリピク",
     "coverImage": {
       "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190325-9u5E05Mbiiuq.jpg",
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx190325-9u5E05Mbiiuq.jpg",
@@ -108803,158 +108340,6 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx156132-p488cVxSOO0g.jpg",
               "color": "#d65d1a"
-            }
-          }
-        },
-        {
-          "id": 108709,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 189708,
-            "title": {
-              "romaji": "Charisma tte Ii na",
-              "english": null,
-              "native": "カリスマっていいな"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189708-1CiheoHrqGyH.jpg",
-              "color": "#e46b1a"
-            }
-          }
-        },
-        {
-          "id": 108710,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 189509,
-            "title": {
-              "romaji": "Otsucharisma! Bounenkai",
-              "english": null,
-              "native": "おつカリスマ！忘年会"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189509-HJUJza8VcQ4B.jpg",
-              "color": "#e4ae0d"
-            }
-          }
-        },
-        {
-          "id": 108712,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 189085,
-            "title": {
-              "romaji": "Charisma 1-shuukan",
-              "english": null,
-              "native": "カリスマ1週間"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189085-KW4gehvxeFG5.jpg",
-              "color": "#ff8635"
-            }
-          }
-        },
-        {
-          "id": 108713,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 188943,
-            "title": {
-              "romaji": "Mecha Mecha Charisma",
-              "english": null,
-              "native": "めちゃめちゃカリスマ"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188943-Psawqvs4QoGZ.jpg",
-              "color": "#e4500d"
-            }
-          }
-        },
-        {
-          "id": 109711,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 191059,
-            "title": {
-              "romaji": "Charisma Jamboree",
-              "english": null,
-              "native": "カリスマジャンボリー"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191059-QDzqArJRxmPe.jpg",
-              "color": "#ffa143"
-            }
-          }
-        },
-        {
-          "id": 110454,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 192298,
-            "title": {
-              "romaji": "Charisma in Da House",
-              "english": null,
-              "native": "カリスマ・イン・ダ・ハウス"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192298-NaFkqE2eQ0Kz.jpg",
-              "color": "#f143a1"
-            }
-          }
-        },
-        {
-          "id": 111750,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 194229,
-            "title": {
-              "romaji": "Charisma Pizza Party",
-              "english": null,
-              "native": "カリスマピザパーティー"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194229-bOGNoRxvbVzg.jpg",
-              "color": "#e4a150"
-            }
-          }
-        },
-        {
-          "id": 112222,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 194945,
-            "title": {
-              "romaji": "Charisma Sabira",
-              "english": null,
-              "native": "カリスマさびら"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194945-eYjoUQ4IZXGG.jpg",
-              "color": "#e4ae43"
             }
           }
         }
@@ -109921,154 +109306,40 @@
     "relations": {
       "edges": [
         {
-          "id": 109709,
+          "id": 113465,
           "relationType": "CHARACTER",
           "node": {
-            "id": 189085,
+            "id": 156133,
             "title": {
-              "romaji": "Charisma 1-shuukan",
+              "romaji": "Charisma: Kyou mo Heiwa desu",
               "english": null,
-              "native": "カリスマ1週間"
+              "native": "カリスマ　～きょうもへいわです～"
             },
-            "type": "ANIME",
-            "format": "MUSIC",
+            "type": "MANGA",
+            "format": "MANGA",
             "status": "FINISHED",
             "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189085-KW4gehvxeFG5.jpg",
-              "color": "#ff8635"
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx156133-yUAcWOgUPNqx.jpg",
+              "color": "#e45d1a"
             }
           }
         },
         {
-          "id": 109710,
+          "id": 113467,
           "relationType": "CHARACTER",
           "node": {
-            "id": 190325,
+            "id": 156132,
             "title": {
-              "romaji": "Charisma Picnic",
+              "romaji": "Charisma: Charisma na Karera wa Charisma House de Karizumai Chuu",
               "english": null,
-              "native": "カリスマピクニック"
+              "native": "カリスマ 〜カリスマな彼らはカリスマハウスで仮住まい中〜"
             },
-            "type": "ANIME",
-            "format": "MUSIC",
+            "type": "MANGA",
+            "format": "MANGA",
             "status": "FINISHED",
             "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190325-9u5E05Mbiiuq.jpg",
-              "color": "#fe500d"
-            }
-          }
-        },
-        {
-          "id": 109715,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 189708,
-            "title": {
-              "romaji": "Charisma tte Ii na",
-              "english": null,
-              "native": "カリスマっていいな"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189708-1CiheoHrqGyH.jpg",
-              "color": "#e46b1a"
-            }
-          }
-        },
-        {
-          "id": 109717,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 188943,
-            "title": {
-              "romaji": "Mecha Mecha Charisma",
-              "english": null,
-              "native": "めちゃめちゃカリスマ"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188943-Psawqvs4QoGZ.jpg",
-              "color": "#e4500d"
-            }
-          }
-        },
-        {
-          "id": 109719,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 189509,
-            "title": {
-              "romaji": "Otsucharisma! Bounenkai",
-              "english": null,
-              "native": "おつカリスマ！忘年会"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189509-HJUJza8VcQ4B.jpg",
-              "color": "#e4ae0d"
-            }
-          }
-        },
-        {
-          "id": 110459,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 192298,
-            "title": {
-              "romaji": "Charisma in Da House",
-              "english": null,
-              "native": "カリスマ・イン・ダ・ハウス"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192298-NaFkqE2eQ0Kz.jpg",
-              "color": "#f143a1"
-            }
-          }
-        },
-        {
-          "id": 111749,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 194229,
-            "title": {
-              "romaji": "Charisma Pizza Party",
-              "english": null,
-              "native": "カリスマピザパーティー"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194229-bOGNoRxvbVzg.jpg",
-              "color": "#e4a150"
-            }
-          }
-        },
-        {
-          "id": 112232,
-          "relationType": "CHARACTER",
-          "node": {
-            "id": 194945,
-            "title": {
-              "romaji": "Charisma Sabira",
-              "english": null,
-              "native": "カリスマさびら"
-            },
-            "type": "ANIME",
-            "format": "MUSIC",
-            "status": "FINISHED",
-            "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194945-eYjoUQ4IZXGG.jpg",
-              "color": "#e4ae43"
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx156132-p488cVxSOO0g.jpg",
+              "color": "#d65d1a"
             }
           }
         }
@@ -110982,7 +110253,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": 68,
-    "meanScore": 74,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "Ug0N4qGRp_w",
@@ -111501,7 +110772,7 @@
     "idMal": 61587,
     "title": {
       "romaji": "\"Omae Gotoki ga Maou ni Kateru to Omou na\" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai",
-      "english": null,
+      "english": "ROLL OVER AND DIE",
       "native": "「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい"
     },
     "type": "ANIME",
@@ -113727,7 +112998,7 @@
       "Sci-Fi"
     ],
     "averageScore": 44,
-    "meanScore": 45,
+    "meanScore": 46,
     "isAdult": false,
     "trailer": {
       "id": "Ix6oxwuc-rw",
@@ -114350,7 +113621,7 @@
       "Supernatural"
     ],
     "averageScore": 81,
-    "meanScore": 85,
+    "meanScore": 84,
     "isAdult": false,
     "trailer": {
       "id": "X1ZWOFHHfW4",
@@ -115589,7 +114860,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193372-qclsUa8Q7jlI.jpg",
     "genres": [],
     "averageScore": 59,
-    "meanScore": 72,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "AGfC3lCFPRM",
@@ -116437,7 +115708,7 @@
       "Romance"
     ],
     "averageScore": 49,
-    "meanScore": 57,
+    "meanScore": 56,
     "isAdult": true,
     "trailer": {
       "id": "IzPxqGtGLDE",
@@ -124697,7 +123968,7 @@
       "Mahou Shoujo"
     ],
     "averageScore": 63,
-    "meanScore": 72,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "qidzapjAMVc",
@@ -126117,7 +125388,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 77,
+    "meanScore": 76,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -126297,7 +125568,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 74,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -126849,7 +126120,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 76,
+    "meanScore": 78,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -126942,7 +126213,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 76,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": {
       "id": "3KSAu5Ik2h0",
@@ -129970,7 +129241,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196283-4nVxXIXljNNq.jpg",
     "genres": [],
     "averageScore": 57,
-    "meanScore": 67,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "VXUbEH0DvSM",
@@ -130556,7 +129827,7 @@
   },
   {
     "id": 196547,
-    "idMal": null,
+    "idMal": 62145,
     "title": {
       "romaji": "H na Gishi Series The Animation",
       "english": null,
@@ -130765,7 +130036,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 64,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": {
       "id": "ZA3hCdjFrxk",
@@ -130810,7 +130081,7 @@
     },
     "type": "ANIME",
     "format": "ONA",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "The eight season of Dou Po Cangqiong.<br><br>\n\n<i>Note: Episodes 158 to 209.</i>",
     "startDate": {
       "year": 2025,
@@ -130943,8 +130214,8 @@
     "genres": [
       "Supernatural"
     ],
-    "averageScore": 63,
-    "meanScore": 77,
+    "averageScore": 64,
+    "meanScore": 76,
     "isAdult": false,
     "trailer": {
       "id": "aI769CgHfLc",
@@ -131167,6 +130438,194 @@
           "node": {
             "id": 405,
             "name": "T-REX"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 196840,
+    "idMal": 62155,
+    "title": {
+      "romaji": "Iya na Kao sare nagara Opantsu Misete Moraitai Returns",
+      "english": null,
+      "native": "嫌な顔されながらおパンツ見せてもらいたいR（リターンズ）"
+    },
+    "type": "ANIME",
+    "format": null,
+    "status": "NOT_YET_RELEASED",
+    "description": "To commemorate the 10th anniversary of the original work, a new anime series will be produced!<br><br>\n(Source: Official Website, translated)",
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": null,
+    "duration": null,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "hashtag": "#嫌パン",
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196840-pSNUNtY9PhmI.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196840-pSNUNtY9PhmI.jpg",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Ecchi"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": false,
+    "trailer": null,
+    "synonyms": [
+      "I Want You To Make a Disgusted Face and Show Me Your Underwear 4"
+    ],
+    "relations": {
+      "edges": [
+        {
+          "id": 113445,
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 166050,
+            "title": {
+              "romaji": "Iya na Kao sare nagara Opantsu Misete Moraitai ver 3.0",
+              "english": null,
+              "native": "嫌な顔されながらおパンツ見せてもらいたい ver.3.0 (仮)"
+            },
+            "type": "ANIME",
+            "format": "OVA",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx166050-LmPIXgfRQLtE.jpg",
+              "color": "#d61a86"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 44601,
+          "isMain": true,
+          "node": {
+            "id": 6215,
+            "name": "UWAN Pictures"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 196864,
+    "idMal": null,
+    "title": {
+      "romaji": "Tottemo Carichuma",
+      "english": null,
+      "native": "とってもかりちゅま"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video for <i>Tottemo Carichuma</i> , a song celebrating Children's day, also included in the project's third album, Charisma Gambo.",
+    "startDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 5
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 5,
+      "day": 5
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": 1,
+    "duration": 3,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "hashtag": "#とってもかりちゅま",
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196864-99Vdnuvd1SGM.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196864-99Vdnuvd1SGM.jpg",
+      "color": "#ffbb00"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196864-jKOMvWGXQQGK.jpg",
+    "genres": [
+      "Comedy"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": false,
+    "trailer": {
+      "id": "fEWipyOVIgY",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/fEWipyOVIgY/hqdefault.jpg"
+    },
+    "synonyms": [
+      "Super-Duper Chawismatic",
+      "Tottemo Charisma"
+    ],
+    "relations": {
+      "edges": [
+        {
+          "id": 113461,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 156132,
+            "title": {
+              "romaji": "Charisma: Charisma na Karera wa Charisma House de Karizumai Chuu",
+              "english": null,
+              "native": "カリスマ 〜カリスマな彼らはカリスマハウスで仮住まい中〜"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx156132-p488cVxSOO0g.jpg",
+              "color": "#d65d1a"
+            }
+          }
+        },
+        {
+          "id": 113463,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 156133,
+            "title": {
+              "romaji": "Charisma: Kyou mo Heiwa desu",
+              "english": null,
+              "native": "カリスマ　～きょうもへいわです～"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx156133-yUAcWOgUPNqx.jpg",
+              "color": "#e45d1a"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 44603,
+          "isMain": false,
+          "node": {
+            "id": 6617,
+            "name": "Dazed"
           }
         }
       ]
