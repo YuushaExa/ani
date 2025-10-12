@@ -1308,7 +1308,7 @@
       "Hentai"
     ],
     "averageScore": 62,
-    "meanScore": 69,
+    "meanScore": 70,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -5592,7 +5592,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 35,
+    "meanScore": 38,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -9158,7 +9158,7 @@
       "Drama",
       "Sports"
     ],
-    "averageScore": 71,
+    "averageScore": 70,
     "meanScore": 72,
     "isAdult": false,
     "trailer": null,
@@ -9824,7 +9824,7 @@
       "Supernatural"
     ],
     "averageScore": 71,
-    "meanScore": 79,
+    "meanScore": 78,
     "isAdult": false,
     "trailer": {
       "id": "8pE93kg6N9Q",
@@ -10099,7 +10099,7 @@
       "Music",
       "Slice of Life"
     ],
-    "averageScore": 61,
+    "averageScore": 62,
     "meanScore": 75,
     "isAdult": false,
     "trailer": {
@@ -11228,7 +11228,7 @@
     "startDate": {
       "year": 2026,
       "month": 1,
-      "day": null
+      "day": 10
     },
     "endDate": {
       "year": null,
@@ -11244,9 +11244,9 @@
     "source": "MANGA",
     "hashtag": "#炎炎ノ消防隊",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179062-fyCb9LxzbKcc.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179062-fyCb9LxzbKcc.png",
-      "color": "#f15d6b"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx179062-pbzYE1miZq61.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx179062-pbzYE1miZq61.png",
+      "color": "#febb28"
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179062-ZnxW4uWEsV3H.jpg",
     "genres": [
@@ -11837,8 +11837,8 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "averageScore": 43,
-    "meanScore": 44,
+    "averageScore": 42,
+    "meanScore": 43,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -15340,7 +15340,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 24,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#SANDA",
@@ -15354,7 +15354,7 @@
       "Drama",
       "Mystery"
     ],
-    "averageScore": 69,
+    "averageScore": 71,
     "meanScore": 73,
     "isAdult": false,
     "trailer": {
@@ -15399,27 +15399,27 @@
           }
         },
         {
-          "id": 42303,
+          "id": 45121,
+          "isMain": false,
+          "node": {
+            "id": 53,
+            "name": "Dentsu"
+          }
+        },
+        {
+          "id": 45122,
+          "isMain": false,
+          "node": {
+            "id": 6145,
+            "name": "Science SARU"
+          }
+        },
+        {
+          "id": 45123,
           "isMain": false,
           "node": {
             "id": 6559,
             "name": "Akita Shoten"
-          }
-        },
-        {
-          "id": 43978,
-          "isMain": false,
-          "node": {
-            "id": 145,
-            "name": "TBS"
-          }
-        },
-        {
-          "id": 43979,
-          "isMain": false,
-          "node": {
-            "id": 143,
-            "name": "Mainichi Broadcasting System"
           }
         }
       ]
@@ -15466,7 +15466,7 @@
       "Hentai"
     ],
     "averageScore": 53,
-    "meanScore": 57,
+    "meanScore": 56,
     "isAdult": true,
     "trailer": {
       "id": "tOFJf5P5BpQ",
@@ -15809,7 +15809,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 56,
+    "meanScore": 57,
     "isAdult": false,
     "trailer": {
       "id": "V3hJ_l-Zcw0",
@@ -16308,7 +16308,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "averageScore": 64,
+    "averageScore": 63,
     "meanScore": 64,
     "isAdult": false,
     "trailer": {
@@ -16452,7 +16452,7 @@
       "Hentai"
     ],
     "averageScore": 57,
-    "meanScore": 60,
+    "meanScore": 61,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -16580,8 +16580,8 @@
       "Horror",
       "Supernatural"
     ],
-    "averageScore": 63,
-    "meanScore": 64,
+    "averageScore": 64,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": {
       "id": "IIXbiYuXpbw",
@@ -17857,7 +17857,7 @@
       "Fantasy"
     ],
     "averageScore": 64,
-    "meanScore": 81,
+    "meanScore": 82,
     "isAdult": false,
     "trailer": {
       "id": "H1aw6bihW9c",
@@ -20400,7 +20400,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 69,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "FLgnosLt0mA",
@@ -22484,7 +22484,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 30,
+    "meanScore": 31,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -22673,7 +22673,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 76,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -22928,7 +22928,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 52,
+    "averageScore": 53,
     "meanScore": 56,
     "isAdult": true,
     "trailer": null,
@@ -24088,7 +24088,7 @@
       "Fantasy"
     ],
     "averageScore": 64,
-    "meanScore": 83,
+    "meanScore": 84,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -24382,7 +24382,7 @@
       "Supernatural"
     ],
     "averageScore": 81,
-    "meanScore": 84,
+    "meanScore": 83,
     "isAdult": false,
     "trailer": {
       "id": "F9szwsCJZlo",
@@ -24512,7 +24512,7 @@
     "genres": [
       "Music"
     ],
-    "averageScore": null,
+    "averageScore": 55,
     "meanScore": 69,
     "isAdult": false,
     "trailer": {
@@ -25633,7 +25633,7 @@
       "Romance"
     ],
     "averageScore": 72,
-    "meanScore": 72,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "WjbLhMyN--Y",
@@ -26479,7 +26479,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 73,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -27133,8 +27133,8 @@
     "genres": [
       "Fantasy"
     ],
-    "averageScore": 46,
-    "meanScore": 51,
+    "averageScore": 45,
+    "meanScore": 50,
     "isAdult": false,
     "trailer": {
       "id": "C8hyaCPc-t0",
@@ -27620,8 +27620,8 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 78,
-    "meanScore": 79,
+    "averageScore": 81,
+    "meanScore": 81,
     "isAdult": false,
     "trailer": {
       "id": "0OBF29HoV4A",
@@ -27762,7 +27762,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179970-X3G3FbZp3G77.jpg",
     "genres": [],
     "averageScore": 56,
-    "meanScore": 65,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": {
       "id": "SqavPLn5nT0",
@@ -27893,7 +27893,7 @@
       "Slice of Life"
     ],
     "averageScore": 62,
-    "meanScore": 71,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "_L1KoVoJXlI",
@@ -28318,7 +28318,7 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "<i> “At last, she’s complete. This is Marie, a robot maid.”</i>\n<br><br>\nMarie, a former legendary martial artist, now conceals her identity as a human and starts working as a “robot” in the mansion of Arthur, heir to a conglomerate that despises humans. Her human identity must remain hidden—because one slip-up and she’s dead! Her naturally emotionless demeanor helps her maintain her “robot” disguise and flawlessly perform her duties, all while struggling to protect Arthur from assassins sent to take his life. She lives each day on the edge with her heart racing, because Arthur is head over heels for Marie, and her human identity is nearly exposed!<br><br>\n\nA maid pretending to be a robot x A young heir who hates humans. Get ready for a heartwarming comedy that’ll make you laugh and cry! What began as a lie between master and maid blossoms into a love neither of them saw coming.<br><br>\n\n(Source: Crunchyroll) ",
     "startDate": {
       "year": 2025,
@@ -28334,7 +28334,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 24,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#機械じかけのマリー",
@@ -28350,8 +28350,8 @@
       "Romance",
       "Sci-Fi"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 63,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": {
       "id": "X0um7anNddA",
@@ -28408,6 +28408,70 @@
           "node": {
             "id": 76,
             "name": "Yomiuri TV"
+          }
+        },
+        {
+          "id": 45041,
+          "isMain": false,
+          "node": {
+            "id": 144,
+            "name": "Pony Canyon"
+          }
+        },
+        {
+          "id": 45042,
+          "isMain": false,
+          "node": {
+            "id": 148,
+            "name": "Hakusensha"
+          }
+        },
+        {
+          "id": 45043,
+          "isMain": false,
+          "node": {
+            "id": 6117,
+            "name": "Zero-G"
+          }
+        },
+        {
+          "id": 45044,
+          "isMain": false,
+          "node": {
+            "id": 62,
+            "name": "Shogakukan-Shueisha Productions"
+          }
+        },
+        {
+          "id": 45045,
+          "isMain": false,
+          "node": {
+            "id": 843,
+            "name": "BS Fuji"
+          }
+        },
+        {
+          "id": 45046,
+          "isMain": false,
+          "node": {
+            "id": 460,
+            "name": "KLOCKWORX"
+          }
+        },
+        {
+          "id": 45047,
+          "isMain": false,
+          "node": {
+            "id": 6739,
+            "name": "Amusement Media Academy"
+          }
+        },
+        {
+          "id": 45048,
+          "isMain": false,
+          "node": {
+            "id": 7236,
+            "name": "Production Ace"
           }
         }
       ]
@@ -29082,7 +29146,7 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "Being popular isn’t easy. It’s hard to beat Saku Chitose. The most popular kid in his high school? Check. An ironclad reputation that can weather even vicious online attacks? Check. A group of friends as attractive on the outside as they are inside? Check. But when a teacher asks for his help bringing back a student who has been shut away in his room for months, Saku’s perfect world will never be the same. What is this, some kind of normie harem story...?<br>\n<br>\n(Source: Yen Press) ",
     "startDate": {
       "year": 2025,
@@ -29090,14 +29154,14 @@
       "day": 7
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 12,
+      "day": 30
     },
     "season": "FALL",
     "seasonYear": 2025,
     "seasonInt": 254,
-    "episodes": null,
+    "episodes": 13,
     "duration": null,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
@@ -29112,8 +29176,8 @@
       "Comedy",
       "Romance"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 68,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "wC7FYPFHLeQ",
@@ -29197,6 +29261,86 @@
             "id": 91,
             "name": "feel."
           }
+        },
+        {
+          "id": 45193,
+          "isMain": false,
+          "node": {
+            "id": 6698,
+            "name": "KADOKAWA"
+          }
+        },
+        {
+          "id": 45194,
+          "isMain": false,
+          "node": {
+            "id": 6339,
+            "name": "Good Smile Company"
+          }
+        },
+        {
+          "id": 45195,
+          "isMain": false,
+          "node": {
+            "id": 6740,
+            "name": "Good Smile Film"
+          }
+        },
+        {
+          "id": 45196,
+          "isMain": false,
+          "node": {
+            "id": 7429,
+            "name": "REMOW"
+          }
+        },
+        {
+          "id": 45197,
+          "isMain": false,
+          "node": {
+            "id": 6161,
+            "name": "Shogakukan"
+          }
+        },
+        {
+          "id": 45198,
+          "isMain": false,
+          "node": {
+            "id": 7309,
+            "name": "newgin"
+          }
+        },
+        {
+          "id": 45199,
+          "isMain": false,
+          "node": {
+            "id": 6259,
+            "name": "TOKYO MX"
+          }
+        },
+        {
+          "id": 45200,
+          "isMain": false,
+          "node": {
+            "id": 6616,
+            "name": "BS11"
+          }
+        },
+        {
+          "id": 45201,
+          "isMain": false,
+          "node": {
+            "id": 238,
+            "name": "AT-X"
+          }
+        },
+        {
+          "id": 45202,
+          "isMain": false,
+          "node": {
+            "id": 6313,
+            "name": "Kadokawa Media House"
+          }
         }
       ]
     }
@@ -29243,7 +29387,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 58,
+    "meanScore": 60,
     "isAdult": false,
     "trailer": {
       "id": "6JyMnxSdbXg",
@@ -29490,9 +29634,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "huKaPVwSXKw",
+      "id": "dwQYR8O2YxU",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/huKaPVwSXKw/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/dwQYR8O2YxU/hqdefault.jpg"
     },
     "synonyms": [
       "Go For It, Nakamura!"
@@ -29894,7 +30038,7 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "Morihito Otogi, a high school student who comes from a lineage of ogres, enjoys a peaceful, ordinary life until his childhood friend, Nico, moves in with him. Nico is a witch-in-training, and chooses Morihito to be her familiar. While Nico is thrilled to reunite with her old friend and crush, Morihito is tasked with the perilous duty to protect her from a foretold calamity. Between the unpredictable chaos caused by Nico’s magic, and the awkwardness of sharing a home, their lives become a whirlwind of supernatural hijinks and threats.\n<br><br>\n(Source: Crunchyroll) <br><br>\n\n<i>Notes: <br>\n- Worldwide premiere of Episodes 1-3 titled as <b>WITCH WATCH: WATCH PARTY</b> before the Japanese premiere was pre-screened in advance in theaters on March 16, 2025 in North America by GKIDS Films and March 22 and 23 in Europe by Animation Digital Network. <br>\n- Episodes 1-2 + a selection of stories (Cat Scout, Kanshi's Part Time Job Diaries ~ The Side Job ~, and Kan & Nico's Channel) was pre-screened in advance in theaters on March 30, 2025 in Japan. The regular TV broadcast began April 6, 2025.</i>",
     "startDate": {
       "year": 2025,
@@ -29974,6 +30118,25 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx9863-G6dAvTVsfLRO.png",
               "color": "#d6bb78"
+            }
+          }
+        },
+        {
+          "id": 116133,
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 199793,
+            "title": {
+              "romaji": "Witch Watch 2nd Season",
+              "english": null,
+              "native": "ウィッチウォッチ(第2期)"
+            },
+            "type": "ANIME",
+            "format": "TV",
+            "status": "NOT_YET_RELEASED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199793-ks9EEXbv62zR.jpg",
+              "color": "#f1935d"
             }
           }
         }
@@ -30189,7 +30352,7 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "Kaboku Kotani is starting high school, and he plans to do what he’s always done: go along with his friends, keep quiet, and not draw too much attention to himself. After all, it’s hard enough to get by with a stutter like his— why make things worse by standing out from the crowd? But then he sees another first-year, Hikari Wanda, dancing like no one is watching—or like she doesn’t care who sees her. It makes Kaboku wonder: Could he reach that same freedom? To find his way to Wanda, he does something he never thought he could: He joins the dance club. After all, every routine begins with a single step, right? Join Kaboku and Wanda as they freestyle their way to life and love!\n<br><br>\n(Source: Kodansha USA)",
     "startDate": {
       "year": 2025,
@@ -30205,7 +30368,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 23,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#ワンダンス",
@@ -30219,8 +30382,8 @@
       "Drama",
       "Sports"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 60,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": {
       "id": "-0SudgDzshc",
@@ -30267,14 +30430,6 @@
           }
         },
         {
-          "id": 41226,
-          "isMain": true,
-          "node": {
-            "id": 6734,
-            "name": "Cyclone Graphics"
-          }
-        },
-        {
           "id": 44564,
           "isMain": false,
           "node": {
@@ -30283,11 +30438,35 @@
           }
         },
         {
-          "id": 44763,
+          "id": 45256,
+          "isMain": false,
+          "node": {
+            "id": 159,
+            "name": "Kodansha"
+          }
+        },
+        {
+          "id": 45257,
           "isMain": false,
           "node": {
             "id": 55,
             "name": "TV Asahi"
+          }
+        },
+        {
+          "id": 45258,
+          "isMain": false,
+          "node": {
+            "id": 11,
+            "name": "MADHOUSE"
+          }
+        },
+        {
+          "id": 45259,
+          "isMain": false,
+          "node": {
+            "id": 6734,
+            "name": "Cyclone Graphics"
           }
         }
       ]
@@ -30534,11 +30713,11 @@
             "title": {
               "romaji": "Uma Musume: Cinderella Gray Part 2",
               "english": "Umamusume: Cinderella Gray 2nd Cour",
-              "native": "ウマ娘 シンデレラグレイ 2クール"
+              "native": "ウマ娘 シンデレラグレイ 第2クール"
             },
             "type": "ANIME",
             "format": "TV",
-            "status": "NOT_YET_RELEASED",
+            "status": "RELEASING",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195240-hKcmllV6YHQT.jpg",
               "color": "#5093e4"
@@ -30760,7 +30939,7 @@
       "Fantasy"
     ],
     "averageScore": 71,
-    "meanScore": 73,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "KVT_ODZn9Ys",
@@ -30831,19 +31010,59 @@
           }
         },
         {
-          "id": 44736,
+          "id": 45114,
           "isMain": false,
           "node": {
-            "id": 6761,
-            "name": "WOWMAX"
+            "id": 7711,
+            "name": "Sun Electronics"
           }
         },
         {
-          "id": 44737,
+          "id": 45115,
           "isMain": false,
           "node": {
-            "id": 577,
-            "name": "Tohokushinsha Film Corporation"
+            "id": 57,
+            "name": "Touhouku Shinsha"
+          }
+        },
+        {
+          "id": 45116,
+          "isMain": false,
+          "node": {
+            "id": 925,
+            "name": "Earth Star Entertainment"
+          }
+        },
+        {
+          "id": 45117,
+          "isMain": false,
+          "node": {
+            "id": 6868,
+            "name": "Kansai TV"
+          }
+        },
+        {
+          "id": 45118,
+          "isMain": false,
+          "node": {
+            "id": 6796,
+            "name": "BS Asahi"
+          }
+        },
+        {
+          "id": 45119,
+          "isMain": false,
+          "node": {
+            "id": 6891,
+            "name": "Bushiroad Move"
+          }
+        },
+        {
+          "id": 45120,
+          "isMain": false,
+          "node": {
+            "id": 460,
+            "name": "KLOCKWORX"
           }
         }
       ]
@@ -30949,7 +31168,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180585-OeG5SMQgJToD.jpg",
     "genres": [],
     "averageScore": 65,
-    "meanScore": 74,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "YHfc0M3CGw0",
@@ -31299,8 +31518,8 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 59,
-    "meanScore": 65,
+    "averageScore": 60,
+    "meanScore": 66,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -31380,7 +31599,7 @@
       "Action",
       "Fantasy"
     ],
-    "averageScore": 59,
+    "averageScore": 58,
     "meanScore": 71,
     "isAdult": false,
     "trailer": {
@@ -31521,7 +31740,7 @@
       "Fantasy"
     ],
     "averageScore": 59,
-    "meanScore": 73,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "AGepNnFXd3c",
@@ -32361,7 +32580,7 @@
     "genres": [
       "Sports"
     ],
-    "averageScore": 55,
+    "averageScore": 56,
     "meanScore": 70,
     "isAdult": false,
     "trailer": {
@@ -32740,7 +32959,7 @@
       "Action",
       "Sports"
     ],
-    "averageScore": 61,
+    "averageScore": 62,
     "meanScore": 69,
     "isAdult": false,
     "trailer": {
@@ -33932,7 +34151,7 @@
       "Hentai"
     ],
     "averageScore": 54,
-    "meanScore": 58,
+    "meanScore": 59,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -35624,7 +35843,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180936-fxGuTaKqIBe0.jpg",
     "genres": [],
     "averageScore": 61,
-    "meanScore": 73,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "u4uDiV3u-do",
@@ -37529,7 +37748,7 @@
       "Drama",
       "Romance"
     ],
-    "averageScore": 87,
+    "averageScore": 86,
     "meanScore": 87,
     "isAdult": false,
     "trailer": {
@@ -37654,9 +37873,9 @@
       "day": 4
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 12,
+      "day": 20
     },
     "season": "FALL",
     "seasonYear": 2025,
@@ -37679,8 +37898,8 @@
       "Fantasy",
       "Romance"
     ],
-    "averageScore": 74,
-    "meanScore": 77,
+    "averageScore": 75,
+    "meanScore": 76,
     "isAdult": false,
     "trailer": {
       "id": "hXQi1-eyBVg",
@@ -37750,6 +37969,46 @@
           "node": {
             "id": 839,
             "name": "LIDENFILMS"
+          }
+        },
+        {
+          "id": 45139,
+          "isMain": false,
+          "node": {
+            "id": 7460,
+            "name": "AlphaPolis"
+          }
+        },
+        {
+          "id": 45140,
+          "isMain": false,
+          "node": {
+            "id": 6421,
+            "name": "Crunchyroll"
+          }
+        },
+        {
+          "id": 45141,
+          "isMain": false,
+          "node": {
+            "id": 6259,
+            "name": "TOKYO MX"
+          }
+        },
+        {
+          "id": 45142,
+          "isMain": false,
+          "node": {
+            "id": 6616,
+            "name": "BS11"
+          }
+        },
+        {
+          "id": 45143,
+          "isMain": false,
+          "node": {
+            "id": 166,
+            "name": "Movic"
           }
         }
       ]
@@ -37956,7 +38215,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 45,
+    "meanScore": 46,
     "isAdult": false,
     "trailer": {
       "id": "sb_kvStZtwU",
@@ -39516,7 +39775,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 30,
+    "meanScore": 26,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -39684,7 +39943,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 75,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "Relxo1yzAI8",
@@ -39958,7 +40217,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 73,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -40272,7 +40531,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 42,
+    "meanScore": 45,
     "isAdult": false,
     "trailer": {
       "id": "QrLZDeW4n8k",
@@ -40347,7 +40606,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 41,
+    "meanScore": 43,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -40506,7 +40765,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 45,
+    "meanScore": 46,
     "isAdult": false,
     "trailer": {
       "id": "_HCxyd-H2PU",
@@ -40741,8 +41000,8 @@
     "genres": [
       "Comedy"
     ],
-    "averageScore": 60,
-    "meanScore": 74,
+    "averageScore": 59,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -41652,7 +41911,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 29,
+    "meanScore": 30,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -41735,7 +41994,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 57,
+    "meanScore": 58,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -43102,13 +43361,13 @@
     "idMal": 59971,
     "title": {
       "romaji": "Tensei Shitara Slime Datta Ken - Soukai no Namida-hen",
-      "english": null,
+      "english": "That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea",
       "native": "劇場版 転生したらスライムだった件 蒼海の涙編"
     },
     "type": "ANIME",
     "format": "MOVIE",
     "status": "NOT_YET_RELEASED",
-    "description": "The second movie in the <i>Tensei Shitara Slime Datta Ken</i> series.<br><br>\n<i>Note: Title and relations are provisional and subject to change.</i>",
+    "description": "The second movie in the <i>Tensei Shitara Slime Datta Ken</i> series.<br><br>\nAfter concluding the opening ceremony of the Demon Kingdom Federation Tempest, Rimuru and his companions are invited by the Celestial Emperor Hermesia of the great elven nation – the Magi Dynasty Salion – to visit her private resort island. As the group enjoys their brief vacation, a mysterious woman named Yura appears. A new incident unfolds against the backdrop of the boundless azure sea.<br><br>\n\n(Source: Crunchyroll)<br><br>\n<i>Note: Relations are provisional and subject to change.</i>",
     "startDate": {
       "year": 2026,
       "month": 2,
@@ -43143,9 +43402,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "tBA9iiLYk9Q",
+      "id": "RBJL4B0abpI",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/tBA9iiLYk9Q/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/RBJL4B0abpI/hqdefault.jpg"
     },
     "synonyms": [
       "Tensura Movie 2",
@@ -43410,9 +43669,7 @@
       "site": "youtube",
       "thumbnail": "https://i.ytimg.com/vi/P-YPtYkViKM/hqdefault.jpg"
     },
-    "synonyms": [
-      "Frieren: Beyond Journey’s End Season 2"
-    ],
+    "synonyms": [],
     "relations": {
       "edges": [
         {
@@ -43905,7 +44162,7 @@
       "thumbnail": "https://i.ytimg.com/vi/uBugJy4ao2A/hqdefault.jpg"
     },
     "synonyms": [
-      "The Dangers in My Heart Movie",
+      "The Dangers in My Heart The Movie",
       "BokuYaba"
     ],
     "relations": {
@@ -43994,7 +44251,7 @@
     "id": 182333,
     "idMal": 59980,
     "title": {
-      "romaji": "Doraemon: Nobita no e Sekai Monogatari",
+      "romaji": "Doraemon: Nobita no E Sekai Monogatari",
       "english": null,
       "native": "映画ドラえもん のび太の絵世界物語"
     },
@@ -44031,8 +44288,8 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 62,
-    "meanScore": 76,
+    "averageScore": 64,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": {
       "id": "EAhXv49oI3E",
@@ -44186,7 +44443,7 @@
     "type": "ANIME",
     "format": "ONA",
     "status": "FINISHED",
-    "description": "Short episodes released on the Pokémon Official YouTube Channel.\n<br><br>\nEpisodes:<br>\n#1: Pawmi, Pawmo, Pawmot! / Pamo, Pamotto, Parmot! (パモパモットパーモット), released September 18, 2024.<br>\n#2: Angry Primeape Observation Diary / Ikari no Okorizaru Kansatsu Nikki (怒りのオコリザル観察日記), released September 25, 2024.<br>\n#3: Is there a mass outbreak of Clodsire? / Dooh Tairyou Hasseichuu? (ドオー大量発生ちゅう？), released October 2, 2024. <br>\n#4: Riding on Gogoat / Gougouto ni Notte (ゴーゴートに乗って), released October 9, 2024. <br>\n#5: I Love Ducklett! / Koaruhii Daisuki! (コアルヒーだいすき！), released October 16, 2024. <br>\n#6: Lucky Safari Tag!? / Lucky Safari de o ni go Kko!? (ラッキーなサファリでおにごっこ！？), released October 23, 2024. <br>\n#7: Romantic Spice - Capsakid Legend / Romantic Spice - Capsaiji Densetsu (Romanticスパイス カプサイジ伝説). released October 30, 2024. <br>\n#8: Childhood Friend Charcadet / Childhood Friend Carbou (幼なじみのカルボウ), released November 20, 2024 <br>\n#9: Midnight Adventure with Murkrow / Yamikarasu to Mayonaka no Bouken (ヤミカラスと真夜中のぼうけん), released February 14, 2025 <br>\n#10 Can't Take My Eyes Off Kangaskhan / Mega Hanasenai ne Garura (めがはなせないね ガルーラ), released October 3, 2025 <br>",
+    "description": "Short episodes released on the Pokémon Official YouTube Channel.\n<br><br>\nEpisodes:<br>\n#1: Pawmi, Pawmo, Pawmot! / Pamo, Pamotto, Parmot! (パモパモットパーモット), released September 18, 2024.<br>\n#2: Angry Primeape Observation Diary / Ikari no Okorizaru Kansatsu Nikki (怒りのオコリザル観察日記), released September 25, 2024.<br>\n#3: Is there a mass outbreak of Clodsire? / Dooh Tairyou Hasseichuu? (ドオー大量発生ちゅう？), released October 2, 2024. <br>\n#4: Riding on Gogoat / Gougouto ni Notte (ゴーゴートに乗って), released October 9, 2024. <br>\n#5: I Love Ducklett! / Koaruhii Daisuki! (コアルヒーだいすき！), released October 16, 2024. <br>\n#6: Chansey Safari Tag!? / Lucky Safari de o ni go Kko!? (ラッキーなサファリでおにごっこ！？), released October 23, 2024. <br>\n#7: Romantic Spice - Capsakid Legend / Romantic Spice - Capsaiji Densetsu (Romanticスパイス カプサイジ伝説). released October 30, 2024. <br>\n#8: Childhood Friend Charcadet / Osananajimi no Carbou (幼なじみのカルボウ), released November 20, 2024 <br>\n#9: Midnight Adventure with Murkrow / Yamikarasu to Mayonaka no Bouken (ヤミカラスと真夜中のぼうけん), released February 14, 2025 <br>\n#10 Can't Pull Your Eyes Away, Right, Kangaskhan? / Mega Hanasenai ne Garura (めがはなせないね ガルーラ), released October 3, 2025 <br>",
     "startDate": {
       "year": 2024,
       "month": 9,
@@ -45054,7 +45311,7 @@
     },
     "type": "ANIME",
     "format": "ONA",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "\"Please pick your favorite student...\" The thing that appeared before the overworked teacher, Mr. Sasaki, was “Guilty Pleasure.” He thinks he's having a dream when he sees the student's shoe lockers have been transformed into selection panels... seeing one that catches his eye, he joking picks her... When she appears in his classroom in the middle of the night, throwing insults at him, but her eyes seem to linger on him, tinged with embarassment. \"I'll finish this quickly so... Don't hold back, ok...?\" Thus begins a forbidden relationship... Welcome to Guilty Pleasure, where anything is allowed-- \n<br><br>\n(OceanVeil)\n<br><br>\n<i>Note: Episode 1 received an advances distribution on AnimeFesta on September 12th, 2025. The start date reflects the start of the regular series broadcasting.</i>",
     "startDate": {
       "year": 2025,
@@ -45084,7 +45341,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 66,
     "isAdult": true,
     "trailer": {
       "id": "GCUWDK1ZuFM",
@@ -46538,7 +46795,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 66,
+    "averageScore": 67,
     "meanScore": 85,
     "isAdult": false,
     "trailer": null,
@@ -46850,13 +47107,13 @@
     "idMal": 60058,
     "title": {
       "romaji": "[Oshi no Ko] 3rd Season",
-      "english": null,
+      "english": "【OSHI NO KO】Season 3",
       "native": "【推しの子】第3期"
     },
     "type": "ANIME",
     "format": "TV",
     "status": "NOT_YET_RELEASED",
-    "description": "The third season of <i>[Oshi no Ko]</i>.\n",
+    "description": "The third season of <i>[Oshi no Ko]</i>.\n<br><br>\nThe story enters a new stage.\n<br><br>\nIt's been six months since \"POP IN 2\" was released. Thanks to MEM-Cho's hard work, B-Komachi is about to get their major break. Aqua is a multi-talented entertainer, and Akane's career as a talented actress is going smoothly. Meanwhile, Kana lost the cheerfulness she once had. To track down the truth behind Ai and Goro's deaths, Ruby keeps rising in the entertainment world...\n<br><br>\nUsing lies as a weapon.\n<br><br>\n(Source: Crunchyroll)\n",
     "startDate": {
       "year": 2026,
       "month": 1,
@@ -46895,7 +47152,9 @@
       "site": "youtube",
       "thumbnail": "https://i.ytimg.com/vi/O9ci5jQoTdk/hqdefault.jpg"
     },
-    "synonyms": [],
+    "synonyms": [
+      "[OSHI NO KO] Season 3"
+    ],
     "relations": {
       "edges": [
         {
@@ -47255,7 +47514,7 @@
     "idMal": 60071,
     "title": {
       "romaji": "Odayaka Kizoku no Kyuuka no Susume.",
-      "english": null,
+      "english": "A Gentle Noble's Vacation Recommendation",
       "native": "穏やか貴族の休暇のすすめ。"
     },
     "type": "ANIME",
@@ -47295,12 +47554,11 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "wqymf-Se6Mc",
+      "id": "YeS6JwAdNL8",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/wqymf-Se6Mc/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/YeS6JwAdNL8/hqdefault.jpg"
     },
     "synonyms": [
-      "A Gentle Noble's Vacation Recommendation",
       "A Mild Noble's Vacation Suggestion"
     ],
     "relations": {
@@ -47759,7 +48017,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 23,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#heroaca_a #ヒロアカ",
@@ -47773,7 +48031,7 @@
       "Action",
       "Adventure"
     ],
-    "averageScore": 79,
+    "averageScore": 80,
     "meanScore": 81,
     "isAdult": false,
     "trailer": {
@@ -47787,7 +48045,8 @@
       "BNHA 8",
       "MHA 8",
       "Моя геройская академия 8",
-      "ヒロアカ 8"
+      "ヒロアカ 8",
+      "มายฮีโร่ อคาเดเมีย ไฟนอลซีซัน"
     ],
     "relations": {
       "edges": [
@@ -47842,15 +48101,23 @@
           }
         },
         {
-          "id": 41871,
-          "isMain": false,
+          "id": 43225,
+          "isMain": true,
           "node": {
-            "id": 4,
-            "name": "bones"
+            "id": 7585,
+            "name": "bones film"
           }
         },
         {
-          "id": 41873,
+          "id": 45124,
+          "isMain": false,
+          "node": {
+            "id": 76,
+            "name": "Yomiuri TV"
+          }
+        },
+        {
+          "id": 45125,
           "isMain": false,
           "node": {
             "id": 6570,
@@ -47858,7 +48125,15 @@
           }
         },
         {
-          "id": 41874,
+          "id": 45126,
+          "isMain": false,
+          "node": {
+            "id": 4,
+            "name": "bones"
+          }
+        },
+        {
+          "id": 45127,
           "isMain": false,
           "node": {
             "id": 53,
@@ -47866,15 +48141,7 @@
           }
         },
         {
-          "id": 41875,
-          "isMain": false,
-          "node": {
-            "id": 166,
-            "name": "Movic"
-          }
-        },
-        {
-          "id": 41876,
+          "id": 45128,
           "isMain": false,
           "node": {
             "id": 757,
@@ -47882,11 +48149,11 @@
           }
         },
         {
-          "id": 43225,
-          "isMain": true,
+          "id": 45129,
+          "isMain": false,
           "node": {
-            "id": 7585,
-            "name": "bones film"
+            "id": 166,
+            "name": "Movic"
           }
         }
       ]
@@ -48207,7 +48474,7 @@
       "Comedy",
       "Music"
     ],
-    "averageScore": 74,
+    "averageScore": 75,
     "meanScore": 76,
     "isAdult": false,
     "trailer": {
@@ -48320,7 +48587,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "averageScore": 69,
+    "averageScore": 70,
     "meanScore": 71,
     "isAdult": false,
     "trailer": {
@@ -48756,7 +49023,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 72,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -49047,8 +49314,8 @@
             "format": "TV",
             "status": "NOT_YET_RELEASED",
             "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-KFT14HClwT9T.jpg",
-              "color": "#43c9f1"
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-scp3vW21l0xF.jpg",
+              "color": "#5daee4"
             }
           }
         }
@@ -49998,8 +50265,8 @@
       "Fantasy",
       "Romance"
     ],
-    "averageScore": 66,
-    "meanScore": 70,
+    "averageScore": 68,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "wvutMIYKa2g",
@@ -50065,6 +50332,54 @@
           "node": {
             "id": 145,
             "name": "TBS"
+          }
+        },
+        {
+          "id": 45172,
+          "isMain": false,
+          "node": {
+            "id": 6421,
+            "name": "Crunchyroll"
+          }
+        },
+        {
+          "id": 45173,
+          "isMain": false,
+          "node": {
+            "id": 166,
+            "name": "Movic"
+          }
+        },
+        {
+          "id": 45174,
+          "isMain": false,
+          "node": {
+            "id": 159,
+            "name": "Kodansha"
+          }
+        },
+        {
+          "id": 45175,
+          "isMain": false,
+          "node": {
+            "id": 6616,
+            "name": "BS11"
+          }
+        },
+        {
+          "id": 45176,
+          "isMain": false,
+          "node": {
+            "id": 406,
+            "name": "Asahi Production"
+          }
+        },
+        {
+          "id": 45177,
+          "isMain": false,
+          "node": {
+            "id": 460,
+            "name": "KLOCKWORX"
           }
         }
       ]
@@ -50316,7 +50631,7 @@
       "Supernatural"
     ],
     "averageScore": 71,
-    "meanScore": 74,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "sGCfgvjn4CU",
@@ -50477,7 +50792,7 @@
       "Slice of Life"
     ],
     "averageScore": 56,
-    "meanScore": 65,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": {
       "id": "ua9r5T3WZj8",
@@ -50757,7 +51072,7 @@
       "Psychological"
     ],
     "averageScore": 61,
-    "meanScore": 76,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": {
       "id": "48Csilkjev0",
@@ -50982,7 +51297,7 @@
       "Music"
     ],
     "averageScore": null,
-    "meanScore": 71,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "axbbAxWU9qQ",
@@ -51364,7 +51679,7 @@
       "Comedy"
     ],
     "averageScore": 59,
-    "meanScore": 67,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "v1dqJClQKwg",
@@ -52383,8 +52698,8 @@
     "status": "NOT_YET_RELEASED",
     "description": "Kaya-chan is an infamous problem child in kindergarten. However, when Chie-sensei is assigned to look after her, she finds out that Kaya has an ability... Presenting to you, the strongest horror action series set in a kindergarten!!",
     "startDate": {
-      "year": null,
-      "month": null,
+      "year": 2026,
+      "month": 1,
       "day": null
     },
     "endDate": {
@@ -52392,18 +52707,18 @@
       "month": null,
       "day": null
     },
-    "season": null,
-    "seasonYear": null,
-    "seasonInt": null,
+    "season": "WINTER",
+    "seasonYear": 2026,
+    "seasonInt": 261,
     "episodes": null,
     "duration": null,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#カヤコワ #カヤちゃんはコワくない",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183660-EjHlNVt5WCDA.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183660-EjHlNVt5WCDA.jpg",
-      "color": "#e4865d"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183660-MLo9txbeEQS6.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183660-MLo9txbeEQS6.jpg",
+      "color": "#e4785d"
     },
     "bannerImage": null,
     "genres": [
@@ -52473,13 +52788,13 @@
     "idMal": null,
     "title": {
       "romaji": "Isekai no Sata wa Shachiku Shidai",
-      "english": null,
+      "english": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
       "native": "異世界の沙汰は社畜次第"
     },
     "type": "ANIME",
     "format": "TV",
     "status": "NOT_YET_RELEASED",
-    "description": "Seiichirou Kondou is a 29-year-old accountant and major workaholic. When he's accidentally transported to another world, not only does he demand a job, he starts whipping the lackadaisical Royal Accounting Department into shape! But when he gets in over his head and nearly dies from overwork, the handsome Commander Aresh steps in to save him, and the two develop a unique, physical relationship...as a form of medical treatment?!\n<br><br>\n(Source: Yen Press)\n",
+    "description": "Seiichirou Kondou, a salaryman approaching his 30s, gets caught up in a holy maiden summoning ritual and is transported to a parallel world called Romany Kingdom. Having worked day and night, he developed the mindset of a corporate slave and even demanded work in this new world, which landed him an accounting job at the Royal Accounting Department.\n<br><br>\nDuring his hectic days rebuilding the accounting department, Seiichirou came across a nutritional tonic that wiped away any fatigue. Thanks to the tonic, Seiichirou's chronic ailments and exhaustion completely disappeared, leaving him overjoyed. But because he had no resistance to the world's magic, the side effects put his life in danger!\n<br><br>\nThe only way to survive was to have someone with magic help accustom his body to magical energy, so with no other choice Seiichirou entrusts himself to Aresh, captain of the Third Royal Order, known as the Ice Prince.\n<br><br>\n(Source: Crunchyroll)",
     "startDate": {
       "year": 2026,
       "month": 1,
@@ -52497,7 +52812,7 @@
     "duration": null,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
-    "hashtag": null,
+    "hashtag": "#異世界の沙汰は社畜次第 #いせしゃち",
     "coverImage": {
       "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx183661-upLCXuPsSDDR.png",
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183661-upLCXuPsSDDR.png",
@@ -52842,7 +53157,7 @@
       "Hentai"
     ],
     "averageScore": 58,
-    "meanScore": 63,
+    "meanScore": 64,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -54132,8 +54447,8 @@
     "genres": [
       "Slice of Life"
     ],
-    "averageScore": 54,
-    "meanScore": 64,
+    "averageScore": 53,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -54353,7 +54668,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 22,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#矢野くんの普通の日々",
@@ -54368,8 +54683,8 @@
       "Romance",
       "Slice of Life"
     ],
-    "averageScore": 66,
-    "meanScore": 68,
+    "averageScore": 67,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "AVcXFW1fqAk",
@@ -54879,8 +55194,8 @@
     "genres": [
       "Horror"
     ],
-    "averageScore": 43,
-    "meanScore": 44,
+    "averageScore": 42,
+    "meanScore": 43,
     "isAdult": false,
     "trailer": {
       "id": "WWh5M8luzxM",
@@ -55632,7 +55947,7 @@
       "Comedy"
     ],
     "averageScore": 50,
-    "meanScore": 60,
+    "meanScore": 59,
     "isAdult": false,
     "trailer": {
       "id": "09-RvkeAZCc",
@@ -55710,7 +56025,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 51,
+    "meanScore": 50,
     "isAdult": false,
     "trailer": {
       "id": "f8VXXMz6StQ",
@@ -56424,7 +56739,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 24,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
     "hashtag": "#無限ガチャ #unlimitedgacha",
@@ -56439,8 +56754,8 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 64,
-    "meanScore": 68,
+    "averageScore": 63,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": {
       "id": "_hkHcdNreJA",
@@ -56505,11 +56820,59 @@
           }
         },
         {
-          "id": 44614,
+          "id": 45144,
           "isMain": false,
           "node": {
-            "id": 104,
-            "name": "Lantis"
+            "id": 7137,
+            "name": "Bandai Namco Filmworks"
+          }
+        },
+        {
+          "id": 45145,
+          "isMain": false,
+          "node": {
+            "id": 143,
+            "name": "Mainichi Broadcasting System"
+          }
+        },
+        {
+          "id": 45146,
+          "isMain": false,
+          "node": {
+            "id": 547,
+            "name": "Hobby Japan"
+          }
+        },
+        {
+          "id": 45147,
+          "isMain": false,
+          "node": {
+            "id": 7396,
+            "name": "Daito Giken"
+          }
+        },
+        {
+          "id": 45148,
+          "isMain": false,
+          "node": {
+            "id": 7138,
+            "name": "Bandai Namco Music Live"
+          }
+        },
+        {
+          "id": 45149,
+          "isMain": false,
+          "node": {
+            "id": 7712,
+            "name": "KMS"
+          }
+        },
+        {
+          "id": 45150,
+          "isMain": false,
+          "node": {
+            "id": 6616,
+            "name": "BS11"
           }
         }
       ]
@@ -57125,7 +57488,7 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "averageScore": 57,
+    "averageScore": 58,
     "meanScore": 64,
     "isAdult": false,
     "trailer": {
@@ -57994,7 +58357,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "averageScore": 63,
+    "averageScore": 64,
     "meanScore": 64,
     "isAdult": false,
     "trailer": {
@@ -58631,7 +58994,7 @@
             "id": 40282,
             "title": {
               "romaji": "Akage no Anne",
-              "english": "Anne of Green Gables",
+              "english": null,
               "native": "赤毛のアン"
             },
             "type": "MANGA",
@@ -59399,8 +59762,8 @@
       "Mystery",
       "Romance"
     ],
-    "averageScore": 55,
-    "meanScore": 59,
+    "averageScore": 57,
+    "meanScore": 60,
     "isAdult": false,
     "trailer": {
       "id": "HZSNpLPNX-o",
@@ -60106,7 +60469,7 @@
       "Sci-Fi"
     ],
     "averageScore": 68,
-    "meanScore": 75,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": {
       "id": "LY92lXjJZpk",
@@ -60533,7 +60896,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 47,
+    "meanScore": 49,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -60645,7 +61008,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 49,
+    "meanScore": 50,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -60873,7 +61236,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 50,
+    "meanScore": 47,
     "isAdult": false,
     "trailer": {
       "id": "wDCK1D8Ivf0",
@@ -60984,7 +61347,7 @@
       "Supernatural"
     ],
     "averageScore": 60,
-    "meanScore": 72,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -61644,7 +62007,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184816-vBC9NrWx3fEc.jpg",
     "genres": [],
     "averageScore": 71,
-    "meanScore": 75,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": {
       "id": "eYqSJhpNIYY",
@@ -62367,22 +62730,22 @@
     "type": "ANIME",
     "format": "TV",
     "status": "RELEASING",
-    "description": "The time is Edo.<br><br>\nIchitarou, the young master of Nagasakiya, one of the largest stores in Nihonbashi, has been in poor health since birth and is unable to go outside. Ichitarou is always protected by spirits such as Shirasawa and Inugami, who serve him.<br><br>\nOne night, Ichitarou sneaks out when no one is looking and witnesses a murder. From that day on, bizarre murders begin to occur one after another in Edo... With the help of the spirits, the search for Ichitarou's culprit begins!<br><br>\n(Source: Official website, translated)",
+    "description": "Ichitarou, the frail yet sharp-minded master of Nagasakiya, rarely leaves his estate—but he’s far from alone. Gifted with the ability to see spirits, he’s protected by ghostly companions like Hakutaku and Inugami. One night, he slips out and witnesses a brutal murder. Soon after, Edo is plagued by a series of eerie murders. As fear grips the city, Ichitarou and his spirits must uncover the culprit.<br><br>\n(Source: Crunchyroll)",
     "startDate": {
       "year": 2025,
       "month": 10,
       "day": 3
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 12,
+      "day": 26
     },
     "season": "FALL",
     "seasonYear": 2025,
     "seasonInt": 254,
-    "episodes": null,
-    "duration": null,
+    "episodes": 13,
+    "duration": 23,
     "countryOfOrigin": "JP",
     "source": "OTHER",
     "hashtag": "#しゃばけ",
@@ -62396,8 +62759,8 @@
       "Fantasy",
       "Mystery"
     ],
-    "averageScore": 53,
-    "meanScore": 61,
+    "averageScore": 56,
+    "meanScore": 60,
     "isAdult": false,
     "trailer": {
       "id": "KwaHYiTO9Ec",
@@ -62471,6 +62834,46 @@
           "node": {
             "id": 169,
             "name": "Fuji TV"
+          }
+        },
+        {
+          "id": 45151,
+          "isMain": false,
+          "node": {
+            "id": 6116,
+            "name": "Bandai Namco Pictures"
+          }
+        },
+        {
+          "id": 45152,
+          "isMain": false,
+          "node": {
+            "id": 7713,
+            "name": "Shinchosha"
+          }
+        },
+        {
+          "id": 45153,
+          "isMain": false,
+          "node": {
+            "id": 166,
+            "name": "Movic"
+          }
+        },
+        {
+          "id": 45154,
+          "isMain": false,
+          "node": {
+            "id": 7138,
+            "name": "Bandai Namco Music Live"
+          }
+        },
+        {
+          "id": 45155,
+          "isMain": false,
+          "node": {
+            "id": 53,
+            "name": "Dentsu"
           }
         }
       ]
@@ -63485,16 +63888,16 @@
     "source": "MANGA",
     "hashtag": "#ルパン三世 #LUPINTHEIIIRDTHEMOVIE",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185084-tGOzBUQZe6aT.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185084-tGOzBUQZe6aT.jpg",
-      "color": "#f1ae5d"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185084-aY9Drgo6tDRA.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185084-aY9Drgo6tDRA.jpg",
+      "color": "#e4ae5d"
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185084-ajmkuKKObp3B.jpg",
     "genres": [
       "Action"
     ],
     "averageScore": null,
-    "meanScore": 69,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "75FM2FMKXek",
@@ -63675,7 +64078,7 @@
             },
             "type": "ANIME",
             "format": "TV_SHORT",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194088-lzp3BHNx0tnY.png",
               "color": "#f1d60d"
@@ -63800,7 +64203,7 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "The story of <i>GNOSIA</i> takes place on a ship drifting through space. Gnosia is an enemy that disguises itself as a human and attacks them. It is now on the spaceship, causing everyone onboard to be suspicious of each other. The crew decides to vote on the most suspicious-looking person every day and put them into a cold sleep.<br><br>\n\nIf the humans succeed in putting Gnosia to sleep, they'll win. On the other hand, if they don't, everyone on board is in danger. The right decision must be made. No matter what decision is made by the main character, Yuri, she finds herself in a time loop that returns her to the first day of the crisis. <br><br>\n\nWill the crew on board make the right decision? What is the secret behind the time loop? What secrets hide behind the faces of everyone on board?<br><br>\n\n<i>GNOSIA</i> begins now – a story of looping, fleeting moments that feels like an eternity but passes by in an instant.<br><br>\n\nHave a pleasant journey.<br><br>\n(Source: Crunchyroll)",
     "startDate": {
       "year": 2025,
@@ -64426,8 +64829,8 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 53,
-    "meanScore": 59,
+    "averageScore": 54,
+    "meanScore": 60,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -65001,8 +65404,8 @@
     "genres": [
       "Comedy"
     ],
-    "averageScore": 52,
-    "meanScore": 58,
+    "averageScore": 53,
+    "meanScore": 59,
     "isAdult": false,
     "trailer": {
       "id": "RBfakSF4yc0",
@@ -65284,9 +65687,9 @@
     "source": "LIGHT_NOVEL",
     "hashtag": null,
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185262-JZ18bHusbM0J.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185262-JZ18bHusbM0J.jpg",
-      "color": "#50e4fe"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185262-lRq0EYXeO4c7.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185262-lRq0EYXeO4c7.png",
+      "color": "#e4bb43"
     },
     "bannerImage": null,
     "genres": [
@@ -65298,9 +65701,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "dhDyy0eAGDs",
+      "id": "aTvv9bZIoWY",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/dhDyy0eAGDs/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/aTvv9bZIoWY/hqdefault.jpg"
     },
     "synonyms": [],
     "relations": {
@@ -65346,7 +65749,24 @@
       ]
     },
     "studios": {
-      "edges": []
+      "edges": [
+        {
+          "id": 45266,
+          "isMain": true,
+          "node": {
+            "id": 6159,
+            "name": "Yokohama Animation Lab"
+          }
+        },
+        {
+          "id": 45267,
+          "isMain": false,
+          "node": {
+            "id": 143,
+            "name": "Mainichi Broadcasting System"
+          }
+        }
+      ]
     }
   },
   {
@@ -65513,7 +65933,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185371-dzIjhVmmhLO3.jpg",
     "genres": [],
     "averageScore": 63,
-    "meanScore": 72,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "bxVTrX8TjrU",
@@ -65765,8 +66185,8 @@
     "genres": [
       "Fantasy"
     ],
-    "averageScore": 51,
-    "meanScore": 53,
+    "averageScore": 52,
+    "meanScore": 54,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -66703,7 +67123,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 65,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": {
       "id": "lTUVw7wd5qY",
@@ -66861,7 +67281,7 @@
     "title": {
       "romaji": "Dokodemo Makibao",
       "english": null,
-      "native": "どこでもマキバオー"
+      "native": "みどりのマキバオー"
     },
     "type": "ANIME",
     "format": "ONA",
@@ -66884,7 +67304,7 @@
     "duration": 5,
     "countryOfOrigin": "JP",
     "source": "MANGA",
-    "hashtag": null,
+    "hashtag": "#マキバオー",
     "coverImage": {
       "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185538-3YVB6ishN7as.png",
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185538-3YVB6ishN7as.png",
@@ -66922,6 +67342,25 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b3550-4pe4g4EAIhR7.jpg",
               "color": "#5dbbe4"
+            }
+          }
+        },
+        {
+          "id": 116166,
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 199931,
+            "title": {
+              "romaji": "Dokodemo Makibao: World Tour",
+              "english": null,
+              "native": "どこでもマキバオー ～ワールドツアー～"
+            },
+            "type": "ANIME",
+            "format": "ONA",
+            "status": "RELEASING",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199931-EhQ6yMCbEvik.png",
+              "color": "#fff100"
             }
           }
         }
@@ -67553,7 +67992,7 @@
       "Comedy",
       "Romance"
     ],
-    "averageScore": 65,
+    "averageScore": 66,
     "meanScore": 68,
     "isAdult": false,
     "trailer": {
@@ -67716,7 +68155,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185576-mrRcekCboeNh.jpg",
     "genres": [],
     "averageScore": 58,
-    "meanScore": 71,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "r-kkCrVZUzc",
@@ -67861,7 +68300,7 @@
     "genres": [
       "Comedy"
     ],
-    "averageScore": 61,
+    "averageScore": 62,
     "meanScore": 65,
     "isAdult": false,
     "trailer": {
@@ -68876,7 +69315,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 61,
+    "meanScore": 59,
     "isAdult": false,
     "trailer": {
       "id": "vmERQ5ECuVM",
@@ -69868,7 +70307,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "2wh9yN8lVW0",
@@ -69925,6 +70364,54 @@
         {
           "id": 43264,
           "isMain": true,
+          "node": {
+            "id": 6121,
+            "name": "Pie in the sky"
+          }
+        },
+        {
+          "id": 45162,
+          "isMain": false,
+          "node": {
+            "id": 6855,
+            "name": "Shinshokan"
+          }
+        },
+        {
+          "id": 45163,
+          "isMain": false,
+          "node": {
+            "id": 6259,
+            "name": "TOKYO MX"
+          }
+        },
+        {
+          "id": 45164,
+          "isMain": false,
+          "node": {
+            "id": 6796,
+            "name": "BS Asahi"
+          }
+        },
+        {
+          "id": 45165,
+          "isMain": false,
+          "node": {
+            "id": 6996,
+            "name": "A3"
+          }
+        },
+        {
+          "id": 45166,
+          "isMain": false,
+          "node": {
+            "id": 6202,
+            "name": "King Records"
+          }
+        },
+        {
+          "id": 45167,
+          "isMain": false,
           "node": {
             "id": 6121,
             "name": "Pie in the sky"
@@ -70386,7 +70873,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "averageScore": 53,
+    "averageScore": 54,
     "meanScore": 65,
     "isAdult": false,
     "trailer": null,
@@ -70786,7 +71273,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 80,
+    "meanScore": 78,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -70867,7 +71354,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 73,
+    "averageScore": 74,
     "meanScore": 84,
     "isAdult": false,
     "trailer": null,
@@ -71064,7 +71551,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 76,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -71275,7 +71762,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 66,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -71521,8 +72008,8 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 65,
-    "meanScore": 86,
+    "averageScore": 66,
+    "meanScore": 85,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -71600,7 +72087,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 23,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#らんまアニメ #ranma",
@@ -71615,8 +72102,8 @@
       "Comedy",
       "Romance"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 76,
+    "meanScore": 79,
     "isAdult": false,
     "trailer": {
       "id": "qf_pRksXtTw",
@@ -71695,6 +72182,38 @@
           "node": {
             "id": 569,
             "name": "MAPPA"
+          }
+        },
+        {
+          "id": 45058,
+          "isMain": false,
+          "node": {
+            "id": 62,
+            "name": "Shogakukan-Shueisha Productions"
+          }
+        },
+        {
+          "id": 45059,
+          "isMain": false,
+          "node": {
+            "id": 569,
+            "name": "MAPPA"
+          }
+        },
+        {
+          "id": 45060,
+          "isMain": false,
+          "node": {
+            "id": 6161,
+            "name": "Shogakukan"
+          }
+        },
+        {
+          "id": 45061,
+          "isMain": false,
+          "node": {
+            "id": 6620,
+            "name": "Nippon Television Network"
           }
         }
       ]
@@ -71943,7 +72462,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 48,
+    "meanScore": 51,
     "isAdult": false,
     "trailer": {
       "id": "1u_S0MdUlAU",
@@ -73465,15 +73984,15 @@
       "day": 4
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 12,
+      "day": 13
     },
     "season": "FALL",
     "seasonYear": 2025,
     "seasonInt": 254,
-    "episodes": null,
-    "duration": null,
+    "episodes": 11,
+    "duration": 24,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
     "hashtag": "#嘆きの亡霊は引退したい",
@@ -73488,8 +74007,8 @@
       "Comedy",
       "Fantasy"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 70,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "f9iNG9he4bg",
@@ -73573,11 +74092,59 @@
           }
         },
         {
-          "id": 42309,
+          "id": 45069,
+          "isMain": false,
+          "node": {
+            "id": 6429,
+            "name": "Avex Pictures"
+          }
+        },
+        {
+          "id": 45070,
           "isMain": false,
           "node": {
             "id": 7237,
             "name": "GREE Entertainment"
+          }
+        },
+        {
+          "id": 45071,
+          "isMain": false,
+          "node": {
+            "id": 6819,
+            "name": "Micro Magazine Sha"
+          }
+        },
+        {
+          "id": 45072,
+          "isMain": false,
+          "node": {
+            "id": 6259,
+            "name": "TOKYO MX"
+          }
+        },
+        {
+          "id": 45073,
+          "isMain": false,
+          "node": {
+            "id": 6117,
+            "name": "Zero-G"
+          }
+        },
+        {
+          "id": 45074,
+          "isMain": false,
+          "node": {
+            "id": 300,
+            "name": "SILVER LINK."
+          }
+        },
+        {
+          "id": 45075,
+          "isMain": false,
+          "node": {
+            "id": 7312,
+            "name": "BS Nittele"
           }
         }
       ]
@@ -74432,7 +74999,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 63,
+    "meanScore": 62,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -74664,7 +75231,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 73,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": {
       "id": "r09Hadb-WBE",
@@ -75784,7 +76351,7 @@
       "Fantasy"
     ],
     "averageScore": 68,
-    "meanScore": 87,
+    "meanScore": 85,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -77379,7 +77946,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 49,
+    "meanScore": 54,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -77500,7 +78067,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 44,
+    "meanScore": 47,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -77625,7 +78192,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 43,
+    "meanScore": 46,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -77746,7 +78313,7 @@
       "Drama"
     ],
     "averageScore": null,
-    "meanScore": 44,
+    "meanScore": 48,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -78307,7 +78874,7 @@
       "Action"
     ],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "HRlW6yZo6Kc",
@@ -78373,7 +78940,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 55,
+    "averageScore": 56,
     "meanScore": 67,
     "isAdult": false,
     "trailer": {
@@ -78553,7 +79120,7 @@
     "description": "Born as the thirteenth prince, Noah was originally in a position removed from the imperial succession, so he freely passed his time in the fief granted to him.\n<br><br>\nHowever, the Crown Prince died before the Emperor. The imperial succession would be fairly contested among the remaining princes. Noah, being the strongest despite living freely, overwhelmed the other princes and eventually became the Emperor with the most power in the world.\n<br><br>\n(Source: Shousetsuka ni Narou, translated)",
     "startDate": {
       "year": 2026,
-      "month": null,
+      "month": 1,
       "day": null
     },
     "endDate": {
@@ -78561,9 +79128,9 @@
       "month": null,
       "day": null
     },
-    "season": null,
-    "seasonYear": null,
-    "seasonInt": null,
+    "season": "WINTER",
+    "seasonYear": 2026,
+    "seasonInt": 261,
     "episodes": null,
     "duration": null,
     "countryOfOrigin": "JP",
@@ -78584,9 +79151,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "lg3xU4D4Wvs",
+      "id": "we7iIJqI8mU",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/lg3xU4D4Wvs/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/we7iIJqI8mU/hqdefault.jpg"
     },
     "synonyms": [
       "Noble Reincarnation ~Born Blessed, So I’ll Obtain Ultimate Power~"
@@ -79537,7 +80104,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "averageScore": 52,
+    "averageScore": 51,
     "meanScore": 57,
     "isAdult": false,
     "trailer": {
@@ -79881,7 +80448,7 @@
       "Action",
       "Fantasy"
     ],
-    "averageScore": 57,
+    "averageScore": 56,
     "meanScore": 61,
     "isAdult": false,
     "trailer": {
@@ -80232,7 +80799,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "JsFxeXfxEkQ",
@@ -80304,7 +80871,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 65,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "TZYTmXNeAWM",
@@ -80374,7 +80941,7 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "A body that combines the appearance of an adorable young girl with overwhelming combat efficiency. An AI with intelligence and decision-making skills that surpass human capabilities—the perfect autonomous robot, \"Alma\" was created by the overlooked young genius scientists Enji and Suzume whose brilliance should've been recognized by the world! Alma calls Enji and Suzume \"Father\" and \"Mother\" which leaves them completely flustered. Regardless, the three begin a life together as a family in order to nurture Alma's powerful AI and help her evolve into the ultimate robot. Alma's curiosity has no limits as everything she sees and touches is new to her. Alma keeps Enji and Suzume on their toes with her unmatched learning capabilities and unstoppable energy as she explores the bigger world. A brand-new kind of family comedy (?!) begins!!<br><br>\n\n(Source: Crunchyroll)",
     "startDate": {
       "year": 2025,
@@ -80390,7 +80957,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": 11,
-    "duration": null,
+    "duration": 24,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": " #アルマちゃん",
@@ -80406,8 +80973,8 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 66,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "PXecgOZ0o9o",
@@ -80449,6 +81016,70 @@
           "node": {
             "id": 6170,
             "name": "Studio Flad"
+          }
+        },
+        {
+          "id": 45033,
+          "isMain": false,
+          "node": {
+            "id": 6698,
+            "name": "KADOKAWA"
+          }
+        },
+        {
+          "id": 45034,
+          "isMain": false,
+          "node": {
+            "id": 7138,
+            "name": "Bandai Namco Music Live"
+          }
+        },
+        {
+          "id": 45035,
+          "isMain": false,
+          "node": {
+            "id": 6796,
+            "name": "BS Asahi"
+          }
+        },
+        {
+          "id": 45036,
+          "isMain": false,
+          "node": {
+            "id": 238,
+            "name": "AT-X"
+          }
+        },
+        {
+          "id": 45037,
+          "isMain": false,
+          "node": {
+            "id": 7710,
+            "name": "INSPION EDGE"
+          }
+        },
+        {
+          "id": 45038,
+          "isMain": false,
+          "node": {
+            "id": 6346,
+            "name": "TV Aichi"
+          }
+        },
+        {
+          "id": 45039,
+          "isMain": false,
+          "node": {
+            "id": 411,
+            "name": "KBS Kyoto"
+          }
+        },
+        {
+          "id": 45040,
+          "isMain": false,
+          "node": {
+            "id": 7130,
+            "name": "Sun Television"
           }
         }
       ]
@@ -80732,7 +81363,7 @@
       "Mahou Shoujo"
     ],
     "averageScore": null,
-    "meanScore": 70,
+    "meanScore": 53,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -81350,7 +81981,7 @@
       "Hentai"
     ],
     "averageScore": 55,
-    "meanScore": 69,
+    "meanScore": 68,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -81410,7 +82041,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 53,
+    "meanScore": 52,
     "isAdult": false,
     "trailer": {
       "id": "6yBpNLsdXX4",
@@ -81533,16 +82164,16 @@
     "idMal": 60810,
     "title": {
       "romaji": "Majutsushi Kunon wa Mieteiru",
-      "english": null,
+      "english": "Kunon the Sorcerer Can See",
       "native": "魔術師クノンは見えている"
     },
     "type": "ANIME",
     "format": "TV",
     "status": "NOT_YET_RELEASED",
-    "description": "Genius sorcerer Kunon has gotten his business on track and won the rare honor of concurrent membership in three of the magic school’s factions. Now he plans to start a few joint research projects with his illustrious seniors. An experiment on underwater breathing methods takes him to the bottom of the ocean to hunt for sunken treasure, though Kunon might have found an even greater prize than gold or jewels…The blind prodigy’s repertoire continues to grow as he delves further into the mysteries of magic and defies all common sense!<br><br>\n(Source: Yen Press)",
+    "description": "Kunon, a young man who cannot see, has the goal of creating new eyes with water magic. After just five months of learning sorcery, Kunon surpassed his own mentor and honed his talent as he tried to do a feat that's never been done before. A fantasy about a young man, a blind genius, who opens up the world through curiosity in the pursuit for magic is about to begin.<br><br>\n(Source: Crunchyroll)",
     "startDate": {
-      "year": null,
-      "month": null,
+      "year": 2026,
+      "month": 1,
       "day": null
     },
     "endDate": {
@@ -81550,9 +82181,9 @@
       "month": null,
       "day": null
     },
-    "season": null,
-    "seasonYear": null,
-    "seasonInt": null,
+    "season": "WINTER",
+    "seasonYear": 2026,
+    "seasonInt": 261,
     "episodes": null,
     "duration": null,
     "countryOfOrigin": "JP",
@@ -81572,10 +82203,12 @@
     "averageScore": null,
     "meanScore": null,
     "isAdult": false,
-    "trailer": null,
-    "synonyms": [
-      "Kunon the Sorcerer Can See"
-    ],
+    "trailer": {
+      "id": "FInmR1F31Ho",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/FInmR1F31Ho/hqdefault.jpg"
+    },
+    "synonyms": [],
     "relations": {
       "edges": [
         {
@@ -81619,7 +82252,16 @@
       ]
     },
     "studios": {
-      "edges": []
+      "edges": [
+        {
+          "id": 45265,
+          "isMain": true,
+          "node": {
+            "id": 6149,
+            "name": "Platinum Vision"
+          }
+        }
+      ]
     }
   },
   {
@@ -82478,7 +83120,7 @@
       "Thriller"
     ],
     "averageScore": 61,
-    "meanScore": 69,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "b34p204HQO0",
@@ -83492,7 +84134,7 @@
     "genres": [
       "Romance"
     ],
-    "averageScore": 64,
+    "averageScore": 66,
     "meanScore": 69,
     "isAdult": false,
     "trailer": {
@@ -83504,7 +84146,9 @@
       "たまほし",
       "TamaHoshi",
       "Una estrella más radiante que el Sol",
-      "Gwiazda jaśniejsza od Słońca"
+      "Gwiazda jaśniejsza od Słońca",
+      "ดวงดาราเจิดจรัสเกินตะวัน",
+      "Uma Estrela Mais Radiante Que o Sol"
     ],
     "relations": {
       "edges": [
@@ -84038,8 +84682,8 @@
       "Mystery",
       "Sci-Fi"
     ],
-    "averageScore": null,
-    "meanScore": 74,
+    "averageScore": 58,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": {
       "id": "9anZ-INq5Lg",
@@ -84111,7 +84755,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 24,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#科学漫画サバイバル #サバイバルシリーズ",
@@ -84123,7 +84767,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 10,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -84854,7 +85498,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 51,
+    "meanScore": 52,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -85429,7 +86073,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 61,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -85722,7 +86366,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 55,
+    "meanScore": 56,
     "isAdult": false,
     "trailer": {
       "id": "RqZ57M43lS4",
@@ -85959,12 +86603,12 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "Akira Oda and his high school classmates are summoned to another world! While the other students are granted cheat abilities through the summoning, Akira merely gains the abilities of a mediocre “assassin.” However, his status soon surpasses “hero,” the strongest profession. After Akira becomes suspicious of the King behind the summoning, he is falsely framed for a crime and forced to flee.\n<br><br>\n(Source: Crunchyroll)",
     "startDate": {
       "year": 2025,
       "month": 10,
-      "day": 6
+      "day": 7
     },
     "endDate": {
       "year": null,
@@ -85975,7 +86619,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 24,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
     "hashtag": "#ステつよ #sutetsuyo #暗殺者",
@@ -85990,8 +86634,8 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 71,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "y6JhkExwfrs",
@@ -86055,7 +86699,31 @@
           }
         },
         {
-          "id": 42841,
+          "id": 45203,
+          "isMain": false,
+          "node": {
+            "id": 15,
+            "name": "Sony Pictures Entertainment"
+          }
+        },
+        {
+          "id": 45204,
+          "isMain": false,
+          "node": {
+            "id": 6664,
+            "name": "Kanon"
+          }
+        },
+        {
+          "id": 45205,
+          "isMain": false,
+          "node": {
+            "id": 6421,
+            "name": "Crunchyroll"
+          }
+        },
+        {
+          "id": 45206,
           "isMain": false,
           "node": {
             "id": 73,
@@ -86063,11 +86731,59 @@
           }
         },
         {
-          "id": 44717,
+          "id": 45207,
           "isMain": false,
           "node": {
-            "id": 16,
-            "name": "TV Tokyo"
+            "id": 7010,
+            "name": "OVERLAP"
+          }
+        },
+        {
+          "id": 45208,
+          "isMain": false,
+          "node": {
+            "id": 135,
+            "name": "MediaNet"
+          }
+        },
+        {
+          "id": 45209,
+          "isMain": false,
+          "node": {
+            "id": 7246,
+            "name": "Animax Broadcast Japan"
+          }
+        },
+        {
+          "id": 45210,
+          "isMain": false,
+          "node": {
+            "id": 7678,
+            "name": "Warner Music Japan"
+          }
+        },
+        {
+          "id": 45211,
+          "isMain": false,
+          "node": {
+            "id": 7168,
+            "name": "CTW"
+          }
+        },
+        {
+          "id": 45212,
+          "isMain": false,
+          "node": {
+            "id": 6679,
+            "name": "Docomo Anime Store"
+          }
+        },
+        {
+          "id": 45213,
+          "isMain": false,
+          "node": {
+            "id": 843,
+            "name": "BS Fuji"
           }
         }
       ]
@@ -86281,8 +86997,8 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 60,
-    "meanScore": 78,
+    "averageScore": 64,
+    "meanScore": 76,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -86666,7 +87382,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 68,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -87421,7 +88137,7 @@
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "The ninja banish evil from the shadows. The gokudo gather lonely outcasts and commit crimes. The grudge they forged centuries ago is rekindled in the present day. The ninja Shinoha meets Kiwami, a gokudo with the face of a businessman. Unknowing of the other's identity, they bond over anime, but the war between ninja and gokudo intensifies. Who will survive and who will perish, ninja or gokudo?\n<br><br>\n(Source: Amazon Prime Video)",
     "startDate": {
       "year": 2025,
@@ -87437,7 +88153,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 23,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#忍者と極道",
@@ -87451,8 +88167,8 @@
       "Action",
       "Drama"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 55,
+    "meanScore": 59,
     "isAdult": false,
     "trailer": {
       "id": "CQgWUYsmbrE",
@@ -87497,15 +88213,15 @@
           }
         },
         {
-          "id": 43819,
+          "id": 45260,
           "isMain": false,
           "node": {
-            "id": 513,
-            "name": "Nikkatsu"
+            "id": 159,
+            "name": "Kodansha"
           }
         },
         {
-          "id": 44749,
+          "id": 45261,
           "isMain": false,
           "node": {
             "id": 6740,
@@ -87513,11 +88229,19 @@
           }
         },
         {
-          "id": 44756,
+          "id": 45262,
           "isMain": false,
           "node": {
             "id": 6620,
             "name": "Nippon Television Network"
+          }
+        },
+        {
+          "id": 45263,
+          "isMain": false,
+          "node": {
+            "id": 7677,
+            "name": "NK Animation"
           }
         }
       ]
@@ -87538,18 +88262,18 @@
     "startDate": {
       "year": 2025,
       "month": 10,
-      "day": 5
+      "day": 4
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 12,
+      "day": 20
     },
     "season": "FALL",
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": 12,
-    "duration": null,
+    "duration": 24,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#終末ツーリング",
@@ -87564,8 +88288,8 @@
       "Sci-Fi",
       "Slice of Life"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 64,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "H6tlbeQ5rzA",
@@ -87573,7 +88297,7 @@
       "thumbnail": "https://i.ytimg.com/vi/H6tlbeQ5rzA/hqdefault.jpg"
     },
     "synonyms": [
-      "Touring After the Apocalypse"
+      "Riding a motorbike at the end of the world..."
     ],
     "relations": {
       "edges": [
@@ -87609,7 +88333,15 @@
           }
         },
         {
-          "id": 42869,
+          "id": 42870,
+          "isMain": false,
+          "node": {
+            "id": 17,
+            "name": "Aniplex"
+          }
+        },
+        {
+          "id": 45089,
           "isMain": false,
           "node": {
             "id": 6698,
@@ -87617,11 +88349,43 @@
           }
         },
         {
-          "id": 42870,
+          "id": 45090,
           "isMain": false,
           "node": {
-            "id": 17,
-            "name": "Aniplex"
+            "id": 6259,
+            "name": "TOKYO MX"
+          }
+        },
+        {
+          "id": 45091,
+          "isMain": false,
+          "node": {
+            "id": 6863,
+            "name": "Contents Seed"
+          }
+        },
+        {
+          "id": 45092,
+          "isMain": false,
+          "node": {
+            "id": 6339,
+            "name": "Good Smile Company"
+          }
+        },
+        {
+          "id": 45093,
+          "isMain": false,
+          "node": {
+            "id": 6616,
+            "name": "BS11"
+          }
+        },
+        {
+          "id": 45094,
+          "isMain": false,
+          "node": {
+            "id": 76,
+            "name": "Yomiuri TV"
           }
         }
       ]
@@ -87908,7 +88672,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 55,
+    "meanScore": 61,
     "isAdult": false,
     "trailer": {
       "id": "SBUP_Qg3QmI",
@@ -88015,7 +88779,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 55,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -88116,7 +88880,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 48,
+    "meanScore": 57,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -88217,7 +88981,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 43,
+    "meanScore": 50,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -88760,7 +89524,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": {
       "id": "ZEJE5P5as0w",
@@ -88801,7 +89565,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": 52,
-    "duration": null,
+    "duration": 1,
     "countryOfOrigin": "JP",
     "source": "OTHER",
     "hashtag": "#元祖バンドリちゃん #GansoBDC",
@@ -88815,8 +89579,8 @@
       "Comedy",
       "Music"
     ],
-    "averageScore": 60,
-    "meanScore": 76,
+    "averageScore": 62,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -89060,7 +89824,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 34,
+    "meanScore": 35,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -90271,7 +91035,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 64,
+    "meanScore": 65,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -90831,8 +91595,8 @@
       "native": "さわらないで小手指くん"
     },
     "type": "ANIME",
-    "format": "TV",
-    "status": "NOT_YET_RELEASED",
+    "format": "TV_SHORT",
+    "status": "RELEASING",
     "description": "Kotesashi Kouyou possesses outstanding skill as a masseur. He aspires to become a sports doctor and wants to get a scholarship in medical school. Starting spring, he attends the high school attached to Seiwa University, a sports powerhouse. Since his family is not wealthy, he has to work as a hostel manager, where he is also allowed to stay, to pay for his school expenses. There he encounters high school girl athletes with various problems. Kotesashi's job is to take care of them physically and mentally and be the hostel manager.<br><br>\n\n(Source: Kodansha, translated)",
     "startDate": {
       "year": 2025,
@@ -90840,15 +91604,15 @@
       "day": 6
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 12,
+      "day": 22
     },
     "season": "FALL",
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": 12,
-    "duration": null,
+    "duration": 12,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#アニメ小手指くん",
@@ -90864,8 +91628,8 @@
       "Romance",
       "Sports"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 60,
+    "meanScore": 62,
     "isAdult": false,
     "trailer": {
       "id": "z5v3pIg35Lw",
@@ -90873,7 +91637,8 @@
       "thumbnail": "https://i.ytimg.com/vi/z5v3pIg35Lw/hqdefault.jpg"
     },
     "synonyms": [
-      "Don't touch Kotesashi"
+      "Don't touch Kotesashi",
+      "อย่ามาจับนะ โคเทซาชิคุง"
     ],
     "relations": {
       "edges": [
@@ -90893,6 +91658,25 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx133386-lKVpHftAguPf.jpg",
               "color": "#f1bb5d"
+            }
+          }
+        },
+        {
+          "id": 116135,
+          "relationType": "OTHER",
+          "node": {
+            "id": 199812,
+            "title": {
+              "romaji": "Sawaranaide Kotesashi-kun Mini Anime Gekijou",
+              "english": "Hands off: Sawaranaide Kotesashi-kun! Mini Anime",
+              "native": "さわらないで小手指くんミニアニメ劇場"
+            },
+            "type": "ANIME",
+            "format": "TV_SHORT",
+            "status": "RELEASING",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199812-88EBKcwBqQjG.png",
+              "color": "#ffe4a1"
             }
           }
         }
@@ -91086,18 +91870,18 @@
     "status": "NOT_YET_RELEASED",
     "description": null,
     "startDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 3,
+      "day": 27
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 3,
+      "day": 27
     },
-    "season": null,
-    "seasonYear": null,
-    "seasonInt": null,
+    "season": "WINTER",
+    "seasonYear": 2026,
+    "seasonInt": 261,
     "episodes": 1,
     "duration": null,
     "countryOfOrigin": "JP",
@@ -91115,7 +91899,11 @@
     "averageScore": null,
     "meanScore": null,
     "isAdult": false,
-    "trailer": null,
+    "trailer": {
+      "id": "Bs5xTLeU0Lk",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/Bs5xTLeU0Lk/hqdefault.jpg"
+    },
     "synonyms": [
       "THE IDOLM@STER Million Live! OVA"
     ],
@@ -91150,6 +91938,14 @@
           "node": {
             "id": 235,
             "name": "Shirogumi"
+          }
+        },
+        {
+          "id": 45274,
+          "isMain": false,
+          "node": {
+            "id": 6402,
+            "name": "Bandai Namco Entertainment"
           }
         }
       ]
@@ -91432,7 +92228,7 @@
       "Sports"
     ],
     "averageScore": 60,
-    "meanScore": 64,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": {
       "id": "V32CMrkEkcg",
@@ -91818,8 +92614,8 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 56,
-    "meanScore": 64,
+    "averageScore": 57,
+    "meanScore": 65,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -91963,7 +92759,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 24,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#東島ライダー",
@@ -91977,8 +92773,8 @@
       "Action",
       "Comedy"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 71,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": {
       "id": "76c3cCV1BcU",
@@ -92027,6 +92823,30 @@
           "node": {
             "id": 839,
             "name": "LIDENFILMS"
+          }
+        },
+        {
+          "id": 45081,
+          "isMain": false,
+          "node": {
+            "id": 6421,
+            "name": "Crunchyroll"
+          }
+        },
+        {
+          "id": 45082,
+          "isMain": false,
+          "node": {
+            "id": 6102,
+            "name": "Kinoshita Group"
+          }
+        },
+        {
+          "id": 45083,
+          "isMain": false,
+          "node": {
+            "id": 6259,
+            "name": "TOKYO MX"
           }
         }
       ]
@@ -92098,8 +92918,8 @@
             "format": "MOVIE",
             "status": "NOT_YET_RELEASED",
             "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113971-RYXbjtwvvCv8.png",
-              "color": null
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx113971-Uhy5j0QTiO2K.jpg",
+              "color": "#c9f1f1"
             }
           }
         },
@@ -92546,7 +93366,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 77,
+    "meanScore": 76,
     "isAdult": false,
     "trailer": {
       "id": "fc3tnhqARok",
@@ -92853,7 +93673,7 @@
       "Sports"
     ],
     "averageScore": null,
-    "meanScore": 51,
+    "meanScore": 53,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -92915,7 +93735,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 55,
+    "meanScore": 59,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -93037,7 +93857,7 @@
       "Adventure"
     ],
     "averageScore": null,
-    "meanScore": 40,
+    "meanScore": 42,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -93219,7 +94039,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 45,
+    "meanScore": 48,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -93341,7 +94161,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -93818,7 +94638,7 @@
       "Slice of Life"
     ],
     "averageScore": 56,
-    "meanScore": 58,
+    "meanScore": 57,
     "isAdult": false,
     "trailer": {
       "id": "gzr-d0k_AsU",
@@ -93894,6 +94714,46 @@
           "node": {
             "id": 118,
             "name": "SynergySP"
+          }
+        },
+        {
+          "id": 45231,
+          "isMain": false,
+          "node": {
+            "id": 751,
+            "name": "Marvelous"
+          }
+        },
+        {
+          "id": 45232,
+          "isMain": false,
+          "node": {
+            "id": 7460,
+            "name": "AlphaPolis"
+          }
+        },
+        {
+          "id": 45233,
+          "isMain": false,
+          "node": {
+            "id": 6421,
+            "name": "Crunchyroll"
+          }
+        },
+        {
+          "id": 45234,
+          "isMain": false,
+          "node": {
+            "id": 7151,
+            "name": "MUSE"
+          }
+        },
+        {
+          "id": 45235,
+          "isMain": false,
+          "node": {
+            "id": 7114,
+            "name": "U-NEXT"
           }
         }
       ]
@@ -94213,7 +95073,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 24,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": null,
@@ -94228,7 +95088,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 55,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -94292,6 +95152,54 @@
           "node": {
             "id": 247,
             "name": "Shin-Ei Animation"
+          }
+        },
+        {
+          "id": 45156,
+          "isMain": false,
+          "node": {
+            "id": 6340,
+            "name": "Futabasha"
+          }
+        },
+        {
+          "id": 45157,
+          "isMain": false,
+          "node": {
+            "id": 55,
+            "name": "TV Asahi"
+          }
+        },
+        {
+          "id": 45158,
+          "isMain": false,
+          "node": {
+            "id": 6341,
+            "name": "ADK Emotions"
+          }
+        },
+        {
+          "id": 45159,
+          "isMain": false,
+          "node": {
+            "id": 276,
+            "name": "DLE"
+          }
+        },
+        {
+          "id": 45160,
+          "isMain": false,
+          "node": {
+            "id": 6796,
+            "name": "BS Asahi"
+          }
+        },
+        {
+          "id": 45161,
+          "isMain": false,
+          "node": {
+            "id": 7137,
+            "name": "Bandai Namco Filmworks"
           }
         }
       ]
@@ -94929,7 +95837,7 @@
     "type": "ANIME",
     "format": "TV",
     "status": "RELEASING",
-    "description": "Meet Kashiwada-san, a female middle-school student, who remains emotionless regardless of how she is meddled with.\nAnd Oota-kun, unable to control his facial expressions, is the complete opposite of Kashiwada-san--but he keeps messing with her, against his better judgment?!\n<br><br>\nThough both of them are the exact opposite, will a mutual love eventually develop between them...?",
+    "description": "Kashiwada-san’s face is a masterpiece of stoicism. Her classmate Oota-kun? A walking explosion of emotions determined to crack her calm with over-the-top antics. (Spoiler: It’s not working.) But between his failed surprises and her secret smiles, these polar-opposite classmates might just be into each other! Witness a rom-com where love speaks louder than expressions.<br>\n<br>\n(Source: Crunchyroll)",
     "startDate": {
       "year": 2025,
       "month": 10,
@@ -94944,7 +95852,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 24,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#柏田さんと太田君",
@@ -94959,8 +95867,8 @@
       "Romance",
       "Slice of Life"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 63,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": {
       "id": "ZfWsw9daBy8",
@@ -95028,6 +95936,70 @@
           "node": {
             "id": 31,
             "name": "NBCUniversal Entertainment Japan"
+          }
+        },
+        {
+          "id": 45106,
+          "isMain": false,
+          "node": {
+            "id": 6698,
+            "name": "KADOKAWA"
+          }
+        },
+        {
+          "id": 45107,
+          "isMain": false,
+          "node": {
+            "id": 6616,
+            "name": "BS11"
+          }
+        },
+        {
+          "id": 45108,
+          "isMain": false,
+          "node": {
+            "id": 6891,
+            "name": "Bushiroad Move"
+          }
+        },
+        {
+          "id": 45109,
+          "isMain": false,
+          "node": {
+            "id": 6868,
+            "name": "Kansai TV"
+          }
+        },
+        {
+          "id": 45110,
+          "isMain": false,
+          "node": {
+            "id": 166,
+            "name": "Movic"
+          }
+        },
+        {
+          "id": 45111,
+          "isMain": false,
+          "node": {
+            "id": 7373,
+            "name": "qooop"
+          }
+        },
+        {
+          "id": 45112,
+          "isMain": false,
+          "node": {
+            "id": 6259,
+            "name": "TOKYO MX"
+          }
+        },
+        {
+          "id": 45113,
+          "isMain": false,
+          "node": {
+            "id": 460,
+            "name": "KLOCKWORX"
           }
         }
       ]
@@ -95955,7 +96927,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 55,
+    "meanScore": 50,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -96190,7 +97162,7 @@
     },
     "type": "ANIME",
     "format": "TV_SHORT",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "When the bubble gems scatter, exhausting their magical powers, peace returns to the sea, and Purple wants to go back to school on land, but the Purple King is stubbornly opposed. After some serious convincing, Purple announces her intention to run for queen, and is finally allowed to return to the surface. But what lies ahead for her?\n<br><br>\nOne day at the beginning of a new semester, Purple loses her magic wand and her only princess dictionary while trying to protect her friend Leo from the villainous Blobs, Black Diamond's subordinates. Then, White Gold, the guardian of the sea, senses the dark energy and gives her a new catcher and princess dictionary as gifts. With this, Purple creates new bubble gems for the other princesses and upgrades their magic, but she is unable to create a bubble gem with her own color.\n<br><br>\nThe seven mermaid princesses, along with their new human friends including Leo's senior student Gray, the seven mermaids battle the returning and more powerful Black Dia. Without her own bubble gem, can Purple protect the sea world, the humans, and the land world?",
     "startDate": {
       "year": 2025,
@@ -96198,15 +97170,15 @@
       "day": 9
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 7,
+      "day": 3
     },
     "season": null,
     "seasonYear": null,
     "seasonInt": null,
-    "episodes": null,
-    "duration": null,
+    "episodes": 26,
+    "duration": 11,
     "countryOfOrigin": "KR",
     "source": "ORIGINAL",
     "hashtag": null,
@@ -96922,7 +97894,7 @@
       "Adventure"
     ],
     "averageScore": null,
-    "meanScore": 60,
+    "meanScore": 59,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -97029,7 +98001,7 @@
       "Adventure"
     ],
     "averageScore": null,
-    "meanScore": 59,
+    "meanScore": 58,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -97156,7 +98128,7 @@
       "Adventure"
     ],
     "averageScore": null,
-    "meanScore": 61,
+    "meanScore": 60,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -97244,7 +98216,7 @@
       "Adventure"
     ],
     "averageScore": null,
-    "meanScore": 59,
+    "meanScore": 58,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -97351,7 +98323,7 @@
       "Adventure"
     ],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -98636,7 +99608,7 @@
       "Music",
       "Slice of Life"
     ],
-    "averageScore": 60,
+    "averageScore": 61,
     "meanScore": 67,
     "isAdult": false,
     "trailer": {
@@ -98869,7 +99841,7 @@
       "Slice of Life"
     ],
     "averageScore": 52,
-    "meanScore": 60,
+    "meanScore": 59,
     "isAdult": false,
     "trailer": {
       "id": "L5AiuCQE-BY",
@@ -99404,7 +100376,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 24,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
     "hashtag": " #ビートブレイク #BEATBREAK",
@@ -99419,8 +100391,8 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 65,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "naNctHU5MQE",
@@ -99523,7 +100495,7 @@
       "Slice of Life"
     ],
     "averageScore": 52,
-    "meanScore": 59,
+    "meanScore": 58,
     "isAdult": false,
     "trailer": {
       "id": "Ru09cEQgcU0",
@@ -99737,7 +100709,7 @@
             },
             "type": "ANIME",
             "format": "ONA",
-            "status": "NOT_YET_RELEASED",
+            "status": "RELEASING",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199635-rgif9o9VWMrt.png",
               "color": "#e4ae5d"
@@ -99960,15 +100932,15 @@
       "day": 4
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 12,
+      "day": 20
     },
     "season": "FALL",
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": 12,
-    "duration": null,
+    "duration": 23,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
     "hashtag": "#補助魔法",
@@ -99983,8 +100955,8 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 60,
+    "meanScore": 61,
     "isAdult": false,
     "trailer": {
       "id": "XfBW0JjPyt8",
@@ -100057,11 +101029,43 @@
           }
         },
         {
-          "id": 44643,
+          "id": 45076,
+          "isMain": false,
+          "node": {
+            "id": 159,
+            "name": "Kodansha"
+          }
+        },
+        {
+          "id": 45077,
           "isMain": false,
           "node": {
             "id": 55,
             "name": "TV Asahi"
+          }
+        },
+        {
+          "id": 45078,
+          "isMain": false,
+          "node": {
+            "id": 6421,
+            "name": "Crunchyroll"
+          }
+        },
+        {
+          "id": 45079,
+          "isMain": false,
+          "node": {
+            "id": 7284,
+            "name": "Gekkou"
+          }
+        },
+        {
+          "id": 45080,
+          "isMain": false,
+          "node": {
+            "id": 7396,
+            "name": "Daito Giken"
           }
         }
       ]
@@ -100110,9 +101114,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "rTRQ2drQM-o",
+      "id": "U5hT3rYKl5w",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/rTRQ2drQM-o/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/U5hT3rYKl5w/hqdefault.jpg"
     },
     "synonyms": [
       "Sumikko Gurashi Movie 4",
@@ -100202,7 +101206,7 @@
     "status": "NOT_YET_RELEASED",
     "description": "<i>Kore Kaite Shine</i> is set in Izu Oshima, an island 120 kilometers south of Tokyo. The story centers on Ai Yasumi, a high school girl who loves to read manga, and learns about the joy and pain of drawing her own manga\n<br><br>\n(Source: Anime News Network)",
     "startDate": {
-      "year": null,
+      "year": 2026,
       "month": null,
       "day": null
     },
@@ -100218,7 +101222,7 @@
     "duration": null,
     "countryOfOrigin": "JP",
     "source": "MANGA",
-    "hashtag": null,
+    "hashtag": "#これ描いて",
     "coverImage": {
       "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188525-0QUuOjcVve6p.png",
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx188525-0QUuOjcVve6p.png",
@@ -100232,8 +101236,14 @@
     "averageScore": null,
     "meanScore": null,
     "isAdult": false,
-    "trailer": null,
-    "synonyms": [],
+    "trailer": {
+      "id": "ETQkgtnGvlQ",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/ETQkgtnGvlQ/hqdefault.jpg"
+    },
+    "synonyms": [
+      "Draw this, then die!"
+    ],
     "relations": {
       "edges": [
         {
@@ -100258,7 +101268,16 @@
       ]
     },
     "studios": {
-      "edges": []
+      "edges": [
+        {
+          "id": 45189,
+          "isMain": true,
+          "node": {
+            "id": 247,
+            "name": "Shin-Ei Animation"
+          }
+        }
+      ]
     }
   },
   {
@@ -100413,7 +101432,27 @@
       "Move! Cat Folktales"
     ],
     "relations": {
-      "edges": []
+      "edges": [
+        {
+          "id": 116220,
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 200024,
+            "title": {
+              "romaji": "Neko Mukashi Banashi",
+              "english": null,
+              "native": "ねこむかしばなし"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "RELEASING",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx200024-DNjAbUBLUD6S.jpg",
+              "color": "#fec90d"
+            }
+          }
+        }
+      ]
     },
     "studios": {
       "edges": [
@@ -100647,7 +101686,7 @@
       "Slice of Life",
       "Supernatural"
     ],
-    "averageScore": 62,
+    "averageScore": 63,
     "meanScore": 72,
     "isAdult": false,
     "trailer": {
@@ -101987,7 +103026,7 @@
             },
             "type": "ANIME",
             "format": "TV_SHORT",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188830-00DE1V4XWIUB.png",
               "color": "#5dbbe4"
@@ -102446,7 +103485,7 @@
             },
             "type": "ANIME",
             "format": "TV_SHORT",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188830-00DE1V4XWIUB.png",
               "color": "#5dbbe4"
@@ -102864,7 +103903,7 @@
             },
             "type": "ANIME",
             "format": "TV_SHORT",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188830-00DE1V4XWIUB.png",
               "color": "#5dbbe4"
@@ -103355,7 +104394,7 @@
             },
             "type": "ANIME",
             "format": "TV_SHORT",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188830-00DE1V4XWIUB.png",
               "color": "#5dbbe4"
@@ -103531,7 +104570,7 @@
             },
             "type": "ANIME",
             "format": "TV_SHORT",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188830-00DE1V4XWIUB.png",
               "color": "#5dbbe4"
@@ -103707,7 +104746,7 @@
             },
             "type": "ANIME",
             "format": "TV_SHORT",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188830-00DE1V4XWIUB.png",
               "color": "#5dbbe4"
@@ -103739,7 +104778,7 @@
     },
     "type": "ANIME",
     "format": "TV_SHORT",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": null,
     "startDate": {
       "year": 2025,
@@ -103747,9 +104786,9 @@
       "day": 25
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 8,
+      "day": 19
     },
     "season": null,
     "seasonYear": null,
@@ -104316,7 +105355,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": null,
+    "averageScore": 49,
     "meanScore": 57,
     "isAdult": true,
     "trailer": null,
@@ -105549,7 +106588,7 @@
     },
     "bannerImage": null,
     "genres": [],
-    "averageScore": 60,
+    "averageScore": 61,
     "meanScore": 73,
     "isAdult": false,
     "trailer": {
@@ -106123,9 +107162,9 @@
     "status": "NOT_YET_RELEASED",
     "description": "The second season of <i>Ao no Miburo</i>.",
     "startDate": {
-      "year": 2026,
-      "month": 1,
-      "day": null
+      "year": 2025,
+      "month": 12,
+      "day": 20
     },
     "endDate": {
       "year": null,
@@ -106141,9 +107180,9 @@
     "source": "MANGA",
     "hashtag": "#青のミブロ",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189258-w6JIbdKmYLUN.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189258-w6JIbdKmYLUN.jpg",
-      "color": "#1aa1e4"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b189258-K40NjhZeuaBL.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b189258-K40NjhZeuaBL.png",
+      "color": "#5dbbe4"
     },
     "bannerImage": null,
     "genres": [
@@ -106617,7 +107656,7 @@
       "Supernatural"
     ],
     "averageScore": 79,
-    "meanScore": 79,
+    "meanScore": 80,
     "isAdult": false,
     "trailer": {
       "id": "sqXtNTTOhbw",
@@ -107255,8 +108294,8 @@
       "Comedy",
       "Fantasy"
     ],
-    "averageScore": 65,
-    "meanScore": 73,
+    "averageScore": 66,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "VNGnINmsrF8",
@@ -107347,7 +108386,7 @@
     "description": "Eeyuu, a high school boy, has a problem! Two childhood friends \"Shio\" and \"Akari\" who go to the same high school are too cute! If they find out that I'm the only one looking sexually at them now that they've grown up, even though I have no intention of doing so... that would be too much! On the other hand, the two childhood friends also have their own secrets...? It's so awkward! It's complicated! But childhood friends are the best! A sweet and impatient love triangle love comedy where you can't be honest!\n<br><br>\n(Source: Kodansha, translated)",
     "startDate": {
       "year": 2026,
-      "month": null,
+      "month": 1,
       "day": null
     },
     "endDate": {
@@ -107355,9 +108394,9 @@
       "month": null,
       "day": null
     },
-    "season": null,
-    "seasonYear": null,
-    "seasonInt": null,
+    "season": "WINTER",
+    "seasonYear": 2026,
+    "seasonInt": 261,
     "episodes": null,
     "duration": null,
     "countryOfOrigin": "JP",
@@ -108813,17 +109852,17 @@
     "source": "OTHER",
     "hashtag": null,
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189733-uReeSoQqhByP.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189733-uReeSoQqhByP.png",
-      "color": "#e4a150"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189733-PgwNxBPV1BSA.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189733-PgwNxBPV1BSA.jpg",
+      "color": "#e4ae5d"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/189733-wgNqQ2nrMjSt.jpg",
     "genres": [
       "Comedy",
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 42,
+    "meanScore": 46,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -109303,8 +110342,8 @@
     "genres": [
       "Comedy"
     ],
-    "averageScore": null,
-    "meanScore": 54,
+    "averageScore": 48,
+    "meanScore": 55,
     "isAdult": false,
     "trailer": {
       "id": "DCHBlLf3kxg",
@@ -109382,7 +110421,7 @@
       "Sci-Fi"
     ],
     "averageScore": 48,
-    "meanScore": 56,
+    "meanScore": 55,
     "isAdult": false,
     "trailer": {
       "id": "2G_K26c6PqQ",
@@ -109970,9 +111009,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "1PKAI_gtqgg",
+      "id": "wl74EZ2zaOE",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/1PKAI_gtqgg/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/wl74EZ2zaOE/hqdefault.jpg"
     },
     "synonyms": [
       "Agents of the Four Seasons: Dance of Spring",
@@ -111078,7 +112117,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 25,
     "countryOfOrigin": "JP",
     "source": null,
     "hashtag": "#キングダム",
@@ -111091,8 +112130,8 @@
     "genres": [
       "Action"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 78,
+    "meanScore": 87,
     "isAdult": false,
     "trailer": {
       "id": "IT5EyilwgoQ",
@@ -111155,6 +112194,46 @@
         {
           "id": 43715,
           "isMain": true,
+          "node": {
+            "id": 6109,
+            "name": "Studio Signpost"
+          }
+        },
+        {
+          "id": 45062,
+          "isMain": false,
+          "node": {
+            "id": 1,
+            "name": "Studio Pierrot"
+          }
+        },
+        {
+          "id": 45063,
+          "isMain": false,
+          "node": {
+            "id": 317,
+            "name": "NHK Enterprises"
+          }
+        },
+        {
+          "id": 45064,
+          "isMain": false,
+          "node": {
+            "id": 6429,
+            "name": "Avex Pictures"
+          }
+        },
+        {
+          "id": 45065,
+          "isMain": false,
+          "node": {
+            "id": 6570,
+            "name": "Shueisha"
+          }
+        },
+        {
+          "id": 45066,
+          "isMain": false,
           "node": {
             "id": 6109,
             "name": "Studio Signpost"
@@ -112044,7 +113123,7 @@
     },
     "type": "ANIME",
     "format": "TV_SHORT",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "Though Chichi the cat looks very cute, she has one goal: eradicate humanity and take over the world! She decides to recruit comrades to aid her in her quest, but it looks like world conquest won't be that easy?! Follow the adventures of Chichi the tyrant, Dunno the doggo who loves humans, and Kaiser Kang Taeshik, the hard-boiled wild hamster, as they face many hardships on their path to absolute dominion!\n<br><br>\n(Source: Kakao Entertainment Corp., translated)",
     "startDate": {
       "year": 2025,
@@ -112052,9 +113131,9 @@
       "day": 12
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 7,
+      "day": 12
     },
     "season": null,
     "seasonYear": null,
@@ -112133,8 +113212,8 @@
     },
     "type": "ANIME",
     "format": "MOVIE",
-    "status": "NOT_YET_RELEASED",
-    "description": null,
+    "status": "FINISHED",
+    "description": "Akari Oozora and Laala Manaka. Two idols shining in their own worlds suddenly find themselves on the same stage!<br>\nA magical encounter between two worlds that was never supposed to intersect: <i>Aikatsu</i> and <i>PriPara</i>!<br>\nThe idols of Starlight Academy and Parajuku were enjoying a dream collaboration at the joint live festival, but before they knew it the outside world was in big trouble..!?<br>\nThe perfect stage packed with excitement and glitter! Everyone's friends, everyone's idols — their idol activities begin right here!<br><br>\n(Source: Official Website, translated)",
     "startDate": {
       "year": 2025,
       "month": 10,
@@ -112148,8 +113227,8 @@
     "season": "FALL",
     "seasonYear": 2025,
     "seasonInt": 254,
-    "episodes": null,
-    "duration": null,
+    "episodes": 1,
+    "duration": 75,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
     "hashtag": " #アイカツプリパラ",
@@ -112163,7 +113242,7 @@
       "Music"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 81,
     "isAdult": false,
     "trailer": {
       "id": "zVtKnbZMKfU",
@@ -112423,7 +113502,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 62,
+    "meanScore": 63,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -112570,7 +113649,7 @@
     },
     "bannerImage": null,
     "genres": [],
-    "averageScore": 68,
+    "averageScore": 67,
     "meanScore": 73,
     "isAdult": false,
     "trailer": {
@@ -112783,7 +113862,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 60,
+    "averageScore": 61,
     "meanScore": 67,
     "isAdult": true,
     "trailer": null,
@@ -113556,7 +114635,7 @@
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191884-FIfdkgrtn6A6.jpg",
       "color": null
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191884-i9ZeZObqQ5cV.jpg",
     "genres": [
       "Action",
       "Adventure",
@@ -113607,8 +114686,8 @@
             "format": "MOVIE",
             "status": "FINISHED",
             "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185084-tGOzBUQZe6aT.jpg",
-              "color": "#f1ae5d"
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185084-aY9Drgo6tDRA.jpg",
+              "color": "#e4ae5d"
             }
           }
         },
@@ -114017,7 +115096,7 @@
       "Action"
     ],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -114092,7 +115171,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 80,
+    "meanScore": 79,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -114353,7 +115432,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 66,
+    "averageScore": 67,
     "meanScore": 87,
     "isAdult": false,
     "trailer": null,
@@ -114463,7 +115542,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 44,
+    "meanScore": 43,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -114584,8 +115663,8 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 60,
-    "meanScore": 70,
+    "averageScore": 63,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "tcRB5UZ81zQ",
@@ -114731,13 +115810,13 @@
     "idMal": 61637,
     "title": {
       "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
-      "english": null,
+      "english": "The Daily Life of a Single 29-Year-Old Adventurer",
       "native": "29歳独身中堅冒険者の日常"
     },
     "type": "ANIME",
     "format": "TV",
     "status": "NOT_YET_RELEASED",
-    "description": "This story is about Shinonome Hajime, an adventurer of Silver Range. He's dedicated to fulfilling missions from the guild. One day when completing a quest for monster meat, he finds a strange girl named Lily in a dungeon who's far more trouble than she's worth. Saving the girl from certain death, her story reminds him of his similar past and he takes her under his care...",
+    "description": "Having spent his childhood in the slums, Hajime Shinonome desperately sought strength to survive.\n<br><br>\nNow, he enjoys a peaceful and carefree life as a resident adventurer of the Komai Village.\n<br><br>\nOne day, during a quest, he ventured into a dungeon and finds a young girl being partially eaten by a weakest kind of monster, a slime!\n<br><br>\nThe girl's name was Lirui. Having been abandoned by her parents, she had no place to go and entered the dungeon alone in order to stay alive. Hajime couldn't just leave her there, so he took her back to the village to live with him!<br><br>\n(Source: Crunchyroll)",
     "startDate": {
       "year": 2026,
       "month": 1,
@@ -115331,7 +116410,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 58,
+    "meanScore": 59,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -115678,7 +116757,7 @@
       "Drama"
     ],
     "averageScore": null,
-    "meanScore": 66,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": {
       "id": "UKSyu8gZ_rs",
@@ -116615,7 +117694,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 42,
+    "meanScore": 45,
     "isAdult": false,
     "trailer": {
       "id": "gO14Cp6_f38",
@@ -116665,17 +117744,17 @@
     },
     "type": "ANIME",
     "format": "ONA",
-    "status": "RELEASING",
-    "description": null,
+    "status": "FINISHED",
+    "description": "Adapted from the novel of the same name by Feng Qingyang, it chronicles the legendary metamorphosis of Wu Yu - from an ordinary mortal to an immortal Buddha.",
     "startDate": {
       "year": 2025,
       "month": 5,
       "day": 19
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 9,
+      "day": 3
     },
     "season": null,
     "seasonYear": null,
@@ -116701,7 +117780,8 @@
     "isAdult": false,
     "trailer": null,
     "synonyms": [
-      "Swallowing the Heavens"
+      "Swallowing the Heavens",
+      "ศึกพิชิตสวรรค์"
     ],
     "relations": {
       "edges": []
@@ -116768,7 +117848,7 @@
       "Mystery"
     ],
     "averageScore": null,
-    "meanScore": 58,
+    "meanScore": 57,
     "isAdult": false,
     "trailer": {
       "id": "Ed3ra6uZRus",
@@ -117091,7 +118171,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 66,
+    "meanScore": 65,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -117121,7 +118201,7 @@
     },
     "type": "ANIME",
     "format": "OVA",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "<b>Episode 1</b> - <i>Melting Under My Nephew's Touch</i><br>\nHitomi, a full-time housewife, is worried that her relationship with her husband is not going well and they have not had a child. One day, her husband's nephew, who is staying with her, offers her a massage to cheer him up, and she gives in... Unable to tell her cold husband, Hitomi wriggles her voluptuous body and becomes immersed in the pleasure her nephew brings her. As her reason melts away, where will Hitomi's desires lead her...?<br>\n<br>\n<b>Episode 2</b> - <i>My Wife's Side Job</i><br>\nYouko, in her third year of marriage, lives a modest yet energetic life while cultivating her love for her husband. In order to welcome a new family member with her beloved husband and to support the family, Youko starts working as a housekeeper. The client is a young, younger company president who lives in a luxury apartment. While Youko is enthusiastically cleaning, she breaks a USB memory stick containing important data. As an apology, the young man asks her to play the role of his \"wife\" while doing the housekeeping. He takes advantage of her guilt and makes her sleep next to him in bed, but she forgives him... Unable to quit housekeeping to support her husband who earns little, Youko's voluptuous body and reason are eaten away by the animalistic sex of the younger, handsome celebrity. And when Youko decides to quit, what choice is presented to her...?<br>\n<br>\n(Source: Mediabank, translated)",
     "startDate": {
       "year": 2025,
@@ -117151,7 +118231,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 85,
+    "meanScore": 67,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -117275,7 +118355,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193372-qclsUa8Q7jlI.jpg",
     "genres": [],
     "averageScore": 59,
-    "meanScore": 71,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "AGfC3lCFPRM",
@@ -117394,7 +118474,7 @@
       "Comedy",
       "Slice of Life"
     ],
-    "averageScore": 53,
+    "averageScore": 54,
     "meanScore": 65,
     "isAdult": false,
     "trailer": {
@@ -118122,7 +119202,7 @@
       "Hentai",
       "Romance"
     ],
-    "averageScore": 49,
+    "averageScore": 48,
     "meanScore": 51,
     "isAdult": true,
     "trailer": {
@@ -118902,7 +119982,7 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193705-M0B5SfHD80d6.jpg",
     "genres": [],
-    "averageScore": 74,
+    "averageScore": 73,
     "meanScore": 79,
     "isAdult": false,
     "trailer": {
@@ -119015,8 +120095,8 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 50,
-    "meanScore": 60,
+    "averageScore": 53,
+    "meanScore": 63,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -119491,7 +120571,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 61,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": {
       "id": "ki-dtolF7wY",
@@ -119894,7 +120974,7 @@
       "Romance",
       "Slice of Life"
     ],
-    "averageScore": 56,
+    "averageScore": 57,
     "meanScore": 59,
     "isAdult": false,
     "trailer": {
@@ -120352,7 +121432,7 @@
       "Ecchi",
       "Romance"
     ],
-    "averageScore": 52,
+    "averageScore": 53,
     "meanScore": 55,
     "isAdult": true,
     "trailer": null,
@@ -120435,7 +121515,7 @@
     },
     "type": "ANIME",
     "format": "TV_SHORT",
-    "status": "RELEASING",
+    "status": "FINISHED",
     "description": "Fifteenth season of <i>Yami Shibai</i>.",
     "startDate": {
       "year": 2025,
@@ -120443,14 +121523,14 @@
       "day": 14
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 10,
+      "day": 6
     },
     "season": "SUMMER",
     "seasonYear": 2025,
     "seasonInt": 253,
-    "episodes": null,
+    "episodes": 13,
     "duration": 4,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
@@ -120466,7 +121546,7 @@
       "Supernatural"
     ],
     "averageScore": 51,
-    "meanScore": 58,
+    "meanScore": 54,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -120631,39 +121711,41 @@
     "id": 194167,
     "idMal": 61806,
     "title": {
-      "romaji": "Love Live! Hasu no Sora Jogakuin School Idol Club",
+      "romaji": "Love Live! Hasu no Sora Jogakuin School Idol Club: Bloom Garden Party",
       "english": null,
-      "native": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ"
+      "native": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party"
     },
     "type": "ANIME",
     "format": "MOVIE",
     "status": "NOT_YET_RELEASED",
     "description": null,
     "startDate": {
-      "year": null,
+      "year": 2026,
       "month": null,
       "day": null
     },
     "endDate": {
-      "year": null,
+      "year": 2026,
       "month": null,
       "day": null
     },
-    "season": null,
-    "seasonYear": null,
-    "seasonInt": null,
-    "episodes": null,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "seasonInt": 262,
+    "episodes": 1,
     "duration": null,
     "countryOfOrigin": "JP",
     "source": "OTHER",
     "hashtag": "#蓮ノ空 #リンクラ #lovelive",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194167-6XUQBRtzF3ND.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194167-6XUQBRtzF3ND.jpg",
-      "color": "#1a93d6"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194167-JVRxTGthYR4W.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194167-JVRxTGthYR4W.png",
+      "color": "#e47843"
     },
     "bannerImage": null,
-    "genres": [],
+    "genres": [
+      "Music"
+    ],
     "averageScore": null,
     "meanScore": null,
     "isAdult": false,
@@ -121499,7 +122581,7 @@
     "description": "The second season of <i>Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?</i>",
     "startDate": {
       "year": 2026,
-      "month": null,
+      "month": 4,
       "day": null
     },
     "endDate": {
@@ -121516,9 +122598,9 @@
     "source": "OTHER",
     "hashtag": "#TheBeginningAftertheEnd #最強の王様 #TBATE",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-KFT14HClwT9T.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194317-KFT14HClwT9T.jpg",
-      "color": "#43c9f1"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194317-scp3vW21l0xF.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194317-scp3vW21l0xF.jpg",
+      "color": "#5daee4"
     },
     "bannerImage": null,
     "genres": [
@@ -121530,9 +122612,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "OBXSNzFHohc",
+      "id": "MpPYYcy3Ye8",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/OBXSNzFHohc/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/MpPYYcy3Ye8/hqdefault.jpg"
     },
     "synonyms": [
       "TBATE S2"
@@ -121985,7 +123067,7 @@
       "Psychological",
       "Supernatural"
     ],
-    "averageScore": 58,
+    "averageScore": 59,
     "meanScore": 75,
     "isAdult": false,
     "trailer": {
@@ -122612,7 +123694,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 66,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "7gGdTXmQMgE",
@@ -123083,7 +124165,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 20,
     "countryOfOrigin": "JP",
     "source": "OTHER",
     "hashtag": null,
@@ -123183,7 +124265,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 72,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "9BLoDcwM-zU",
@@ -123378,7 +124460,7 @@
       "Psychological"
     ],
     "averageScore": null,
-    "meanScore": 74,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": {
       "id": "aEKyYTL8ptI",
@@ -123962,7 +125044,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 90,
+    "meanScore": 48,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -124044,7 +125126,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 80,
+    "meanScore": 64,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -124103,7 +125185,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 57,
+    "averageScore": 58,
     "meanScore": 68,
     "isAdult": true,
     "trailer": null,
@@ -124202,8 +125284,8 @@
       "Romance",
       "Sci-Fi"
     ],
-    "averageScore": 67,
-    "meanScore": 70,
+    "averageScore": 68,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "iSzAu-ou44Y",
@@ -124295,7 +125377,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 3,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
     "hashtag": "#ラブハチ #lovehachi",
@@ -124760,7 +125842,7 @@
       "Romance"
     ],
     "averageScore": 60,
-    "meanScore": 61,
+    "meanScore": 62,
     "isAdult": false,
     "trailer": {
       "id": "98qNX-vLVFM",
@@ -125090,12 +126172,12 @@
     "title": {
       "romaji": "Uma Musume: Cinderella Gray Part 2",
       "english": "Umamusume: Cinderella Gray 2nd Cour",
-      "native": "ウマ娘 シンデレラグレイ 2クール"
+      "native": "ウマ娘 シンデレラグレイ 第2クール"
     },
     "type": "ANIME",
     "format": "TV",
-    "status": "NOT_YET_RELEASED",
-    "description": "The second half of <i>Umamusume: Cinderella Gray</i>.",
+    "status": "RELEASING",
+    "description": "The second half of <i>Umamusume: Cinderella Gray</i>. <br><br>\n\nHailing from the humble countryside, Oguri Cap has turned the racing world on its head. Her rampage through the national race scene seemed unstoppable... until it wasn't. Tamamo Cross, the current peak of racing, has bested the Beast and declared Oguri Cap her rival. <br><br>\n\nBut Oguri Cap can't afford to keep her attention on Tamamo Cross alone. One by one, racers from all over the world arrive in Japan, ready to demonstrate their own prowess. Up against the best the world has to offer, our ashen racer will need to reach beyond her limits if she wants to stand a chance… Keep those eyes peeled—a Cinderella story full of twists and turns lies ahead!<br><br>\n\n(Source: It's Anime powered by REMOW)\n",
     "startDate": {
       "year": 2025,
       "month": 10,
@@ -125109,8 +126191,8 @@
     "season": "FALL",
     "seasonYear": 2025,
     "seasonInt": 254,
-    "episodes": null,
-    "duration": null,
+    "episodes": 10,
+    "duration": 24,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#シングレ #アニメウマ娘",
@@ -125124,15 +126206,17 @@
       "Drama",
       "Sports"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 80,
+    "meanScore": 83,
     "isAdult": false,
     "trailer": {
       "id": "MNZchQvbMa0",
       "site": "youtube",
       "thumbnail": "https://i.ytimg.com/vi/MNZchQvbMa0/hqdefault.jpg"
     },
-    "synonyms": [],
+    "synonyms": [
+      "Umamusume: Cinderella Gray Cour 2"
+    ],
     "relations": {
       "edges": [
         {
@@ -125172,6 +126256,25 @@
               "color": "#d61a1a"
             }
           }
+        },
+        {
+          "id": 116137,
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 153549,
+            "title": {
+              "romaji": "Uma Musume: Cinderella Gray Gaiden - The mermaid left behind",
+              "english": null,
+              "native": "ウマ娘 シンデレラグレイ 外伝 -The mermaid left behind-"
+            },
+            "type": "MANGA",
+            "format": "ONE_SHOT",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx153549-nh9LQoPRDTuk.png",
+              "color": "#d6bb1a"
+            }
+          }
         }
       ]
     },
@@ -125183,6 +126286,38 @@
           "node": {
             "id": 6182,
             "name": "CygamesPictures"
+          }
+        },
+        {
+          "id": 45182,
+          "isMain": false,
+          "node": {
+            "id": 6310,
+            "name": "Cygames"
+          }
+        },
+        {
+          "id": 45183,
+          "isMain": false,
+          "node": {
+            "id": 145,
+            "name": "TBS"
+          }
+        },
+        {
+          "id": 45184,
+          "isMain": false,
+          "node": {
+            "id": 7313,
+            "name": "Happinet Media Marketing"
+          }
+        },
+        {
+          "id": 45185,
+          "isMain": false,
+          "node": {
+            "id": 7156,
+            "name": "Universal Music"
           }
         }
       ]
@@ -125698,7 +126833,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 1,
     "countryOfOrigin": "JP",
     "source": "OTHER",
     "hashtag": "#MUZIKTIGER #アニメMUZIKTIGER",
@@ -126330,7 +127465,7 @@
     "genres": [
       "Fantasy"
     ],
-    "averageScore": 71,
+    "averageScore": 70,
     "meanScore": 71,
     "isAdult": false,
     "trailer": {
@@ -126374,7 +127509,7 @@
     "type": "ANIME",
     "format": "TV",
     "status": "NOT_YET_RELEASED",
-    "description": "Sequel to <i>GATE: Jieitai Kanochi nite, Kaku Tatakaeri 2</i>.<br><br>\n\nThanks to the efforts of Lieutenant Yoji Itami (now Lieutenant First Class) of the Japan Ground Self-Defense Force, the once-closed \"GATE\" has safely reopened. The Japanese government, determined to maintain exclusive control over the \"GATE\", continues mobilizing the Self-Defense Forces for political and topographical surveys to build a peaceful relationship with the inhabitants of the Special Region. Captain First Class Edajima Goro of the Japan Maritime Self-Defense Force (JMSDF) and his subordinate, Petty Officer Second Class Tokushima Hajime, a skilled former chef, were conducting such diplomatic and investigative missions, traveling across the various nations of the Special Region.<br><br>\n\nHowever, one day, their assignment suddenly escalates when they're tasked with a special mission to rescue an American journalist kidnapped on an island in the Special Region's Blue Sea.<br><br>\n\nImmediately boarding the JMSDF Oyashio-class submarine Kitashio, they set sail into the ocean of another world, discovering the area around the Blue Sea engulfed in turmoil, with archipelago nations and pirates battling fiercely for dominance.<br><br>\n\n(Source: GATE 2: Tides of Conflict Site)",
+    "description": "Sequel to <i>GATE: Jieitai Kanochi nite, Kaku Tatakaeri Part 2</i>.<br><br>\n\nThanks to the efforts of Lieutenant Yoji Itami (now Lieutenant First Class) of the Japan Ground Self-Defense Force, the once-closed \"GATE\" has safely reopened. The Japanese government, determined to maintain exclusive control over the \"GATE\", continues mobilizing the Self-Defense Forces for political and topographical surveys to build a peaceful relationship with the inhabitants of the Special Region. Captain First Class Edajima Goro of the Japan Maritime Self-Defense Force (JMSDF) and his subordinate, Petty Officer Second Class Tokushima Hajime, a skilled former chef, were conducting such diplomatic and investigative missions, traveling across the various nations of the Special Region.<br><br>\n\nHowever, one day, their assignment suddenly escalates when they're tasked with a special mission to rescue an American journalist kidnapped on an island in the Special Region's Blue Sea.<br><br>\n\nImmediately boarding the JMSDF Oyashio-class submarine Kitashio, they set sail into the ocean of another world, discovering the area around the Blue Sea engulfed in turmoil, with archipelago nations and pirates battling fiercely for dominance.<br><br>\n\n(Source: GATE 2: Tides of Conflict Site)",
     "startDate": {
       "year": null,
       "month": null,
@@ -126422,9 +127557,9 @@
           "node": {
             "id": 21364,
             "title": {
-              "romaji": "GATE: Jieitai Kanochi nite, Kaku Tatakaeri 2",
+              "romaji": "GATE: Jieitai Kanochi nite, Kaku Tatakaeri Part 2",
               "english": "Gate 2",
-              "native": "GATE 自衛隊 彼の地にて、斯く戦えり 2"
+              "native": "GATE 自衛隊 彼の地にて、斯く戦えり 第2クール"
             },
             "type": "ANIME",
             "format": "TV",
@@ -126729,8 +127864,8 @@
       "Fantasy",
       "Mahou Shoujo"
     ],
-    "averageScore": 64,
-    "meanScore": 71,
+    "averageScore": 65,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "qidzapjAMVc",
@@ -127090,7 +128225,7 @@
     "description": "In a remote mountain village under the watchful eyes of two stone guardians, the young Yuru contentedly lives off the land while staying close to the only family he has left—Asa, his precious twin sister. Asa, meanwhile, carries out a mysterious “duty” on behalf of the village while locked in a cage. Why is Asa a prisoner? And what other secrets does Yuru’s otherwise idyllic home hide?\n<br><br>(Source: Square Enix)",
     "startDate": {
       "year": 2026,
-      "month": null,
+      "month": 4,
       "day": null
     },
     "endDate": {
@@ -127098,9 +128233,9 @@
       "month": null,
       "day": null
     },
-    "season": null,
-    "seasonYear": null,
-    "seasonInt": null,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "seasonInt": 262,
     "episodes": null,
     "duration": null,
     "countryOfOrigin": "JP",
@@ -127122,9 +128257,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "Y5AtJer5rRo",
+      "id": "YA9NwsULxHk",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/Y5AtJer5rRo/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/YA9NwsULxHk/hqdefault.jpg"
     },
     "synonyms": [],
     "relations": {
@@ -127809,7 +128944,7 @@
       "Supernatural"
     ],
     "averageScore": 63,
-    "meanScore": 80,
+    "meanScore": 79,
     "isAdult": false,
     "trailer": {
       "id": "PysVvOp0jiU",
@@ -127958,7 +129093,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -128030,7 +129165,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 80,
+    "meanScore": 79,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -128338,7 +129473,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 76,
+    "meanScore": 78,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -128635,7 +129770,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 66,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -128729,7 +129864,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 10,
+    "meanScore": 37,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -128855,7 +129990,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 73,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -128918,7 +130053,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 77,
+    "meanScore": 76,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -129541,7 +130676,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 40,
+    "meanScore": 50,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -129838,7 +130973,7 @@
     },
     "type": "ANIME",
     "format": "MOVIE",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": null,
     "startDate": {
       "year": 2025,
@@ -129870,7 +131005,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "qBlwZkE8EFM",
@@ -132796,7 +133931,7 @@
     "type": "ANIME",
     "format": "TV",
     "status": "RELEASING",
-    "description": "SI-VIS is a co-ed music group led by YOSUKE, shaking up the global music scene with their unmatched vocals and performances.They are actually heroes in disguise, however, battling against a mysterious force threatening to destroy the world. They gather energy through live performances and convert audience energy into combat power. The battles appear to be ordinary concerts to the public, so their identity remains a secret.<br><br>\n\n (Source: Crunchyroll News)",
+    "description": "SI-VIS is a co-ed music group, led by Yosuke, shaking up the global music scene with their unmatched vocals and performances. However, they are actually heroes in disguise, battling against mysterious forces threatening the world. They convert audience energy at live performances into combat power. Luckily, the battles appear to be ordinary concerts to the public, keeping their identity a secret.<br><br>\n\n (Source: Crunchyroll)",
     "startDate": {
       "year": 2025,
       "month": 10,
@@ -132811,7 +133946,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 24,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
     "hashtag": "#シーヴィス",
@@ -132825,8 +133960,8 @@
       "Action",
       "Music"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 57,
+    "meanScore": 62,
     "isAdult": false,
     "trailer": {
       "id": "ssg6MbJ9Ejo",
@@ -133256,8 +134391,8 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": null,
-    "meanScore": 87,
+    "averageScore": 64,
+    "meanScore": 80,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -134202,7 +135337,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 70,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "Wz2qdUmlATQ",
@@ -134626,17 +135761,17 @@
     "description": "Movie remake of the Yoshiwara Enjou arc.\n\nThis information was announced at the \"Gintama Maruchibirth Festival,\" an event held on August 16th, as part of the \"Gintama 20th Anniversary Project.\"\n\nUpon meeting a young boy named Haruta who makes a living as a pickpocket, Gintoki discovers that he is pickpocketing out of a desire to meet his long-lost mother, Hiwa, Yoshiwara's number one courtesan. Gintoki and his friends venture to Yoshiwara to fulfill Haruta's wish, but standing in their way is Housen, the Night King who rules Yoshiwara.\n\nThis movie features volumes 25 and 26 of the manga, and the TV anime series spans eight episodes, from episodes 139 to 146.",
     "startDate": {
       "year": 2026,
-      "month": null,
-      "day": null
+      "month": 2,
+      "day": 13
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 2,
+      "day": 13
     },
-    "season": null,
-    "seasonYear": null,
-    "seasonInt": null,
+    "season": "WINTER",
+    "seasonYear": 2026,
+    "seasonInt": 261,
     "episodes": 1,
     "duration": null,
     "countryOfOrigin": "JP",
@@ -136519,7 +137654,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 53,
+    "meanScore": 60,
     "isAdult": false,
     "trailer": {
       "id": "ShJvaDqFgiA",
@@ -136528,7 +137663,27 @@
     },
     "synonyms": [],
     "relations": {
-      "edges": []
+      "edges": [
+        {
+          "id": 116426,
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 200232,
+            "title": {
+              "romaji": "GANGLION",
+              "english": null,
+              "native": "ガングリオン"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx200232-1HaCyxfw3cx7.jpg",
+              "color": "#e4bb35"
+            }
+          }
+        }
+      ]
     },
     "studios": {
       "edges": [
@@ -136538,6 +137693,38 @@
           "node": {
             "id": 7694,
             "name": "studio maf"
+          }
+        },
+        {
+          "id": 45168,
+          "isMain": false,
+          "node": {
+            "id": 7714,
+            "name": "Yoshimoto Broad Entertainment"
+          }
+        },
+        {
+          "id": 45169,
+          "isMain": false,
+          "node": {
+            "id": 238,
+            "name": "AT-X"
+          }
+        },
+        {
+          "id": 45170,
+          "isMain": false,
+          "node": {
+            "id": 7708,
+            "name": "LDH JAPAN"
+          }
+        },
+        {
+          "id": 45171,
+          "isMain": false,
+          "node": {
+            "id": 7715,
+            "name": "BS Yoshimoto"
           }
         }
       ]
@@ -136618,18 +137805,18 @@
       "native": "藤本タツキ 17-26"
     },
     "type": "ANIME",
-    "format": "ONA",
+    "format": "MOVIE",
     "status": "NOT_YET_RELEASED",
-    "description": "An anthology series adapting 8 short stories created by manga artist Tatsuki Fujimoto between ages 17 and 26.<br>\n<br>\n1) <i>A Couple Clucking Chickens Were Still Kickin' in the Schoolyard</i> (Seishirou Nagaya, ZEXCS)\n<br>\n2) <i>Sasaki Stopped a Bullet</i> (Nobukage Kimura, Lapin Track)\n<br>\n3) <i>Love is Blind</i> (Nobuyuki Takeuchi, Lapin Track)\n<br>\n4) <i>Shikaku</i> (Naoya Ando, GRAPH77)\n<br>\n5) <i>Mermaid Rhapsody</i> (Tetsuaki Watanabe, 100Studio)\n<br>\n6) <i>Woke-Up-as-a-Girl Syndrome</i> (Kazuaki Terasawa, Studio Kafka)\n<br>\n7) <i>Nayuta of the Prophecy</i> (Tetsuaki Watanabe, 100Studio)\n<br>\n8) <i>Sisters</i> (Osamu Honma, P.A.WORKS)\n",
+    "description": "An anthology series adapting 8 short stories created by manga artist Tatsuki Fujimoto between ages 17 and 26.<br>\n<br>\n1) <i>A Couple Clucking Chickens Were Still Kickin' in the Schoolyard</i> (Dir. Seishirou Nagaya, ZEXCS)\n<br>\n2) <i>Sasaki Stopped a Bullet</i> (Dir. Nobukage Kimura, Lapin Track)\n<br>\n3) <i>Love is Blind</i> (Dir. Nobuyuki Takeuchi, Lapin Track)\n<br>\n4) <i>Shikaku</i> (Dir. Naoya Ando, GRAPH77)\n<br>\n5) <i>Mermaid Rhapsody</i> (Dir. Tetsuaki Watanabe, 100Studio)\n<br>\n6) <i>Woke-Up-as-a-Girl Syndrome</i> (Dir. Kazuaki Terasawa, Studio Kafka)\n<br>\n7) <i>Nayuta of the Prophecy</i> (Dir. Tetsuaki Watanabe, 100Studio)\n<br>\n8) <i>Sisters</i> (Dir. Osamu Honma, P.A.WORKS)\n<br><br>\n<i>Note: This anime had a pre-release world premiere at the \"Global Stage Hollywood 2025\" film festival on October 5, 2025. A general two-week theatrical run in Japan divided into two parts released on the same day October 17, 2025. The anime series later streamed worldwide in Amazon Prime Video on November 8, 2025.</i>",
     "startDate": {
       "year": 2025,
-      "month": 11,
-      "day": 8
+      "month": 10,
+      "day": 17
     },
     "endDate": {
       "year": 2025,
-      "month": 11,
-      "day": 8
+      "month": 10,
+      "day": 17
     },
     "season": "FALL",
     "seasonYear": 2025,
@@ -136640,9 +137827,9 @@
     "source": "MANGA",
     "hashtag": " #藤本タツキ17_26",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198188-mlScDGb4cucY.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198188-mlScDGb4cucY.jpg",
-      "color": "#e4e45d"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198188-h3w6uICVNhqh.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198188-h3w6uICVNhqh.png",
+      "color": "#e4d650"
     },
     "bannerImage": null,
     "genres": [],
@@ -136768,7 +137955,7 @@
     },
     "type": "ANIME",
     "format": "TV_SHORT",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "Marrying a cursed marquis changes her destiny... A superb romance of misunderstandings.<br><br>\n<i>\"I wanted to help you even if you didn't love me .\"</i><br><br>\nLunia, the daughter of the Count of Persephone, was shunned by her father and treated like a tool by her half-brother, leading a lonely life. Meanwhile, she is chosen by a priest to be engaged to Hades, the head of the Duke of Khronoa family, and decides to marry into the cursed duke family. The Duke of Khronoa, feared as the \"King of the Underworld,\" is cursed with a short lifespan if he does not marry a bride chosen by the emperor. However, Hades tells Lunia that he has no intention of loving her.<br><br>\n<i>\"I exist only to break the curse...\"</i>\n<br><br>\nIn order to keep Hades alive, Lunia deceived him and spent the night with him, then disappeared without realizing that she was pregnant with his child.\nSeven years later, Hades somehow managed to find Lunia and tried to take her back with the child...<br><br>(Source: Honto, translated)",
     "startDate": {
       "year": 2025,
@@ -136798,8 +137985,8 @@
       "Fantasy",
       "Romance"
     ],
-    "averageScore": null,
-    "meanScore": null,
+    "averageScore": 49,
+    "meanScore": 56,
     "isAdult": false,
     "trailer": {
       "id": "JO8hwST5Mow",
@@ -136879,14 +138066,14 @@
       "day": 14
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 2,
+      "day": 6
     },
     "season": "FALL",
     "seasonYear": 2025,
     "seasonInt": 254,
-    "episodes": null,
+    "episodes": 2,
     "duration": 20,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -137589,7 +138776,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 57,
+    "meanScore": 55,
     "isAdult": false,
     "trailer": {
       "id": "bsmMlMFMqhw",
@@ -137655,7 +138842,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 68,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": {
       "id": "Ks03nrhi2NU",
@@ -137739,7 +138926,7 @@
       "Action"
     ],
     "averageScore": null,
-    "meanScore": 56,
+    "meanScore": 54,
     "isAdult": false,
     "trailer": {
       "id": "oHwVMjWTyu0",
@@ -137792,7 +138979,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 60,
+    "meanScore": 57,
     "isAdult": false,
     "trailer": {
       "id": "HDkb3oEJgUs",
@@ -138144,7 +139331,7 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 2,
     "countryOfOrigin": "JP",
     "source": "ORIGINAL",
     "hashtag": "#JOCHUM",
@@ -138431,8 +139618,8 @@
     "genres": [
       "Fantasy"
     ],
-    "averageScore": 45,
-    "meanScore": 47,
+    "averageScore": 47,
+    "meanScore": 48,
     "isAdult": false,
     "trailer": {
       "id": "B8-jCAksIF4",
@@ -138484,11 +139671,35 @@
           }
         },
         {
-          "id": 44762,
+          "id": 45178,
           "isMain": false,
           "node": {
-            "id": 7548,
-            "name": "AnimationID"
+            "id": 7472,
+            "name": "Imagica Infos"
+          }
+        },
+        {
+          "id": 45179,
+          "isMain": false,
+          "node": {
+            "id": 6823,
+            "name": "Dai Nippon Printing"
+          }
+        },
+        {
+          "id": 45180,
+          "isMain": false,
+          "node": {
+            "id": 6677,
+            "name": "MAGNET"
+          }
+        },
+        {
+          "id": 45181,
+          "isMain": false,
+          "node": {
+            "id": 6259,
+            "name": "TOKYO MX"
           }
         }
       ]
@@ -138954,7 +140165,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 90,
+    "meanScore": 88,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -139104,7 +140315,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 83,
+    "meanScore": 84,
     "isAdult": false,
     "trailer": {
       "id": "d7kd5ZeF4os",
@@ -139279,7 +140490,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 49,
+    "meanScore": 42,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -139351,7 +140562,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 83,
+    "meanScore": 82,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -139524,7 +140735,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 77,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -139596,7 +140807,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 72,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -140204,8 +141415,8 @@
       "Comedy",
       "Slice of Life"
     ],
-    "averageScore": 65,
-    "meanScore": 74,
+    "averageScore": 66,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -140347,7 +141558,7 @@
             },
             "type": "ANIME",
             "format": "TV",
-            "status": "NOT_YET_RELEASED",
+            "status": "RELEASING",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180082-IZAlf06G2VVm.png",
               "color": "#43aeff"
@@ -140663,7 +141874,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 57,
+    "meanScore": 62,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -140925,7 +142136,7 @@
       "Adventure"
     ],
     "averageScore": null,
-    "meanScore": 53,
+    "meanScore": 57,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -141044,7 +142255,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 35,
+    "meanScore": 45,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -141225,7 +142436,7 @@
       "Mahou Shoujo"
     ],
     "averageScore": null,
-    "meanScore": 56,
+    "meanScore": 57,
     "isAdult": false,
     "trailer": {
       "id": "RTiWEXeniic",
@@ -141509,7 +142720,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 55,
+    "meanScore": 60,
     "isAdult": false,
     "trailer": {
       "id": "axLC_KbGF6g",
@@ -141925,7 +143136,7 @@
     },
     "type": "ANIME",
     "format": "TV_SHORT",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "Tomanto and friends as they solve mysteries using vegetable and fruit trivia.\n<br><br>\n(Source: Anime News Network)",
     "startDate": {
       "year": 2025,
@@ -141955,7 +143166,7 @@
       "Mystery"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 10,
     "isAdult": false,
     "trailer": {
       "id": "zxWwgXlhDSg",
@@ -141996,8 +143207,8 @@
       "native": "2200年ねこの国ニッポン"
     },
     "type": "ANIME",
-    "format": "TV",
-    "status": "NOT_YET_RELEASED",
+    "format": "TV_SHORT",
+    "status": "RELEASING",
     "description": "Takes place in the year 2200, where Japan has become a land of cats as the human population's birth rate has declined. In this future world, cats can talk, learn, and work. The story follows a high school girl and her argumentative cat.\n<br><br>\n(Source: Anime News Network)",
     "startDate": {
       "year": 2025,
@@ -142013,13 +143224,13 @@
     "seasonYear": 2025,
     "seasonInt": 254,
     "episodes": null,
-    "duration": null,
+    "duration": 3,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#2200年ねこの国ニッポン",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199009-ugf62zAk3ab9.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199009-ugf62zAk3ab9.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199009-MxwkHEavznVW.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199009-MxwkHEavznVW.jpg",
       "color": "#e4436b"
     },
     "bannerImage": null,
@@ -142029,11 +143240,16 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 59,
     "isAdult": false,
-    "trailer": null,
+    "trailer": {
+      "id": "YKim6c7KBe8",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/YKim6c7KBe8/hqdefault.jpg"
+    },
     "synonyms": [
-      "Japan, the Land of Cats in the Year 2200"
+      "Japan, the Land of Cats in the Year 2200",
+      "2200, the island for cats, Japan"
     ],
     "relations": {
       "edges": [
@@ -142074,6 +143290,14 @@
           "node": {
             "id": 7472,
             "name": "Imagica Infos"
+          }
+        },
+        {
+          "id": 45192,
+          "isMain": false,
+          "node": {
+            "id": 6570,
+            "name": "Shueisha"
           }
         }
       ]
@@ -142399,7 +143623,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 83,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -144244,7 +145468,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 10,
+    "meanScore": 42,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -144404,7 +145628,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 35,
+    "meanScore": 50,
     "isAdult": false,
     "trailer": {
       "id": "M_2ShPOAXDE",
@@ -144465,7 +145689,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 87,
+    "meanScore": 88,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -144652,7 +145876,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 51,
+    "meanScore": 55,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -144929,7 +146153,7 @@
       "Horror"
     ],
     "averageScore": null,
-    "meanScore": 10,
+    "meanScore": 40,
     "isAdult": false,
     "trailer": {
       "id": "oWguBpBfViE",
@@ -145151,7 +146375,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 56,
+    "meanScore": 62,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -145924,7 +147148,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 35,
+    "meanScore": 40,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -146049,7 +147273,7 @@
       "Adventure"
     ],
     "averageScore": null,
-    "meanScore": 78,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "oLT5VTrK9yU",
@@ -146403,7 +147627,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "GkM1hXNsY0I",
@@ -146773,7 +147997,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 68,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "G6PwSMga7AI",
@@ -147148,9 +148372,9 @@
     "source": "OTHER",
     "hashtag": null,
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199446-OUzsMbGFZbBa.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199446-OUzsMbGFZbBa.jpg",
-      "color": "#f1c95d"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199446-2jYnGrTItjyu.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199446-2jYnGrTItjyu.jpg",
+      "color": "#4393c9"
     },
     "bannerImage": null,
     "genres": [
@@ -147488,8 +148712,8 @@
     "genres": [
       "Slice of Life"
     ],
-    "averageScore": 52,
-    "meanScore": 57,
+    "averageScore": 53,
+    "meanScore": 58,
     "isAdult": false,
     "trailer": {
       "id": "3Ghk_9FsrBk",
@@ -148248,7 +149472,7 @@
       "Drama"
     ],
     "averageScore": 59,
-    "meanScore": 78,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": {
       "id": "_bEFfPc1feA",
@@ -148470,7 +149694,7 @@
   },
   {
     "id": 199603,
-    "idMal": null,
+    "idMal": 62654,
     "title": {
       "romaji": "Princess Catch! Tiniping",
       "english": null,
@@ -148556,7 +149780,7 @@
   },
   {
     "id": 199635,
-    "idMal": null,
+    "idMal": 62676,
     "title": {
       "romaji": "PetitCure: Precure Fairies Season 2",
       "english": null,
@@ -148564,7 +149788,7 @@
     },
     "type": "ANIME",
     "format": "ONA",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "The stage moves from the Mysterious Amusement Park to the \"Strange Paradise,\" where our friends from season 1, PetitCure Mofurun and PetitCure Pollun, will meet new allies like PetitCure Niko and PetitCure Candy!\n<br><br>\nIn a Strange Paradise entirely made up of sweets, everyone goes on a candy-eating spree!? Many more heartwarming and cute PetitCure stories that'll make you smile and feel all warm inside await ♡ \n<br><br>\n (Source: Official Website News, translated, edited)",
     "startDate": {
       "year": 2025,
@@ -148595,7 +149819,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "ld_1kgxUa08",
@@ -148852,8 +150076,8 @@
       "Action",
       "Comedy"
     ],
-    "averageScore": null,
-    "meanScore": 75,
+    "averageScore": 58,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "Jz2SeJDfml8",
@@ -148994,6 +150218,1137 @@
           "node": {
             "id": 7237,
             "name": "GREE Entertainment"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 199793,
+    "idMal": 62650,
+    "title": {
+      "romaji": "Witch Watch 2nd Season",
+      "english": null,
+      "native": "ウィッチウォッチ(第2期)"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "The second season of <i>Witch Watch</i>.",
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": null,
+    "duration": null,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "hashtag": "#ウィッチウォッチ",
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199793-ks9EEXbv62zR.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199793-ks9EEXbv62zR.jpg",
+      "color": "#f1935d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": false,
+    "trailer": null,
+    "synonyms": [
+      "WITCH WATCH Season 2"
+    ],
+    "relations": {
+      "edges": [
+        {
+          "id": 116131,
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 180367,
+            "title": {
+              "romaji": "Witch Watch",
+              "english": "WITCH WATCH",
+              "native": "ウィッチウォッチ"
+            },
+            "type": "ANIME",
+            "format": "TV",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx180367-GlRuB2lG7Kaa.jpg",
+              "color": "#e4e4ae"
+            }
+          }
+        },
+        {
+          "id": 116132,
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 128896,
+            "title": {
+              "romaji": "Witch Watch",
+              "english": "WITCH WATCH",
+              "native": "ウィッチウォッチ"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "RELEASING",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx128896-VJfCBLFkm4Lb.jpg",
+              "color": "#f10093"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45018,
+          "isMain": true,
+          "node": {
+            "id": 6180,
+            "name": "Bibury Animation Studios"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 199794,
+    "idMal": 62643,
+    "title": {
+      "romaji": "Anila to Cocora",
+      "english": null,
+      "native": "アニラとココラ"
+    },
+    "type": "ANIME",
+    "format": "TV_SHORT",
+    "status": "RELEASING",
+    "description": "The anime centers on sea otter brothers Anira and Kokora, who live at a certain aquarium. Anira is the older brother who is cool, but also has a naive side. The younger brother Kokora is a passionate otter who adores his older brother. \n<br><br>\n(Source: Anime News Network)",
+    "startDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 3
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": "FALL",
+    "seasonYear": 2025,
+    "seasonInt": 254,
+    "episodes": null,
+    "duration": 2,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199794-DjnzEzfFG559.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199794-DjnzEzfFG559.jpg",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Slice of Life"
+    ],
+    "averageScore": null,
+    "meanScore": 45,
+    "isAdult": false,
+    "trailer": {
+      "id": "6Nix6ivcGLI",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/6Nix6ivcGLI/hqdefault.jpg"
+    },
+    "synonyms": [
+      "Anira to Cocola",
+      "Anira to Kokora"
+    ],
+    "relations": {
+      "edges": []
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45019,
+          "isMain": true,
+          "node": {
+            "id": 432,
+            "name": "Kachidoki Studio"
+          }
+        },
+        {
+          "id": 45020,
+          "isMain": false,
+          "node": {
+            "id": 6879,
+            "name": "MMDGP"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 199795,
+    "idMal": 57950,
+    "title": {
+      "romaji": "Enjou Bokumetsu! Mahou Shoujo Aiko",
+      "english": null,
+      "native": "炎上撲滅!魔法少女アイ子 "
+    },
+    "type": "ANIME",
+    "format": "TV_SHORT",
+    "status": "FINISHED",
+    "description": null,
+    "startDate": {
+      "year": 2024,
+      "month": 1,
+      "day": 11
+    },
+    "endDate": {
+      "year": 2024,
+      "month": 3,
+      "day": 28
+    },
+    "season": "WINTER",
+    "seasonYear": 2024,
+    "seasonInt": 241,
+    "episodes": 12,
+    "duration": 4,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199795-P9nmu8Qh4a93.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199795-P9nmu8Qh4a93.png",
+      "color": "#e46b50"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Mahou Shoujo"
+    ],
+    "averageScore": null,
+    "meanScore": 53,
+    "isAdult": false,
+    "trailer": {
+      "id": "Whmrm0JCjyk",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/Whmrm0JCjyk/hqdefault.jpg"
+    },
+    "synonyms": [],
+    "relations": {
+      "edges": []
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45021,
+          "isMain": false,
+          "node": {
+            "id": 757,
+            "name": "Sony Music Entertainment"
+          }
+        },
+        {
+          "id": 45022,
+          "isMain": false,
+          "node": {
+            "id": 6817,
+            "name": "CBC TV"
+          }
+        },
+        {
+          "id": 45023,
+          "isMain": false,
+          "node": {
+            "id": 7709,
+            "name": "CHET Marketing"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 199796,
+    "idMal": null,
+    "title": {
+      "romaji": "Samishii Anata",
+      "english": null,
+      "native": "さみしいあなた"
+    },
+    "type": "ANIME",
+    "format": "TV_SHORT",
+    "status": "FINISHED",
+    "description": null,
+    "startDate": {
+      "year": 2023,
+      "month": 1,
+      "day": 14
+    },
+    "endDate": {
+      "year": 2023,
+      "month": 4,
+      "day": 1
+    },
+    "season": "WINTER",
+    "seasonYear": 2023,
+    "seasonInt": 231,
+    "episodes": 12,
+    "duration": 5,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "hashtag": "#さみしいあなた",
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199796-W6loqhQGnFeE.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199796-W6loqhQGnFeE.png",
+      "color": "#d61a78"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Horror"
+    ],
+    "averageScore": null,
+    "meanScore": 60,
+    "isAdult": false,
+    "trailer": {
+      "id": "FQ1SBHMP3E8",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/FQ1SBHMP3E8/hqdefault.jpg"
+    },
+    "synonyms": [],
+    "relations": {
+      "edges": []
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45024,
+          "isMain": false,
+          "node": {
+            "id": 7709,
+            "name": "CHET Marketing"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 199797,
+    "idMal": 62236,
+    "title": {
+      "romaji": "Shitsuke How To",
+      "english": null,
+      "native": "しつけハウツー"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "FINISHED",
+    "description": null,
+    "startDate": {
+      "year": 1999,
+      "month": 1,
+      "day": 21
+    },
+    "endDate": {
+      "year": 1999,
+      "month": 1,
+      "day": 21
+    },
+    "season": "WINTER",
+    "seasonYear": 1999,
+    "seasonInt": 991,
+    "episodes": 6,
+    "duration": 37,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199797-Q0LrWQypvLCB.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199797-Q0LrWQypvLCB.png",
+      "color": "#f1e443"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Music"
+    ],
+    "averageScore": null,
+    "meanScore": 10,
+    "isAdult": false,
+    "trailer": null,
+    "synonyms": [],
+    "relations": {
+      "edges": []
+    },
+    "studios": {
+      "edges": []
+    }
+  },
+  {
+    "id": 199798,
+    "idMal": 62647,
+    "title": {
+      "romaji": "Aozora to Oscar Peterson",
+      "english": null,
+      "native": "青空とオスカー・ピーターソン"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video for the song <i>Aozora to Oscar Peterson</i> by Miki Imai that was featured on NHK's Minna no Uta program.",
+    "startDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 1
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 1
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": 1,
+    "duration": 2,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b199798-pLlJj2Pu36aD.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b199798-pLlJj2Pu36aD.png",
+      "color": "#bb4328"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "averageScore": null,
+    "meanScore": 57,
+    "isAdult": false,
+    "trailer": {
+      "id": "mVDamtgYAE8",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/mVDamtgYAE8/hqdefault.jpg"
+    },
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "relations": {
+      "edges": []
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45025,
+          "isMain": false,
+          "node": {
+            "id": 111,
+            "name": "NHK"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 199799,
+    "idMal": 62607,
+    "title": {
+      "romaji": "Ottamagettan",
+      "english": null,
+      "native": "おったまげったん"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video for the song <i>Ottamagettan</i> by ROF-MAO that was featured on NHK's Minna no Uta program.",
+    "startDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 1
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 1
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": 1,
+    "duration": 2,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199799-RUPvu74rU9fr.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199799-RUPvu74rU9fr.png",
+      "color": "#5d86e4"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "averageScore": null,
+    "meanScore": 54,
+    "isAdult": false,
+    "trailer": {
+      "id": "72FZlLKw1hw",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/72FZlLKw1hw/hqdefault.jpg"
+    },
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "relations": {
+      "edges": []
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45026,
+          "isMain": false,
+          "node": {
+            "id": 111,
+            "name": "NHK"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 199800,
+    "idMal": 62608,
+    "title": {
+      "romaji": "Kakurenbo no Tatsujin",
+      "english": null,
+      "native": "かくれんぼの達人"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video for the song <i>Kakurenbo no Tatsujin</i> by Kaonashi Hasegawa that was featured on NHK's Minna no Uta program.",
+    "startDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 1
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 1
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": 1,
+    "duration": 2,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b199800-I8UptnhHF5Ro.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b199800-I8UptnhHF5Ro.png",
+      "color": null
+    },
+    "bannerImage": null,
+    "genres": [],
+    "averageScore": null,
+    "meanScore": 48,
+    "isAdult": false,
+    "trailer": {
+      "id": "ouTA8P8Yde4",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/ouTA8P8Yde4/hqdefault.jpg"
+    },
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "relations": {
+      "edges": []
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45027,
+          "isMain": false,
+          "node": {
+            "id": 111,
+            "name": "NHK"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 199801,
+    "idMal": 62648,
+    "title": {
+      "romaji": "Hana",
+      "english": null,
+      "native": "ハナ"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video for the song <i>Hana</i> by Macaroni Empitsu that was featured on NHK's Minna no Uta program.",
+    "startDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 1
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 1
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": 1,
+    "duration": 2,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b199801-okuXEouVqU9Z.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b199801-okuXEouVqU9Z.png",
+      "color": "#e4a186"
+    },
+    "bannerImage": null,
+    "genres": [],
+    "averageScore": null,
+    "meanScore": 66,
+    "isAdult": false,
+    "trailer": {
+      "id": "5Wgk-bZniCw",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/5Wgk-bZniCw/hqdefault.jpg"
+    },
+    "synonyms": [
+      "Minna no Uta"
+    ],
+    "relations": {
+      "edges": []
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45028,
+          "isMain": false,
+          "node": {
+            "id": 111,
+            "name": "NHK"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 199812,
+    "idMal": null,
+    "title": {
+      "romaji": "Sawaranaide Kotesashi-kun Mini Anime Gekijou",
+      "english": "Hands off: Sawaranaide Kotesashi-kun! Mini Anime",
+      "native": "さわらないで小手指くんミニアニメ劇場"
+    },
+    "type": "ANIME",
+    "format": "TV_SHORT",
+    "status": "RELEASING",
+    "description": "A weekly mini anime shown with each episode of <i>Sawaranaide Kotesashi-kun</i>.",
+    "startDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 6
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 12,
+      "day": 22
+    },
+    "season": "FALL",
+    "seasonYear": 2025,
+    "seasonInt": 254,
+    "episodes": 12,
+    "duration": 12,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199812-88EBKcwBqQjG.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199812-88EBKcwBqQjG.png",
+      "color": "#ffe4a1"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Ecchi",
+      "Romance",
+      "Sports"
+    ],
+    "averageScore": null,
+    "meanScore": 47,
+    "isAdult": false,
+    "trailer": null,
+    "synonyms": [
+      "さわらないで小手指くんスピンオフミニアニメ",
+      "Sawaranaide Kotesashi-kun Spin-off Mini Anime"
+    ],
+    "relations": {
+      "edges": [
+        {
+          "id": 116136,
+          "relationType": "PARENT",
+          "node": {
+            "id": 187331,
+            "title": {
+              "romaji": "Sawaranaide Kotesashi-kun",
+              "english": "Hands off: Sawaranaide Kotesashi-kun!",
+              "native": "さわらないで小手指くん"
+            },
+            "type": "ANIME",
+            "format": "TV_SHORT",
+            "status": "RELEASING",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187331-ylRHyvJIVPeO.jpg",
+              "color": "#e45d78"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45186,
+          "isMain": false,
+          "node": {
+            "id": 7353,
+            "name": "WWWave"
+          }
+        },
+        {
+          "id": 45187,
+          "isMain": true,
+          "node": {
+            "id": 7195,
+            "name": "Front Wing"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 199931,
+    "idMal": 62662,
+    "title": {
+      "romaji": "Dokodemo Makibao: World Tour",
+      "english": null,
+      "native": "どこでもマキバオー ～ワールドツアー～"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "RELEASING",
+    "description": "Second season of <i>Dokodemo Makibao </i>",
+    "startDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 8
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": "FALL",
+    "seasonYear": 2025,
+    "seasonInt": 254,
+    "episodes": null,
+    "duration": 4,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "hashtag": "#マキバオー",
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199931-EhQ6yMCbEvik.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199931-EhQ6yMCbEvik.png",
+      "color": "#fff100"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Sports"
+    ],
+    "averageScore": null,
+    "meanScore": 40,
+    "isAdult": false,
+    "trailer": {
+      "id": "Q5cECzU3p7g",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/Q5cECzU3p7g/hqdefault.jpg"
+    },
+    "synonyms": [],
+    "relations": {
+      "edges": [
+        {
+          "id": 116165,
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 185538,
+            "title": {
+              "romaji": "Dokodemo Makibao",
+              "english": null,
+              "native": "みどりのマキバオー"
+            },
+            "type": "ANIME",
+            "format": "ONA",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185538-3YVB6ishN7as.png",
+              "color": "#fec90d"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45190,
+          "isMain": false,
+          "node": {
+            "id": 6431,
+            "name": "KDDI"
+          }
+        },
+        {
+          "id": 45191,
+          "isMain": true,
+          "node": {
+            "id": 276,
+            "name": "DLE"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 199955,
+    "idMal": null,
+    "title": {
+      "romaji": "dying breath",
+      "english": null,
+      "native": "dying breath"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video for <i>dying breath</i>, ending song for ADELTA's visual novel <i>Ooe</i>. Directed by Katsuhika Susshin and performed by Yui Kawana.",
+    "startDate": {
+      "year": 2025,
+      "month": 3,
+      "day": 25
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 3,
+      "day": 25
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": 1,
+    "duration": 4,
+    "countryOfOrigin": "JP",
+    "source": "VISUAL_NOVEL",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199955-x1zKTUFYppWe.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199955-x1zKTUFYppWe.jpg",
+      "color": "#1ad686"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199955-Op0OsICPE5JO.jpg",
+    "genres": [],
+    "averageScore": null,
+    "meanScore": 71,
+    "isAdult": false,
+    "trailer": {
+      "id": "FcLsIVQasXE",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/FcLsIVQasXE/hqdefault.jpg"
+    },
+    "synonyms": [],
+    "relations": {
+      "edges": []
+    },
+    "studios": {
+      "edges": []
+    }
+  },
+  {
+    "id": 200046,
+    "idMal": null,
+    "title": {
+      "romaji": "SO BAD",
+      "english": null,
+      "native": "SO BAD"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video directed by Nonashi Baisun for the song SO BAD by King Gnu.",
+    "startDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 9
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 10,
+      "day": 9
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": 1,
+    "duration": 4,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200046-v9o0A7YdAyBJ.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200046-v9o0A7YdAyBJ.jpg",
+      "color": "#d67893"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action"
+    ],
+    "averageScore": null,
+    "meanScore": 65,
+    "isAdult": false,
+    "trailer": {
+      "id": "d4st4aEjQ28",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/d4st4aEjQ28/hqdefault.jpg"
+    },
+    "synonyms": [],
+    "relations": {
+      "edges": []
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45245,
+          "isMain": true,
+          "node": {
+            "id": 561,
+            "name": "A-1 Pictures"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 200228,
+    "idMal": null,
+    "title": {
+      "romaji": "Oshikake! Bakunyuu Gal Harem Seikatsu",
+      "english": null,
+      "native": "おしかけ！爆乳ギャルハーレム性活"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "NOT_YET_RELEASED",
+    "description": "A salaryman who was fired from his job and has no girlfriend is caught by some gals! He is treated like a molester just for looking at them, and the gals force their way into his house, demanding that he let them stay there, and have sex with him to kill time! This man, who has no experience with women, is toyed with by the gals who know no shyness! Whether in the living room, the bath, or in bed, the girls' \"inspection\" never stops!\n<br><br>\n(Source: Lune-soft, translated)",
+    "startDate": {
+      "year": 2025,
+      "month": 11,
+      "day": 28
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": "FALL",
+    "seasonYear": 2025,
+    "seasonInt": 254,
+    "episodes": null,
+    "duration": 16,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200228-r8Bm5BulKKOS.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200228-r8Bm5BulKKOS.jpg",
+      "color": "#f143a1"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/200228-fta41j00DAv7.jpg",
+    "genres": [
+      "Hentai"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": true,
+    "trailer": null,
+    "synonyms": [
+      "Gyaru Harem Invasion"
+    ],
+    "relations": {
+      "edges": [
+        {
+          "id": 116419,
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 133990,
+            "title": {
+              "romaji": "Oshikake! Bakunyuu Gal Harem Seikatsu",
+              "english": "Gyaru Harem Invasion",
+              "native": "おしかけ! 爆乳ギャルハーレム性活"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx133990-QOkTlx0e460v.jpg",
+              "color": "#e43593"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45269,
+          "isMain": true,
+          "node": {
+            "id": 405,
+            "name": "T-REX"
+          }
+        },
+        {
+          "id": 45270,
+          "isMain": false,
+          "node": {
+            "id": 6128,
+            "name": "Bunny Walker"
+          }
+        },
+        {
+          "id": 45271,
+          "isMain": false,
+          "node": {
+            "id": 823,
+            "name": "Lune Pictures"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 200230,
+    "idMal": null,
+    "title": {
+      "romaji": "Let's Go Kaikigumi",
+      "english": null,
+      "native": "レッツゴー怪奇組"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "The horror comedy manga begins one fateful day when the cowardly (unnamed) protagonist meets Mechako, the leader of the \"Kaikigumi\" organization which is in charge of the ghosts and supernatural creatures scaring humans. The protagonist somehow takes part in the revival of the Kaikigumi, after which one bizarre (yet not scary) phenomenon after another crops up around him.\n<br><br>\n(Source: ANN)",
+    "startDate": {
+      "year": 2026,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": null,
+    "duration": null,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200230-b0ZdRtbgDsuC.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200230-b0ZdRtbgDsuC.jpg",
+      "color": "#43aee4"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Supernatural"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": false,
+    "trailer": {
+      "id": "PRZ8Bd1MtrI",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/PRZ8Bd1MtrI/hqdefault.jpg"
+    },
+    "synonyms": [],
+    "relations": {
+      "edges": [
+        {
+          "id": 116421,
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 162148,
+            "title": {
+              "romaji": "Let's Go Kaikigumi",
+              "english": null,
+              "native": "レッツゴー怪奇組"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx162148-x1BrD9LuvepO.jpg",
+              "color": "#ffc900"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45272,
+          "isMain": true,
+          "node": {
+            "id": 6074,
+            "name": "C-Station"
+          }
+        },
+        {
+          "id": 45273,
+          "isMain": false,
+          "node": {
+            "id": 145,
+            "name": "TBS"
           }
         }
       ]
