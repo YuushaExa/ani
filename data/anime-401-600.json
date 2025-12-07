@@ -757,7 +757,7 @@
       "Fantasy",
       "Romance"
     ],
-    "averageScore": 67,
+    "averageScore": 66,
     "meanScore": 67,
     "isAdult": false,
     "trailer": {
@@ -1206,7 +1206,7 @@
       "Comedy",
       "Sci-Fi"
     ],
-    "averageScore": 66,
+    "averageScore": 67,
     "meanScore": 80,
     "isAdult": false,
     "trailer": null,
@@ -9766,7 +9766,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 59,
+    "averageScore": 60,
     "meanScore": 73,
     "isAdult": false,
     "trailer": null,
@@ -9823,7 +9823,7 @@
       "Mystery",
       "Supernatural"
     ],
-    "averageScore": 73,
+    "averageScore": 74,
     "meanScore": 79,
     "isAdult": false,
     "trailer": {
@@ -11259,9 +11259,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "ujuWb92FFAs",
+      "id": "voLZJvdwUEE",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/ujuWb92FFAs/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/voLZJvdwUEE/hqdefault.jpg"
     },
     "synonyms": [
       "Enen no Shouboutai 3rd Season Part 2",
@@ -11589,7 +11589,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "averageScore": 54,
+    "averageScore": 53,
     "meanScore": 54,
     "isAdult": false,
     "trailer": null,
@@ -11784,7 +11784,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 72,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -14991,7 +14991,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 51,
+    "meanScore": 53,
     "isAdult": false,
     "trailer": {
       "id": "zPDEPz6YQho",
@@ -16210,7 +16210,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 32,
+    "meanScore": 34,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -16649,8 +16649,8 @@
             "format": "TV",
             "status": "NOT_YET_RELEASED",
             "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191967-Riksdmv8TpLy.jpg",
-              "color": null
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191967-fLWqssc0gPI4.jpg",
+              "color": "#e4ae43"
             }
           }
         }
@@ -17860,7 +17860,7 @@
       "Fantasy"
     ],
     "averageScore": 65,
-    "meanScore": 83,
+    "meanScore": 82,
     "isAdult": false,
     "trailer": {
       "id": "H1aw6bihW9c",
@@ -18108,7 +18108,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179718-bfeniSSP8iFM.jpg",
     "genres": [],
     "averageScore": null,
-    "meanScore": 69,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "66FfVXogNUc",
@@ -18234,7 +18234,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179720-r3x20jxOGRlY.jpg",
     "genres": [],
     "averageScore": 57,
-    "meanScore": 65,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": {
       "id": "7wEkDdBa4QQ",
@@ -20403,7 +20403,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 68,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "FLgnosLt0mA",
@@ -20761,7 +20761,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 40,
+    "meanScore": 36,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -20843,7 +20843,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 34,
+    "meanScore": 32,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -23570,7 +23570,7 @@
       "Slice of Life"
     ],
     "averageScore": 57,
-    "meanScore": 71,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "UWWiu2TMKJ4",
@@ -25152,7 +25152,7 @@
       "Action"
     ],
     "averageScore": null,
-    "meanScore": 53,
+    "meanScore": 54,
     "isAdult": false,
     "trailer": {
       "id": "lxb8Yvzc4l0",
@@ -27794,7 +27794,7 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179970-X3G3FbZp3G77.jpg",
     "genres": [],
-    "averageScore": 56,
+    "averageScore": 57,
     "meanScore": 64,
     "isAdult": false,
     "trailer": {
@@ -27925,7 +27925,7 @@
       "Adventure",
       "Slice of Life"
     ],
-    "averageScore": 62,
+    "averageScore": 61,
     "meanScore": 70,
     "isAdult": false,
     "trailer": {
@@ -28893,7 +28893,7 @@
       "Adventure"
     ],
     "averageScore": null,
-    "meanScore": 50,
+    "meanScore": 52,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -29228,7 +29228,7 @@
       "Comedy",
       "Romance"
     ],
-    "averageScore": 69,
+    "averageScore": 68,
     "meanScore": 69,
     "isAdult": false,
     "trailer": {
@@ -30434,8 +30434,8 @@
       "Drama",
       "Sports"
     ],
-    "averageScore": 59,
-    "meanScore": 60,
+    "averageScore": 60,
+    "meanScore": 61,
     "isAdult": false,
     "trailer": {
       "id": "-0SudgDzshc",
@@ -31159,7 +31159,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 56,
+    "averageScore": 55,
     "meanScore": 62,
     "isAdult": true,
     "trailer": null,
@@ -31219,7 +31219,7 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180585-OeG5SMQgJToD.jpg",
     "genres": [],
-    "averageScore": 64,
+    "averageScore": 65,
     "meanScore": 73,
     "isAdult": false,
     "trailer": {
@@ -31652,7 +31652,7 @@
       "Fantasy"
     ],
     "averageScore": 58,
-    "meanScore": 71,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "G9nHP6aRsjE",
@@ -31873,7 +31873,7 @@
     },
     "bannerImage": null,
     "genres": [],
-    "averageScore": 57,
+    "averageScore": 56,
     "meanScore": 68,
     "isAdult": false,
     "trailer": {
@@ -32396,7 +32396,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 52,
+    "meanScore": 53,
     "isAdult": false,
     "trailer": {
       "id": "YTaPg_NLRc0",
@@ -33557,7 +33557,7 @@
       "Action"
     ],
     "averageScore": 68,
-    "meanScore": 70,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "j7RbmhKeaZs",
@@ -34103,7 +34103,7 @@
             },
             "type": "MANGA",
             "format": "MANGA",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx139611-HtoFCUPjNr1Q.jpg",
               "color": null
@@ -34392,7 +34392,7 @@
       "Sports"
     ],
     "averageScore": null,
-    "meanScore": 60,
+    "meanScore": 56,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -34867,7 +34867,7 @@
       "Sports"
     ],
     "averageScore": null,
-    "meanScore": 62,
+    "meanScore": 56,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -35115,8 +35115,8 @@
     "genres": [
       "Sci-Fi"
     ],
-    "averageScore": 65,
-    "meanScore": 74,
+    "averageScore": 66,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": {
       "id": "1ltwIC3oTBg",
@@ -35200,7 +35200,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180871-yIiseZoeUwjz.jpg",
     "genres": [],
     "averageScore": 55,
-    "meanScore": 69,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "Edeugep9qqU",
@@ -35903,7 +35903,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180936-fxGuTaKqIBe0.jpg",
     "genres": [],
     "averageScore": 61,
-    "meanScore": 72,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "u4uDiV3u-do",
@@ -36430,7 +36430,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 63,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": {
       "id": "q0KMIU_kjRc",
@@ -36884,7 +36884,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 40,
+    "meanScore": 42,
     "isAdult": false,
     "trailer": {
       "id": "dOo3R-mCOZY",
@@ -37972,7 +37972,7 @@
       "Romance"
     ],
     "averageScore": 73,
-    "meanScore": 74,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "hXQi1-eyBVg",
@@ -38947,8 +38947,8 @@
       "Mystery",
       "Thriller"
     ],
-    "averageScore": 46,
-    "meanScore": 51,
+    "averageScore": 47,
+    "meanScore": 52,
     "isAdult": false,
     "trailer": {
       "id": "FopiI3lAPeI",
@@ -39859,7 +39859,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 25,
+    "meanScore": 30,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -39943,7 +39943,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 66,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -40502,7 +40502,7 @@
             },
             "type": "MANGA",
             "format": "MANGA",
-            "status": "RELEASING",
+            "status": "FINISHED",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/nx97700-Gvj77EXtkMLd.jpg",
               "color": "#f1bb50"
@@ -40690,7 +40690,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 42,
+    "meanScore": 40,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -40849,7 +40849,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 45,
+    "meanScore": 43,
     "isAdult": false,
     "trailer": {
       "id": "_HCxyd-H2PU",
@@ -41950,7 +41950,7 @@
       "Thriller"
     ],
     "averageScore": null,
-    "meanScore": 40,
+    "meanScore": 43,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -43150,7 +43150,7 @@
       "Drama",
       "Romance"
     ],
-    "averageScore": 71,
+    "averageScore": 72,
     "meanScore": 73,
     "isAdult": false,
     "trailer": {
@@ -43268,7 +43268,7 @@
       "Mahou Shoujo"
     ],
     "averageScore": null,
-    "meanScore": 37,
+    "meanScore": 34,
     "isAdult": false,
     "trailer": {
       "id": "C1AZ-NGbpkA",
@@ -43644,8 +43644,8 @@
       "Drama",
       "Music"
     ],
-    "averageScore": 62,
-    "meanScore": 81,
+    "averageScore": 65,
+    "meanScore": 83,
     "isAdult": false,
     "trailer": {
       "id": "nkbxYlYm8jo",
@@ -43857,9 +43857,9 @@
     "source": "MANGA",
     "hashtag": "#ウィストリア #Wistoria",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-Qrp0rHZcTpHN.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182300-Qrp0rHZcTpHN.jpg",
-      "color": "#3586ae"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182300-LjobX8omq6Jo.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx182300-LjobX8omq6Jo.png",
+      "color": "#bbd6f1"
     },
     "bannerImage": null,
     "genres": [
@@ -43872,9 +43872,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "S7OwvZT_ImY",
+      "id": "EQ0bYv3H8RY",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/S7OwvZT_ImY/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/EQ0bYv3H8RY/hqdefault.jpg"
     },
     "synonyms": [
       "Wistoria: Wand and Sword Season 2"
@@ -45444,7 +45444,7 @@
       "Hentai"
     ],
     "averageScore": 59,
-    "meanScore": 69,
+    "meanScore": 68,
     "isAdult": true,
     "trailer": {
       "id": "GCUWDK1ZuFM",
@@ -45731,7 +45731,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 58,
+    "meanScore": 59,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -45998,7 +45998,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 33,
+    "meanScore": 35,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -46563,8 +46563,8 @@
       "Comedy",
       "Fantasy"
     ],
-    "averageScore": null,
-    "meanScore": 79,
+    "averageScore": 60,
+    "meanScore": 80,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -46898,8 +46898,8 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 68,
-    "meanScore": 85,
+    "averageScore": 69,
+    "meanScore": 84,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -47577,7 +47577,7 @@
       "Slice of Life"
     ],
     "averageScore": 56,
-    "meanScore": 64,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": {
       "id": "2dkJB8a201s",
@@ -47768,7 +47768,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 54,
+    "meanScore": 60,
     "isAdult": false,
     "trailer": {
       "id": "z8_Ywr_i3Uc",
@@ -48691,7 +48691,7 @@
       "Slice of Life"
     ],
     "averageScore": 70,
-    "meanScore": 71,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "S-qnR3woNf0",
@@ -50645,7 +50645,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 82,
+    "meanScore": 81,
     "isAdult": false,
     "trailer": {
       "id": "kedh-Fq2Weg",
@@ -51044,8 +51044,8 @@
       "Romance",
       "Slice of Life"
     ],
-    "averageScore": 68,
-    "meanScore": 73,
+    "averageScore": 67,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "Ppqrne0r18I",
@@ -51195,7 +51195,7 @@
     "genres": [
       "Psychological"
     ],
-    "averageScore": 61,
+    "averageScore": 62,
     "meanScore": 76,
     "isAdult": false,
     "trailer": {
@@ -51421,7 +51421,7 @@
       "Music"
     ],
     "averageScore": null,
-    "meanScore": 76,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": {
       "id": "axbbAxWU9qQ",
@@ -51621,7 +51621,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 54,
+    "meanScore": 55,
     "isAdult": false,
     "trailer": {
       "id": "2VO_pSPU1WY",
@@ -52078,7 +52078,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 41,
+    "meanScore": 36,
     "isAdult": false,
     "trailer": {
       "id": "aOruKxOU5ts",
@@ -52269,7 +52269,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183478-vwx3OUzSQaiU.jpg",
     "genres": [],
     "averageScore": 77,
-    "meanScore": 81,
+    "meanScore": 80,
     "isAdult": false,
     "trailer": {
       "id": "Jj1_mfUzjOs",
@@ -52419,7 +52419,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "averageScore": 61,
+    "averageScore": 60,
     "meanScore": 73,
     "isAdult": false,
     "trailer": {
@@ -52510,7 +52510,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183520-Bbl0Rsn63ph8.jpg",
     "genres": [],
     "averageScore": 66,
-    "meanScore": 74,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": {
       "id": "BerwUFzdj4U",
@@ -52647,7 +52647,7 @@
       "Hentai"
     ],
     "averageScore": 64,
-    "meanScore": 68,
+    "meanScore": 69,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -54823,7 +54823,7 @@
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx183965-7oMzkJp4FUyP.jpg",
       "color": "#d6ae6b"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/183965-gebvisNsiHxO.jpg",
     "genres": [
       "Comedy",
       "Romance",
@@ -56171,7 +56171,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 51,
+    "meanScore": 50,
     "isAdult": false,
     "trailer": {
       "id": "f8VXXMz6StQ",
@@ -56567,7 +56567,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 52,
+    "meanScore": 53,
     "isAdult": false,
     "trailer": {
       "id": "m9qm99QxU6M",
@@ -56900,7 +56900,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 64,
+    "averageScore": 65,
     "meanScore": 65,
     "isAdult": false,
     "trailer": {
@@ -57179,7 +57179,11 @@
     "averageScore": null,
     "meanScore": 70,
     "isAdult": false,
-    "trailer": null,
+    "trailer": {
+      "id": "9Reb_TuaUCM",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/9Reb_TuaUCM/hqdefault.jpg"
+    },
     "synonyms": [],
     "relations": {
       "edges": []
@@ -57332,8 +57336,8 @@
             "format": "MOVIE",
             "status": "FINISHED",
             "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169754-QKY28ON9onrB.jpg",
-              "color": "#f1a150"
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx169754-7QA6x4pbOiJX.jpg",
+              "color": "#e4bb50"
             }
           }
         },
@@ -57561,7 +57565,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 73,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -57750,7 +57754,7 @@
       "Action"
     ],
     "averageScore": null,
-    "meanScore": 72,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -59313,8 +59317,8 @@
     },
     "bannerImage": null,
     "genres": [],
-    "averageScore": 53,
-    "meanScore": 66,
+    "averageScore": null,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "nPLVQLobl7A",
@@ -59387,7 +59391,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 65,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": {
       "id": "Wr10_8s_yAQ",
@@ -59463,7 +59467,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "averageScore": 68,
+    "averageScore": 69,
     "meanScore": 71,
     "isAdult": false,
     "trailer": {
@@ -59703,8 +59707,8 @@
     },
     "bannerImage": null,
     "genres": [],
-    "averageScore": 56,
-    "meanScore": 69,
+    "averageScore": 57,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "FwLPwiD2Gcs",
@@ -59780,7 +59784,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 81,
+    "averageScore": 80,
     "meanScore": 81,
     "isAdult": false,
     "trailer": {
@@ -59909,7 +59913,7 @@
       "Mystery",
       "Romance"
     ],
-    "averageScore": 58,
+    "averageScore": 59,
     "meanScore": 61,
     "isAdult": false,
     "trailer": {
@@ -60106,7 +60110,7 @@
       "Drama",
       "Fantasy"
     ],
-    "averageScore": 72,
+    "averageScore": 73,
     "meanScore": 78,
     "isAdult": false,
     "trailer": {
@@ -60195,7 +60199,7 @@
       "Sci-Fi"
     ],
     "averageScore": 76,
-    "meanScore": 83,
+    "meanScore": 82,
     "isAdult": false,
     "trailer": {
       "id": "TQcc7ippnnU",
@@ -61043,7 +61047,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 47,
+    "meanScore": 44,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -61155,7 +61159,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 50,
+    "meanScore": 48,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -61326,8 +61330,8 @@
     "genres": [
       "Music"
     ],
-    "averageScore": 61,
-    "meanScore": 80,
+    "averageScore": 62,
+    "meanScore": 81,
     "isAdult": false,
     "trailer": {
       "id": "AOfaWrBwo7I",
@@ -61383,7 +61387,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 41,
+    "meanScore": 43,
     "isAdult": false,
     "trailer": {
       "id": "wDCK1D8Ivf0",
@@ -61587,7 +61591,7 @@
       "Hentai"
     ],
     "averageScore": 56,
-    "meanScore": 61,
+    "meanScore": 60,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -61685,7 +61689,7 @@
     "genres": [
       "Sci-Fi"
     ],
-    "averageScore": 69,
+    "averageScore": 68,
     "meanScore": 77,
     "isAdult": false,
     "trailer": {
@@ -62411,7 +62415,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/184896-4N5SNvOV3oXx.jpg",
     "genres": [],
     "averageScore": 54,
-    "meanScore": 61,
+    "meanScore": 62,
     "isAdult": false,
     "trailer": {
       "id": "-rugMs1shyA",
@@ -63577,7 +63581,7 @@
       "Music"
     ],
     "averageScore": 72,
-    "meanScore": 75,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": {
       "id": "JK8GE-6pU8U",
@@ -64059,7 +64063,7 @@
     "genres": [
       "Action"
     ],
-    "averageScore": 57,
+    "averageScore": 58,
     "meanScore": 67,
     "isAdult": false,
     "trailer": {
@@ -64398,7 +64402,7 @@
       "Sci-Fi",
       "Thriller"
     ],
-    "averageScore": 70,
+    "averageScore": 71,
     "meanScore": 72,
     "isAdult": false,
     "trailer": {
@@ -65381,11 +65385,11 @@
     "source": "ORIGINAL",
     "hashtag": "#劇場版名探偵コナン #隻眼の残像",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185212-fMiVtbxva98b.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185212-fMiVtbxva98b.jpg",
-      "color": "#e48650"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx185212-ejyh60F81l8n.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx185212-ejyh60F81l8n.jpg",
+      "color": "#e4a15d"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185212-yXAu1YE4K5s5.jpg",
     "genres": [
       "Mystery"
     ],
@@ -66154,8 +66158,8 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185371-dzIjhVmmhLO3.jpg",
     "genres": [],
-    "averageScore": 63,
-    "meanScore": 71,
+    "averageScore": 64,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "bxVTrX8TjrU",
@@ -66332,8 +66336,8 @@
     "genres": [
       "Mahou Shoujo"
     ],
-    "averageScore": 57,
-    "meanScore": 70,
+    "averageScore": 58,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "eKA6dewIdk8",
@@ -66408,7 +66412,7 @@
       "Fantasy"
     ],
     "averageScore": 51,
-    "meanScore": 53,
+    "meanScore": 54,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -66711,7 +66715,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "averageScore": 55,
+    "averageScore": 56,
     "meanScore": 56,
     "isAdult": false,
     "trailer": {
@@ -67540,7 +67544,7 @@
       "Sports"
     ],
     "averageScore": null,
-    "meanScore": 44,
+    "meanScore": 37,
     "isAdult": false,
     "trailer": {
       "id": "gDQ_PdAbh88",
@@ -67651,7 +67655,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 40,
+    "meanScore": 42,
     "isAdult": false,
     "trailer": {
       "id": "gDQ_PdAbh88",
@@ -68217,7 +68221,7 @@
       "Romance"
     ],
     "averageScore": 66,
-    "meanScore": 66,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "K4aYZ-CWdqc",
@@ -68379,7 +68383,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185576-mrRcekCboeNh.jpg",
     "genres": [],
     "averageScore": 58,
-    "meanScore": 70,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "r-kkCrVZUzc",
@@ -68454,7 +68458,7 @@
       "Comedy"
     ],
     "averageScore": 53,
-    "meanScore": 64,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -68524,8 +68528,8 @@
     "genres": [
       "Comedy"
     ],
-    "averageScore": 62,
-    "meanScore": 65,
+    "averageScore": 63,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": {
       "id": "tdYgnXhHxH8",
@@ -68768,7 +68772,7 @@
       "Slice of Life"
     ],
     "averageScore": 52,
-    "meanScore": 58,
+    "meanScore": 59,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -70073,7 +70077,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 55,
+    "meanScore": 53,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -71117,7 +71121,7 @@
       "Slice of Life"
     ],
     "averageScore": 55,
-    "meanScore": 65,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -72024,7 +72028,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 66,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -72088,7 +72092,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 56,
+    "meanScore": 58,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -72364,8 +72368,8 @@
       "Comedy",
       "Romance"
     ],
-    "averageScore": 77,
-    "meanScore": 78,
+    "averageScore": 78,
+    "meanScore": 79,
     "isAdult": false,
     "trailer": {
       "id": "qf_pRksXtTw",
@@ -73438,7 +73442,7 @@
     "genres": [
       "Fantasy"
     ],
-    "averageScore": 50,
+    "averageScore": 51,
     "meanScore": 57,
     "isAdult": false,
     "trailer": {
@@ -73611,7 +73615,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 48,
+    "meanScore": 50,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -73852,8 +73856,8 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185780-qzzFfLfRoOdd.jpg",
     "genres": [],
-    "averageScore": 68,
-    "meanScore": 78,
+    "averageScore": 67,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": {
       "id": "loRZB-8eeVs",
@@ -74173,7 +74177,7 @@
       "Music"
     ],
     "averageScore": null,
-    "meanScore": 82,
+    "meanScore": 83,
     "isAdult": false,
     "trailer": {
       "id": "rO54RKth5Kw",
@@ -74296,7 +74300,7 @@
       "Comedy",
       "Fantasy"
     ],
-    "averageScore": 71,
+    "averageScore": 72,
     "meanScore": 73,
     "isAdult": false,
     "trailer": {
@@ -75137,7 +75141,7 @@
       "Mystery"
     ],
     "averageScore": null,
-    "meanScore": 70,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -75520,7 +75524,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 72,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "r09Hadb-WBE",
@@ -76548,7 +76552,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 57,
+    "meanScore": 53,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -77759,7 +77763,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 40,
+    "meanScore": 42,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -77881,7 +77885,7 @@
     },
     "bannerImage": null,
     "genres": [],
-    "averageScore": 49,
+    "averageScore": 50,
     "meanScore": 58,
     "isAdult": false,
     "trailer": {
@@ -78254,7 +78258,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 55,
+    "meanScore": 56,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -78375,7 +78379,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 46,
+    "meanScore": 48,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -80992,13 +80996,13 @@
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186161-rgdRQgwOJUpb.png",
       "color": "#1aaef1"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186161-KYfFUJEVLB1W.jpg",
     "genres": [
       "Drama",
       "Fantasy",
       "Romance"
     ],
-    "averageScore": 67,
+    "averageScore": 66,
     "meanScore": 68,
     "isAdult": false,
     "trailer": {
@@ -81107,7 +81111,7 @@
       "Fantasy",
       "Romance"
     ],
-    "averageScore": 61,
+    "averageScore": 62,
     "meanScore": 71,
     "isAdult": false,
     "trailer": {
@@ -82077,7 +82081,7 @@
     "genres": [
       "Slice of Life"
     ],
-    "averageScore": 61,
+    "averageScore": 62,
     "meanScore": 69,
     "isAdult": false,
     "trailer": {
@@ -82146,7 +82150,7 @@
       "Slice of Life"
     ],
     "averageScore": 55,
-    "meanScore": 61,
+    "meanScore": 60,
     "isAdult": false,
     "trailer": {
       "id": "gzJe3W8-jYw",
@@ -82230,7 +82234,7 @@
       "Hentai"
     ],
     "averageScore": 51,
-    "meanScore": 60,
+    "meanScore": 59,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -82483,7 +82487,7 @@
     "startDate": {
       "year": 2026,
       "month": 1,
-      "day": null
+      "day": 4
     },
     "endDate": {
       "year": null,
@@ -82499,9 +82503,9 @@
     "source": "LIGHT_NOVEL",
     "hashtag": "#アニメクノン",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186333-ytFMoz1Gh9ev.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186333-ytFMoz1Gh9ev.png",
-      "color": "#AEC1CF"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx186333-32qDHxLkndpg.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx186333-32qDHxLkndpg.png",
+      "color": "#5da1e4"
     },
     "bannerImage": null,
     "genres": [
@@ -82744,7 +82748,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 76,
+    "meanScore": 72,
     "isAdult": false,
     "trailer": {
       "id": "9_5sYKvVWQw",
@@ -82788,7 +82792,7 @@
             },
             "type": "ANIME",
             "format": "MOVIE",
-            "status": "NOT_YET_RELEASED",
+            "status": "FINISHED",
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191893-SqzYET51kWwu.png",
               "color": "#febb50"
@@ -82944,7 +82948,7 @@
       "Mystery",
       "Psychological"
     ],
-    "averageScore": 62,
+    "averageScore": 63,
     "meanScore": 77,
     "isAdult": false,
     "trailer": {
@@ -84042,7 +84046,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/186586-WhHIESRWpjku.jpg",
     "genres": [],
     "averageScore": 55,
-    "meanScore": 67,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": {
       "id": "51DJmCptQFU",
@@ -84212,7 +84216,7 @@
       "Action"
     ],
     "averageScore": 73,
-    "meanScore": 83,
+    "meanScore": 82,
     "isAdult": false,
     "trailer": {
       "id": "vWfsu3_cZn4",
@@ -84976,8 +84980,8 @@
     "genres": [
       "Psychological"
     ],
-    "averageScore": 65,
-    "meanScore": 75,
+    "averageScore": 66,
+    "meanScore": 76,
     "isAdult": false,
     "trailer": {
       "id": "wuUZjdiUCj0",
@@ -86464,7 +86468,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 59,
+    "meanScore": 56,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -87027,7 +87031,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 68,
+    "averageScore": 67,
     "meanScore": 68,
     "isAdult": false,
     "trailer": {
@@ -87304,7 +87308,7 @@
       "Hentai"
     ],
     "averageScore": 70,
-    "meanScore": 75,
+    "meanScore": 76,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -87942,7 +87946,7 @@
       "Drama",
       "Fantasy"
     ],
-    "averageScore": 81,
+    "averageScore": 80,
     "meanScore": 87,
     "isAdult": false,
     "trailer": null,
@@ -88570,7 +88574,7 @@
       "Action",
       "Drama"
     ],
-    "averageScore": 56,
+    "averageScore": 55,
     "meanScore": 58,
     "isAdult": false,
     "trailer": {
@@ -89925,7 +89929,7 @@
       "Romance"
     ],
     "averageScore": 52,
-    "meanScore": 63,
+    "meanScore": 62,
     "isAdult": false,
     "trailer": {
       "id": "ZEJE5P5as0w",
@@ -89981,7 +89985,7 @@
       "Music"
     ],
     "averageScore": 65,
-    "meanScore": 73,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": {
       "id": "7WsRmVZspYI",
@@ -90229,7 +90233,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 32,
+    "meanScore": 35,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -90735,7 +90739,7 @@
       "Fantasy"
     ],
     "averageScore": 62,
-    "meanScore": 68,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "lDxF3SSvwhc",
@@ -92398,7 +92402,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187376-EkJQqSoRn8Xx.jpg",
     "genres": [],
     "averageScore": 62,
-    "meanScore": 71,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "gsGHRwJNmDU",
@@ -92552,7 +92556,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 62,
+    "averageScore": 63,
     "meanScore": 67,
     "isAdult": false,
     "trailer": {
@@ -92636,7 +92640,7 @@
     "genres": [
       "Sports"
     ],
-    "averageScore": 60,
+    "averageScore": 59,
     "meanScore": 63,
     "isAdult": false,
     "trailer": {
@@ -93183,7 +93187,7 @@
       "Comedy"
     ],
     "averageScore": 73,
-    "meanScore": 75,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": {
       "id": "76c3cCV1BcU",
@@ -93776,7 +93780,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 75,
+    "meanScore": 76,
     "isAdult": false,
     "trailer": {
       "id": "fc3tnhqARok",
@@ -94083,7 +94087,7 @@
       "Sports"
     ],
     "averageScore": null,
-    "meanScore": 53,
+    "meanScore": 51,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -94145,7 +94149,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 59,
+    "meanScore": 55,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -94207,7 +94211,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 44,
+    "meanScore": 43,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -94267,7 +94271,7 @@
       "Adventure"
     ],
     "averageScore": null,
-    "meanScore": 38,
+    "meanScore": 36,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -94327,7 +94331,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 49,
+    "meanScore": 46,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -94387,7 +94391,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 48,
+    "meanScore": 45,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -94449,7 +94453,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 48,
+    "meanScore": 45,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -94509,7 +94513,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 55,
+    "meanScore": 51,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -95047,7 +95051,7 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "averageScore": 56,
+    "averageScore": 57,
     "meanScore": 57,
     "isAdult": false,
     "trailer": {
@@ -95424,7 +95428,7 @@
       "Action"
     ],
     "averageScore": null,
-    "meanScore": 64,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -96256,14 +96260,14 @@
       "day": 4
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 12,
+      "day": 20
     },
     "season": "FALL",
     "seasonYear": 2025,
     "seasonInt": 254,
-    "episodes": null,
+    "episodes": 12,
     "duration": 24,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -96644,7 +96648,7 @@
     "startDate": {
       "year": 2026,
       "month": 1,
-      "day": null
+      "day": 11
     },
     "endDate": {
       "year": null,
@@ -96660,9 +96664,9 @@
     "source": "OTHER",
     "hashtag": "#勇者のクズ",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187989-NqYxdqo2K1pU.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187989-NqYxdqo2K1pU.png",
-      "color": "#c99350"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx187989-oVeNMdtMh04i.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx187989-oVeNMdtMh04i.png",
+      "color": "#e4ae86"
     },
     "bannerImage": null,
     "genres": [
@@ -97544,7 +97548,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 50,
+    "meanScore": 49,
     "isAdult": false,
     "trailer": {
       "id": "My4jVU7Xm-o",
@@ -97739,7 +97743,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 50,
+    "meanScore": 51,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -100954,7 +100958,7 @@
       "Slice of Life"
     ],
     "averageScore": 53,
-    "meanScore": 58,
+    "meanScore": 59,
     "isAdult": false,
     "trailer": {
       "id": "Ru09cEQgcU0",
@@ -101231,7 +101235,7 @@
       "Fantasy",
       "Sci-Fi"
     ],
-    "averageScore": 62,
+    "averageScore": 61,
     "meanScore": 69,
     "isAdult": false,
     "trailer": {
@@ -101414,7 +101418,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 60,
+    "averageScore": 59,
     "meanScore": 60,
     "isAdult": false,
     "trailer": {
@@ -101881,7 +101885,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 61,
+    "meanScore": 59,
     "isAdult": false,
     "trailer": {
       "id": "n-jg8syMe08",
@@ -105994,7 +105998,7 @@
             "id": 189085,
             "title": {
               "romaji": "Charisma 1-shuukan",
-              "english": null,
+              "english": "One Week Charisma",
               "native": "カリスマ1週間"
             },
             "type": "ANIME",
@@ -106212,6 +106216,25 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203116-3b0maRT7QPlc.png",
               "color": null
+            }
+          }
+        },
+        {
+          "id": 118712,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 203250,
+            "title": {
+              "romaji": "Chou Charisma Bon-Odori",
+              "english": "Super Charismatic Bon-Odori",
+              "native": "超カリスマ凡踊り"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203250-7Vp7VFhb6R4z.jpg",
+              "color": "#1abbd6"
             }
           }
         }
@@ -106619,8 +106642,8 @@
             "format": "MANGA",
             "status": "RELEASING",
             "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx201610-6oaU9QfxTBxv.png",
-              "color": "#5df178"
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx201610-KHzpHky1Xalr.jpg",
+              "color": "#e4bb35"
             }
           }
         }
@@ -106652,7 +106675,7 @@
     "idMal": 58311,
     "title": {
       "romaji": "Charisma 1-shuukan",
-      "english": null,
+      "english": "One Week Charisma",
       "native": "カリスマ1週間"
     },
     "type": "ANIME",
@@ -106695,7 +106718,6 @@
       "thumbnail": "https://i.ytimg.com/vi/DMspeUzVS_M/hqdefault.jpg"
     },
     "synonyms": [
-      "One Week Charisma",
       "Charisma Ishuukan"
     ],
     "relations": {
@@ -106963,6 +106985,25 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203116-3b0maRT7QPlc.png",
               "color": null
+            }
+          }
+        },
+        {
+          "id": 118710,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 203250,
+            "title": {
+              "romaji": "Chou Charisma Bon-Odori",
+              "english": "Super Charismatic Bon-Odori",
+              "native": "超カリスマ凡踊り"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203250-7Vp7VFhb6R4z.jpg",
+              "color": "#1abbd6"
             }
           }
         }
@@ -107238,8 +107279,8 @@
             "format": "TV",
             "status": "NOT_YET_RELEASED",
             "coverImage": {
-              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-jdSHsYvgaMTZ.jpg",
-              "color": "#0d5de4"
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-Ra5LphnaL5YV.jpg",
+              "color": "#3550e4"
             }
           }
         }
@@ -107313,8 +107354,8 @@
     "source": "OTHER",
     "hashtag": "#バンドリアニメMyGO #アニメムジカ #AveMujica",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189121-U2WreqhfL6M1.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189121-U2WreqhfL6M1.png",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189121-czqYrMxpCWBJ.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx189121-czqYrMxpCWBJ.png",
       "color": "#780d43"
     },
     "bannerImage": null,
@@ -108584,7 +108625,7 @@
             "id": 189085,
             "title": {
               "romaji": "Charisma 1-shuukan",
-              "english": null,
+              "english": "One Week Charisma",
               "native": "カリスマ1週間"
             },
             "type": "ANIME",
@@ -108783,6 +108824,25 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203116-3b0maRT7QPlc.png",
               "color": null
+            }
+          }
+        },
+        {
+          "id": 118716,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 203250,
+            "title": {
+              "romaji": "Chou Charisma Bon-Odori",
+              "english": "Super Charismatic Bon-Odori",
+              "native": "超カリスマ凡踊り"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203250-7Vp7VFhb6R4z.jpg",
+              "color": "#1abbd6"
             }
           }
         }
@@ -109418,7 +109478,7 @@
             "id": 189085,
             "title": {
               "romaji": "Charisma 1-shuukan",
-              "english": null,
+              "english": "One Week Charisma",
               "native": "カリスマ1週間"
             },
             "type": "ANIME",
@@ -109617,6 +109677,25 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203116-3b0maRT7QPlc.png",
               "color": null
+            }
+          }
+        },
+        {
+          "id": 118718,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 203250,
+            "title": {
+              "romaji": "Chou Charisma Bon-Odori",
+              "english": "Super Charismatic Bon-Odori",
+              "native": "超カリスマ凡踊り"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203250-7Vp7VFhb6R4z.jpg",
+              "color": "#1abbd6"
             }
           }
         }
@@ -111887,7 +111966,7 @@
             "id": 189085,
             "title": {
               "romaji": "Charisma 1-shuukan",
-              "english": null,
+              "english": "One Week Charisma",
               "native": "カリスマ1週間"
             },
             "type": "ANIME",
@@ -112086,6 +112165,25 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203116-3b0maRT7QPlc.png",
               "color": null
+            }
+          }
+        },
+        {
+          "id": 118720,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 203250,
+            "title": {
+              "romaji": "Chou Charisma Bon-Odori",
+              "english": "Super Charismatic Bon-Odori",
+              "native": "超カリスマ凡踊り"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203250-7Vp7VFhb6R4z.jpg",
+              "color": "#1abbd6"
             }
           }
         }
@@ -113162,7 +113260,7 @@
             "id": 189085,
             "title": {
               "romaji": "Charisma 1-shuukan",
-              "english": null,
+              "english": "One Week Charisma",
               "native": "カリスマ1週間"
             },
             "type": "ANIME",
@@ -113361,6 +113459,25 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203116-3b0maRT7QPlc.png",
               "color": null
+            }
+          }
+        },
+        {
+          "id": 118722,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 203250,
+            "title": {
+              "romaji": "Chou Charisma Bon-Odori",
+              "english": "Super Charismatic Bon-Odori",
+              "native": "超カリスマ凡踊り"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203250-7Vp7VFhb6R4z.jpg",
+              "color": "#1abbd6"
             }
           }
         }
@@ -113600,7 +113717,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191361-xBSAGHL33mGN.jpg",
     "genres": [],
     "averageScore": null,
-    "meanScore": 79,
+    "meanScore": 80,
     "isAdult": false,
     "trailer": {
       "id": "hHSzAR0AGu0",
@@ -113879,7 +113996,7 @@
       "Music"
     ],
     "averageScore": null,
-    "meanScore": 86,
+    "meanScore": 85,
     "isAdult": false,
     "trailer": {
       "id": "zVtKnbZMKfU",
@@ -113990,7 +114107,7 @@
       "Fantasy"
     ],
     "averageScore": 61,
-    "meanScore": 70,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "D9YTz0anIE8",
@@ -114363,7 +114480,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 58,
+    "averageScore": 59,
     "meanScore": 63,
     "isAdult": true,
     "trailer": null,
@@ -114499,7 +114616,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 61,
+    "averageScore": 62,
     "meanScore": 67,
     "isAdult": true,
     "trailer": null,
@@ -114959,7 +115076,7 @@
       "Ecchi"
     ],
     "averageScore": 71,
-    "meanScore": 76,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": {
       "id": "2_opjVlYhi4",
@@ -115380,7 +115497,7 @@
     },
     "type": "ANIME",
     "format": "MOVIE",
-    "status": "NOT_YET_RELEASED",
+    "status": "FINISHED",
     "description": "The second film in a duology compiling the first season of <i>IDOLiSH7</i>.",
     "startDate": {
       "year": 2025,
@@ -115413,7 +115530,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 25,
     "isAdult": false,
     "trailer": {
       "id": "9_5sYKvVWQw",
@@ -115510,7 +115627,7 @@
     "startDate": {
       "year": 2026,
       "month": 1,
-      "day": null
+      "day": 7
     },
     "endDate": {
       "year": null,
@@ -115526,9 +115643,9 @@
     "source": "MANGA",
     "hashtag": "#ぬーべーアニメ #HellTeacher",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191967-Riksdmv8TpLy.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191967-Riksdmv8TpLy.jpg",
-      "color": null
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191967-fLWqssc0gPI4.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx191967-fLWqssc0gPI4.jpg",
+      "color": "#e4ae43"
     },
     "bannerImage": null,
     "genres": [
@@ -115808,7 +115925,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 81,
+    "meanScore": 82,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -116301,7 +116418,7 @@
       "Fantasy"
     ],
     "averageScore": 63,
-    "meanScore": 70,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "tcRB5UZ81zQ",
@@ -116329,6 +116446,25 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx182920-kGMtP4dBBJBO.jpg",
               "color": "#f1d6bb"
+            }
+          }
+        },
+        {
+          "id": 118756,
+          "relationType": "SEQUEL",
+          "node": {
+            "id": 203296,
+            "title": {
+              "romaji": "Cardfight!! Vanguard: Divinez Genma Seisen-hen",
+              "english": null,
+              "native": "カードファイト!! ヴァンガード Divinez 幻真星戦編"
+            },
+            "type": "ANIME",
+            "format": "TV",
+            "status": "NOT_YET_RELEASED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203296-CAAx5fmW3tWz.jpg",
+              "color": "#e44350"
             }
           }
         }
@@ -116647,7 +116783,7 @@
             "id": 189085,
             "title": {
               "romaji": "Charisma 1-shuukan",
-              "english": null,
+              "english": "One Week Charisma",
               "native": "カリスマ1週間"
             },
             "type": "ANIME",
@@ -116848,6 +116984,25 @@
               "color": null
             }
           }
+        },
+        {
+          "id": 118724,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 203250,
+            "title": {
+              "romaji": "Chou Charisma Bon-Odori",
+              "english": "Super Charismatic Bon-Odori",
+              "native": "超カリスマ凡踊り"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203250-7Vp7VFhb6R4z.jpg",
+              "color": "#1abbd6"
+            }
+          }
         }
       ]
     },
@@ -116979,7 +117134,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192383-030RFdmVW4ua.jpg",
     "genres": [],
     "averageScore": null,
-    "meanScore": 64,
+    "meanScore": 62,
     "isAdult": false,
     "trailer": {
       "id": "PXSQuN3MdUs",
@@ -117205,7 +117360,7 @@
     "startDate": {
       "year": 2026,
       "month": 1,
-      "day": null
+      "day": 11
     },
     "endDate": {
       "year": null,
@@ -117234,9 +117389,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "AWBfFVhNlR0",
+      "id": "FbDyiF8s1hk",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/AWBfFVhNlR0/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/FbDyiF8s1hk/hqdefault.jpg"
     },
     "synonyms": [
       "In the Clear Moonlit Dusk"
@@ -117323,7 +117478,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/192609-idHaq1yisAnG.jpg",
     "genres": [],
     "averageScore": null,
-    "meanScore": 64,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": {
       "id": "s40wweiFOXw",
@@ -117417,7 +117572,7 @@
       "Drama"
     ],
     "averageScore": null,
-    "meanScore": 65,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": {
       "id": "UKSyu8gZ_rs",
@@ -117489,7 +117644,7 @@
     },
     "bannerImage": null,
     "genres": [],
-    "averageScore": 69,
+    "averageScore": 70,
     "meanScore": 80,
     "isAdult": false,
     "trailer": {
@@ -117964,7 +118119,7 @@
     "startDate": {
       "year": 2026,
       "month": 1,
-      "day": null
+      "day": 10
     },
     "endDate": {
       "year": null,
@@ -117974,7 +118129,7 @@
     "season": "WINTER",
     "seasonYear": 2026,
     "seasonInt": 261,
-    "episodes": null,
+    "episodes": 8,
     "duration": null,
     "countryOfOrigin": "JP",
     "source": "MANGA",
@@ -117993,8 +118148,12 @@
     ],
     "averageScore": null,
     "meanScore": null,
-    "isAdult": true,
-    "trailer": null,
+    "isAdult": false,
+    "trailer": {
+      "id": "SQAHZWo7x28",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/SQAHZWo7x28/hqdefault.jpg"
+    },
     "synonyms": [
       "Does it Count if You Lose Your Virginity to an Android?",
       "Does It Count If You Lose Your Innocence to an Android?"
@@ -118148,7 +118307,7 @@
     "genres": [
       "Psychological"
     ],
-    "averageScore": 69,
+    "averageScore": 70,
     "meanScore": 78,
     "isAdult": false,
     "trailer": {
@@ -118230,8 +118389,8 @@
     },
     "bannerImage": null,
     "genres": [],
-    "averageScore": 55,
-    "meanScore": 67,
+    "averageScore": 56,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "_0FI8xSgI1s",
@@ -118516,7 +118675,7 @@
       "Mystery"
     ],
     "averageScore": null,
-    "meanScore": 57,
+    "meanScore": 55,
     "isAdult": false,
     "trailer": {
       "id": "Ed3ra6uZRus",
@@ -118611,7 +118770,7 @@
       "Music"
     ],
     "averageScore": null,
-    "meanScore": 61,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": {
       "id": "Q7T1jmDMMVQ",
@@ -118838,8 +118997,8 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 52,
-    "meanScore": 62,
+    "averageScore": 53,
+    "meanScore": 63,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -118898,8 +119057,8 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 59,
-    "meanScore": 67,
+    "averageScore": 58,
+    "meanScore": 66,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -119238,7 +119397,7 @@
       "Slice of Life"
     ],
     "averageScore": 59,
-    "meanScore": 74,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": {
       "id": "N5OrxHi4dqU",
@@ -119871,7 +120030,7 @@
       "Romance"
     ],
     "averageScore": 49,
-    "meanScore": 52,
+    "meanScore": 51,
     "isAdult": true,
     "trailer": {
       "id": "IzPxqGtGLDE",
@@ -120651,7 +120810,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193705-M0B5SfHD80d6.jpg",
     "genres": [],
     "averageScore": 73,
-    "meanScore": 78,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": {
       "id": "L1mFVp9IM9c",
@@ -120945,7 +121104,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193809-uTD4FjR8FdZx.jpg",
     "genres": [],
     "averageScore": null,
-    "meanScore": 70,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "yujyud8TwFI",
@@ -121037,7 +121196,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 66,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "ySxyfL5-Wjw",
@@ -121239,7 +121398,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 71,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "ki-dtolF7wY",
@@ -121351,7 +121510,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193906-SXTGF2i8ky73.jpg",
     "genres": [],
     "averageScore": null,
-    "meanScore": 69,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "YSWVvpzKxLQ",
@@ -121451,7 +121610,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/193907-ZWzj50I1zJlX.jpg",
     "genres": [],
     "averageScore": null,
-    "meanScore": 73,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": {
       "id": "9hn3kWDafiQ",
@@ -121518,27 +121677,27 @@
     "status": "NOT_YET_RELEASED",
     "description": "Descended from a long line of book collectors, high school student Mifuyu is surrounded by books in every aspect of her life. Her great-grandfather established the famous Mikura Hall, a library in the heart of town, and even the townspeople are all avid readers. There’s just one problem—Mifuyu hates books! But when a thief in Mikura Hall triggers an ancient curse, she’s left with no choice but to reclaim the stolen books herself…by entering the very stories she despises! With the help of the mysterious Mashiro, will she be able to restore her great-grandfather’s collection and save her town from a magical doom?\n<br><br>\n(Source: Yen Press)",
     "startDate": {
-      "year": 2026,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 12,
+      "day": 26
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 12,
+      "day": 26
     },
-    "season": null,
-    "seasonYear": null,
-    "seasonInt": null,
+    "season": "FALL",
+    "seasonYear": 2025,
+    "seasonInt": 254,
     "episodes": 1,
     "duration": null,
     "countryOfOrigin": "JP",
     "source": "OTHER",
     "hashtag": "#この本を盗む者は",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193923-t6ymUnTJXoDs.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193923-t6ymUnTJXoDs.jpg",
-      "color": "#35aee4"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx193923-BJPyMB55Q4WC.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx193923-BJPyMB55Q4WC.jpg",
+      "color": "#f1a143"
     },
     "bannerImage": null,
     "genres": [
@@ -121550,9 +121709,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "FPAKi_PDdTU",
+      "id": "sgxNwKuNIWk",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/FPAKi_PDdTU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/sgxNwKuNIWk/hqdefault.jpg"
     },
     "synonyms": [
       "Whoever Steals This Book"
@@ -121626,7 +121785,7 @@
     "season": "FALL",
     "seasonYear": 2025,
     "seasonInt": 254,
-    "episodes": null,
+    "episodes": 12,
     "duration": 23,
     "countryOfOrigin": "JP",
     "source": "OTHER",
@@ -121740,7 +121899,7 @@
     "startDate": {
       "year": 2026,
       "month": 1,
-      "day": null
+      "day": 5
     },
     "endDate": {
       "year": null,
@@ -121756,9 +121915,9 @@
     "source": "MANGA",
     "hashtag": "#きにして",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194028-10OuLhycYNrb.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194028-10OuLhycYNrb.png",
-      "color": "#e4ae6b"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194028-ASKnzjS1ily7.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194028-ASKnzjS1ily7.jpg",
+      "color": "#e45d43"
     },
     "bannerImage": null,
     "genres": [
@@ -121770,9 +121929,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "aTG30psUIBc",
+      "id": "eVcuNh1OIEY",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/aTG30psUIBc/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/eVcuNh1OIEY/hqdefault.jpg"
     },
     "synonyms": [
       "Wash it All Away",
@@ -122752,7 +122911,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194218-29qViwglD0ir.jpg",
     "genres": [],
     "averageScore": null,
-    "meanScore": 68,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "BWEmA6AxIyM",
@@ -123037,7 +123196,7 @@
             "id": 189085,
             "title": {
               "romaji": "Charisma 1-shuukan",
-              "english": null,
+              "english": "One Week Charisma",
               "native": "カリスマ1週間"
             },
             "type": "ANIME",
@@ -123238,6 +123397,25 @@
               "color": null
             }
           }
+        },
+        {
+          "id": 118726,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 203250,
+            "title": {
+              "romaji": "Chou Charisma Bon-Odori",
+              "english": "Super Charismatic Bon-Odori",
+              "native": "超カリスマ凡踊り"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203250-7Vp7VFhb6R4z.jpg",
+              "color": "#1abbd6"
+            }
+          }
         }
       ]
     },
@@ -123429,7 +123607,7 @@
     "startDate": {
       "year": 2026,
       "month": 1,
-      "day": null
+      "day": 6
     },
     "endDate": {
       "year": null,
@@ -123445,9 +123623,9 @@
     "source": null,
     "hashtag": null,
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194318-kVl1H1TEAHCy.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194318-kVl1H1TEAHCy.jpg",
-      "color": "#1a6be4"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194318-NCtBUDUxAR6f.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194318-NCtBUDUxAR6f.jpg",
+      "color": "#506bf1"
     },
     "bannerImage": null,
     "genres": [
@@ -123459,9 +123637,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "mJ5dOSMYhtM",
+      "id": "loJ05nefclc",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/mJ5dOSMYhtM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/loJ05nefclc/hqdefault.jpg"
     },
     "synonyms": [],
     "relations": {
@@ -123540,7 +123718,7 @@
       "Hentai"
     ],
     "averageScore": 62,
-    "meanScore": 73,
+    "meanScore": 71,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -123658,7 +123836,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 56,
+    "meanScore": 58,
     "isAdult": false,
     "trailer": {
       "id": "jnSt-yJxigA",
@@ -123743,11 +123921,11 @@
     "source": "ORIGINAL",
     "hashtag": "#形",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194390-x73SpGRWr0CA.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194390-x73SpGRWr0CA.png",
-      "color": "#284386"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194390-lUFQvyTAxFKx.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx194390-lUFQvyTAxFKx.png",
+      "color": "#285093"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/194390-e8ncwhoIBjkG.jpg",
     "genres": [
       "Action",
       "Fantasy",
@@ -123755,7 +123933,7 @@
       "Supernatural"
     ],
     "averageScore": 59,
-    "meanScore": 75,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": {
       "id": "6eFajRiOrpY",
@@ -123902,7 +124080,7 @@
       "Comedy"
     ],
     "averageScore": 63,
-    "meanScore": 67,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -124002,8 +124180,8 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "averageScore": 72,
-    "meanScore": 74,
+    "averageScore": 73,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": {
       "id": "EWVNFG-wPMw",
@@ -124551,7 +124729,7 @@
   },
   {
     "id": 194712,
-    "idMal": null,
+    "idMal": 63046,
     "title": {
       "romaji": "Nukitashi THE ANIMATION OVAs",
       "english": null,
@@ -124587,7 +124765,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -124988,7 +125166,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 71,
+    "meanScore": 70,
     "isAdult": false,
     "trailer": {
       "id": "9BLoDcwM-zU",
@@ -125076,7 +125254,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 71,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "se29ae65pl8",
@@ -125183,7 +125361,7 @@
       "Psychological"
     ],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 69,
     "isAdult": false,
     "trailer": {
       "id": "aEKyYTL8ptI",
@@ -125529,7 +125707,7 @@
             "id": 189085,
             "title": {
               "romaji": "Charisma 1-shuukan",
-              "english": null,
+              "english": "One Week Charisma",
               "native": "カリスマ1週間"
             },
             "type": "ANIME",
@@ -125730,6 +125908,25 @@
               "color": null
             }
           }
+        },
+        {
+          "id": 118728,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 203250,
+            "title": {
+              "romaji": "Chou Charisma Bon-Odori",
+              "english": "Super Charismatic Bon-Odori",
+              "native": "超カリスマ凡踊り"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203250-7Vp7VFhb6R4z.jpg",
+              "color": "#1abbd6"
+            }
+          }
         }
       ]
     },
@@ -125786,7 +125983,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 51,
+    "meanScore": 48,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -125927,8 +126124,8 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 60,
-    "meanScore": 68,
+    "averageScore": 59,
+    "meanScore": 67,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -126785,7 +126982,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 76,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -126944,7 +127141,7 @@
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195240-hKcmllV6YHQT.jpg",
       "color": "#5093e4"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195240-HcuZvXcdT5aX.jpg",
     "genres": [
       "Drama",
       "Sports"
@@ -127016,6 +127213,25 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx153549-nh9LQoPRDTuk.png",
               "color": "#d6bb1a"
+            }
+          }
+        },
+        {
+          "id": 118697,
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 194709,
+            "title": {
+              "romaji": "Uma Musume: Cinderella Gray Gaiden - \"Enrai\"",
+              "english": null,
+              "native": "ウマ娘 シンデレラグレイ 外伝 \"遠雷\""
+            },
+            "type": "MANGA",
+            "format": "ONE_SHOT",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx194709-e4t5yeCN85AU.jpg",
+              "color": "#f1865d"
             }
           }
         }
@@ -127290,12 +127506,12 @@
       "native": "灰原くんの強くて青春ニューゲーム"
     },
     "type": "ANIME",
-    "format": null,
+    "format": "TV",
     "status": "NOT_YET_RELEASED",
     "description": "We all have embarrassing memories or deep regrets from high school, right? Socially anxious college senior Natsuki Haibara sure does. When he thinks back on that time of his life, all he has are fleeting fantasies of a happy adolescence that could have been. Imagine his bewilderment and surprise, then, when he inexplicably finds himself seven years in the past—one month before his first year of high school! Can Haibara avoid his previous mistakes, make his way to the top of the school social pyramid, and end up with the girl of his dreams? Or will he be forced to relive three years of solitude as the most hated guy in school? He’ll need all the help he can get in order to succeed, from a workout regimen to online how-to guides, a childhood friend, and plenty of sheer willpower. Watch as Haibara takes a second shot at his teenage years!\n<br><br>\n(Source: J-Novel Club)\n\n",
     "startDate": {
-      "year": null,
-      "month": null,
+      "year": 2026,
+      "month": 4,
       "day": null
     },
     "endDate": {
@@ -127303,20 +127519,20 @@
       "month": null,
       "day": null
     },
-    "season": null,
-    "seasonYear": null,
-    "seasonInt": null,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "seasonInt": 262,
     "episodes": null,
     "duration": null,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
     "hashtag": "#灰原くん",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195333-1ybPFJe9E1Sd.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195333-1ybPFJe9E1Sd.jpg",
-      "color": "#e4aed6"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195333-HqIhJXIJOL8R.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195333-HqIhJXIJOL8R.png",
+      "color": "#aed61a"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/195333-66Rnkl0TzxtO.jpg",
     "genres": [
       "Romance",
       "Slice of Life"
@@ -127324,7 +127540,11 @@
     "averageScore": null,
     "meanScore": null,
     "isAdult": false,
-    "trailer": null,
+    "trailer": {
+      "id": "7_odD6zeevE",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/7_odD6zeevE/hqdefault.jpg"
+    },
     "synonyms": [
       "Haibara’s Teenage New Game+"
     ],
@@ -127371,7 +127591,24 @@
       ]
     },
     "studios": {
-      "edges": []
+      "edges": [
+        {
+          "id": 45485,
+          "isMain": false,
+          "node": {
+            "id": 145,
+            "name": "TBS"
+          }
+        },
+        {
+          "id": 45486,
+          "isMain": true,
+          "node": {
+            "id": 126,
+            "name": "Studio Comet"
+          }
+        }
+      ]
     }
   },
   {
@@ -127501,8 +127738,8 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": null,
-    "meanScore": 71,
+    "averageScore": 55,
+    "meanScore": 69,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -128369,25 +128606,25 @@
     "description": "When Youki was reincarnated into a magical world, he became neither a hero nor a demon lord, but instead became a middle-level subordinate demon guarding the castle. When the Hero's party attacked the demon lord's castle, Youki was able to defeat them easily. But he fell in love at first sight with the beautiful cleric Cecelia!",
     "startDate": {
       "year": 2026,
-      "month": null,
-      "day": null
+      "month": 1,
+      "day": 6
     },
     "endDate": {
       "year": null,
       "month": null,
       "day": null
     },
-    "season": null,
-    "seasonYear": null,
-    "seasonInt": null,
+    "season": "WINTER",
+    "seasonYear": 2026,
+    "seasonInt": 261,
     "episodes": null,
     "duration": null,
     "countryOfOrigin": "JP",
     "source": "LIGHT_NOVEL",
     "hashtag": "#ゆうかわ",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195515-c9gUKQCWtFoj.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195515-c9gUKQCWtFoj.jpg",
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195515-Ct7cgY22htvL.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx195515-Ct7cgY22htvL.jpg",
       "color": "#1abbe4"
     },
     "bannerImage": null,
@@ -128401,9 +128638,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "XhsxMQOiw6M",
+      "id": "EIlO6O5W2Ag",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/XhsxMQOiw6M/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/EIlO6O5W2Ag/hqdefault.jpg"
     },
     "synonyms": [],
     "relations": {
@@ -128456,6 +128693,14 @@
           "node": {
             "id": 7284,
             "name": "Gekkou"
+          }
+        },
+        {
+          "id": 45505,
+          "isMain": false,
+          "node": {
+            "id": 7172,
+            "name": "Starry Cube"
           }
         }
       ]
@@ -128715,7 +128960,7 @@
     "startDate": {
       "year": 2026,
       "month": 1,
-      "day": null
+      "day": 11
     },
     "endDate": {
       "year": null,
@@ -128743,7 +128988,11 @@
     "averageScore": null,
     "meanScore": null,
     "isAdult": false,
-    "trailer": null,
+    "trailer": {
+      "id": "xzvQZMuH74w",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/xzvQZMuH74w/hqdefault.jpg"
+    },
     "synonyms": [
       "The Villainess Is Being Doted on by the Crown Prince of the Neighboring Country",
       "The Villainess Adored by the Prince of the Neighbor Kingdom"
@@ -129552,7 +129801,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 63,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": {
       "id": "3ymaUz2ECfQ",
@@ -130559,7 +130808,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 71,
+    "meanScore": 65,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -130779,7 +131028,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 65,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -130842,7 +131091,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 79,
+    "meanScore": 80,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -131916,7 +132165,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 64,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -132641,7 +132890,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": 60,
-    "meanScore": 65,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": {
       "id": "JJuHoFVvR4Q",
@@ -132920,22 +133169,22 @@
     "type": "ANIME",
     "format": "TV",
     "status": "RELEASING",
-    "description": "",
+    "description": "Rinne is a girl who cannot see other people's faces. Born into a family whose job it is to exorcise supernatural beings, she sets out on her first mission, but encounters an enemy of a different nature than she expected, and finds herself in peril.<br><br>After being saved by a mysterious man named Jugemu, Rinne learns that all worlds, including the one she lives in, known as \"Strike Worlds,\" are under threat.<br><br>As she travels through a number of ending worlds with Jugemu, the girl forms a bond with him...",
     "startDate": {
       "year": 2025,
       "month": 10,
       "day": 21
     },
     "endDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2025,
+      "month": 12,
+      "day": 23
     },
     "season": "FALL",
     "seasonYear": 2025,
     "seasonInt": 254,
-    "episodes": null,
-    "duration": null,
+    "episodes": 10,
+    "duration": 24,
     "countryOfOrigin": "JP",
     "source": "VIDEO_GAME",
     "hashtag": "#モンスト #モンストアニメ #デドリロ",
@@ -132950,7 +133199,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 41,
+    "meanScore": 46,
     "isAdult": false,
     "trailer": {
       "id": "DNjBwSRXZvw",
@@ -134026,7 +134275,7 @@
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196283-4nVxXIXljNNq.jpg",
     "genres": [],
     "averageScore": 59,
-    "meanScore": 68,
+    "meanScore": 67,
     "isAdult": false,
     "trailer": {
       "id": "VXUbEH0DvSM",
@@ -134130,7 +134379,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 54,
+    "meanScore": 48,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -134588,7 +134837,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 66,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -134649,7 +134898,7 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 55,
+    "averageScore": 56,
     "meanScore": 66,
     "isAdult": true,
     "trailer": null,
@@ -134751,7 +135000,7 @@
       "Sci-Fi"
     ],
     "averageScore": 55,
-    "meanScore": 58,
+    "meanScore": 57,
     "isAdult": false,
     "trailer": {
       "id": "ssg6MbJ9Ejo",
@@ -134907,7 +135156,7 @@
       "Adventure",
       "Fantasy"
     ],
-    "averageScore": 68,
+    "averageScore": 69,
     "meanScore": 85,
     "isAdult": false,
     "trailer": null,
@@ -135093,8 +135342,8 @@
     "genres": [
       "Hentai"
     ],
-    "averageScore": 65,
-    "meanScore": 79,
+    "averageScore": 67,
+    "meanScore": 78,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -135360,7 +135609,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 63,
+    "meanScore": 62,
     "isAdult": false,
     "trailer": {
       "id": "fEWipyOVIgY",
@@ -135437,7 +135686,7 @@
             "id": 189085,
             "title": {
               "romaji": "Charisma 1-shuukan",
-              "english": null,
+              "english": "One Week Charisma",
               "native": "カリスマ1週間"
             },
             "type": "ANIME",
@@ -135636,6 +135885,25 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203116-3b0maRT7QPlc.png",
               "color": null
+            }
+          }
+        },
+        {
+          "id": 118730,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 203250,
+            "title": {
+              "romaji": "Chou Charisma Bon-Odori",
+              "english": "Super Charismatic Bon-Odori",
+              "native": "超カリスマ凡踊り"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203250-7Vp7VFhb6R4z.jpg",
+              "color": "#1abbd6"
             }
           }
         }
@@ -135942,7 +136210,7 @@
     "description": "Spica Virgo is an apprentice witch, but can’t use any magic. She needs someone to be her master in order to get into the academy of her dreams, but she has no money and no connections. Suddenly, a mysterious talking black cat that can use magic appears before her!! Spica wants to learn magic, and the black cat wants his curse broken—goals on the same path. Therefore, a secret master-apprentice relationship was born! But the key to breaking the curse is kissing his…?! A clumsy witch and the teachings of a black cat—the magic academy fantasy starts here!!\n<br><br>\n(Source: K Manga)",
     "startDate": {
       "year": 2026,
-      "month": null,
+      "month": 4,
       "day": null
     },
     "endDate": {
@@ -135950,28 +136218,28 @@
       "month": null,
       "day": null
     },
-    "season": null,
-    "seasonYear": null,
-    "seasonInt": null,
+    "season": "SPRING",
+    "seasonYear": 2026,
+    "seasonInt": 262,
     "episodes": null,
     "duration": null,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#黒猫と魔女の教室",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196974-u9u63eRO01mB.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196974-u9u63eRO01mB.jpg",
-      "color": "#35bbff"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196974-mZk1uyrx0XNx.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx196974-mZk1uyrx0XNx.png",
+      "color": "#50aef1"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196974-wOXpVEgXm7aR.jpg",
     "genres": [],
     "averageScore": null,
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "pBhE5B_MotQ",
+      "id": "_AKGg3TzwTo",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/pBhE5B_MotQ/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/_AKGg3TzwTo/hqdefault.jpg"
     },
     "synonyms": [],
     "relations": {
@@ -136146,7 +136414,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": 72,
+    "meanScore": 73,
     "isAdult": false,
     "trailer": {
       "id": "Wz2qdUmlATQ",
@@ -136521,7 +136789,7 @@
       "Comedy"
     ],
     "averageScore": 59,
-    "meanScore": 64,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": {
       "id": "DMAEZu4h4as",
@@ -136569,14 +136837,14 @@
     "id": 197474,
     "idMal": 62277,
     "title": {
-      "romaji": "Gintama Movie 3: Yoshiwara Daienjou",
-      "english": "Gintama Movie 3: Yoshiwara in Flames",
+      "romaji": "Shin Gintama Movie: Yoshiwara Daienjou",
+      "english": null,
       "native": "新劇場版 銀魂 -吉原大炎上-"
     },
     "type": "ANIME",
     "format": "MOVIE",
     "status": "NOT_YET_RELEASED",
-    "description": "Movie remake of the Yoshiwara Enjou arc.\n\nThis information was announced at the \"Gintama Maruchibirth Festival,\" an event held on August 16th, as part of the \"Gintama 20th Anniversary Project.\"\n\nUpon meeting a young boy named Haruta who makes a living as a pickpocket, Gintoki discovers that he is pickpocketing out of a desire to meet his long-lost mother, Hiwa, Yoshiwara's number one courtesan. Gintoki and his friends venture to Yoshiwara to fulfill Haruta's wish, but standing in their way is Housen, the Night King who rules Yoshiwara.\n\nThis movie features volumes 25 and 26 of the manga, and the TV anime series spans eight episodes, from episodes 139 to 146.",
+    "description": "Movie remake of the Yoshiwara Enjou arc.\n<br><br>\n\nUpon meeting a young boy named Haruta who makes a living as a pickpocket, Gintoki discovers that he is pickpocketing out of a desire to meet his long-lost mother, Hiwa, Yoshiwara's number one courtesan. Gintoki and his friends venture to Yoshiwara to fulfill Haruta's wish, but standing in their way is Housen, the Night King who rules Yoshiwara.\n<br><br>\n<i>Note: This anime was announced at the \"Gintama Multiverse Festival,\" an event held on August 16th, as part of the \"Gintama 20th Anniversary Project.\" This movie features volumes 25 and 26 of the manga, and the TV anime series spans eight episodes, from episodes 139 to 146.</i>",
     "startDate": {
       "year": 2026,
       "month": 2,
@@ -136594,7 +136862,7 @@
     "duration": null,
     "countryOfOrigin": "JP",
     "source": "MANGA",
-    "hashtag": null,
+    "hashtag": "#新銀魂大炎上祭 #新劇場版銀魂",
     "coverImage": {
       "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197474-JjnoYKwhmqF5.jpg",
       "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx197474-JjnoYKwhmqF5.jpg",
@@ -136615,7 +136883,8 @@
       "thumbnail": "https://i.ytimg.com/vi/WQdiFopQOL0/hqdefault.jpg"
     },
     "synonyms": [
-      "Gintama: Yoshiwara In Flames"
+      "New Gintama the Movie: Yoshiwara in Flames",
+      "Gintama Movie 3: Yoshiwara in Flames"
     ],
     "relations": {
       "edges": [
@@ -136721,7 +136990,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 50,
+    "meanScore": 52,
     "isAdult": false,
     "trailer": {
       "id": "lz0KlbITD9E",
@@ -137107,7 +137376,7 @@
             "id": 189085,
             "title": {
               "romaji": "Charisma 1-shuukan",
-              "english": null,
+              "english": "One Week Charisma",
               "native": "カリスマ1週間"
             },
             "type": "ANIME",
@@ -137306,6 +137575,25 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203116-3b0maRT7QPlc.png",
               "color": null
+            }
+          }
+        },
+        {
+          "id": 118732,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 203250,
+            "title": {
+              "romaji": "Chou Charisma Bon-Odori",
+              "english": "Super Charismatic Bon-Odori",
+              "native": "超カリスマ凡踊り"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203250-7Vp7VFhb6R4z.jpg",
+              "color": "#1abbd6"
             }
           }
         }
@@ -137866,7 +138154,7 @@
       "Adventure"
     ],
     "averageScore": null,
-    "meanScore": 58,
+    "meanScore": 59,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -138084,7 +138372,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 69,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": {
       "id": "l-Ek20Ttus4",
@@ -138312,7 +138600,7 @@
       "Hentai"
     ],
     "averageScore": 62,
-    "meanScore": 73,
+    "meanScore": 71,
     "isAdult": true,
     "trailer": null,
     "synonyms": [
@@ -138510,7 +138798,7 @@
     },
     "bannerImage": null,
     "genres": [],
-    "averageScore": 53,
+    "averageScore": 54,
     "meanScore": 58,
     "isAdult": false,
     "trailer": {
@@ -139011,8 +139299,8 @@
       "Fantasy",
       "Romance"
     ],
-    "averageScore": 49,
-    "meanScore": 52,
+    "averageScore": 48,
+    "meanScore": 51,
     "isAdult": false,
     "trailer": {
       "id": "JO8hwST5Mow",
@@ -139114,7 +139402,7 @@
       "Hentai"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 50,
     "isAdult": true,
     "trailer": null,
     "synonyms": [],
@@ -139211,7 +139499,7 @@
     "bannerImage": null,
     "genres": [],
     "averageScore": null,
-    "meanScore": 76,
+    "meanScore": 77,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -139378,18 +139666,18 @@
     "id": 198369,
     "idMal": 62387,
     "title": {
-      "romaji": "Meitantei Conan (2026)",
+      "romaji": "Meitantei Conan: Highway no Tenshi",
       "english": null,
-      "native": "名探偵コナン2026"
+      "native": "名探偵コナン ハイウェイの堕天使"
     },
     "type": "ANIME",
     "format": "MOVIE",
     "status": "NOT_YET_RELEASED",
-    "description": "Twenty-ninth <i>Meitantei Conan</i> movie.",
+    "description": "The 29th <i>Detective Conan</i> movie.",
     "startDate": {
       "year": 2026,
-      "month": null,
-      "day": null
+      "month": 4,
+      "day": 10
     },
     "endDate": {
       "year": 2026,
@@ -139405,11 +139693,11 @@
     "source": "MANGA",
     "hashtag": "#名探偵コナン",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198369-HAaYGSYhceKR.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198369-HAaYGSYhceKR.png",
-      "color": "#f15d0d"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx198369-AkimZgihJ2kf.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx198369-AkimZgihJ2kf.jpg",
+      "color": "#43aee4"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198369-MmvnBvHzuB3D.jpg",
     "genres": [
       "Mystery"
     ],
@@ -139417,11 +139705,14 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "vhSxGFtEiTk",
+      "id": "-SKBku7QHxg",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/vhSxGFtEiTk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/-SKBku7QHxg/hqdefault.jpg"
     },
-    "synonyms": [],
+    "synonyms": [
+      "Meitantei Conan Movie 29",
+      "Detective Conan Movie 29"
+    ],
     "relations": {
       "edges": [
         {
@@ -139446,7 +139737,16 @@
       ]
     },
     "studios": {
-      "edges": []
+      "edges": [
+        {
+          "id": 45488,
+          "isMain": true,
+          "node": {
+            "id": 73,
+            "name": "TMS Entertainment"
+          }
+        }
+      ]
     }
   },
   {
@@ -139810,7 +140110,7 @@
       "Supernatural"
     ],
     "averageScore": 47,
-    "meanScore": 52,
+    "meanScore": 53,
     "isAdult": false,
     "trailer": {
       "id": "bsmMlMFMqhw",
@@ -139876,7 +140176,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 64,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": {
       "id": "Ks03nrhi2NU",
@@ -139959,8 +140259,8 @@
     "genres": [
       "Action"
     ],
-    "averageScore": null,
-    "meanScore": 54,
+    "averageScore": 47,
+    "meanScore": 53,
     "isAdult": false,
     "trailer": {
       "id": "oHwVMjWTyu0",
@@ -140379,7 +140679,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 45,
+    "meanScore": 43,
     "isAdult": false,
     "trailer": {
       "id": "cGOk6c2yFYA",
@@ -140691,7 +140991,7 @@
       "Fantasy"
     ],
     "averageScore": 48,
-    "meanScore": 48,
+    "meanScore": 49,
     "isAdult": false,
     "trailer": {
       "id": "B8-jCAksIF4",
@@ -141021,7 +141321,7 @@
       "Drama"
     ],
     "averageScore": null,
-    "meanScore": 55,
+    "meanScore": 56,
     "isAdult": false,
     "trailer": {
       "id": "xzofxljh-rw",
@@ -141284,7 +141584,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 86,
+    "meanScore": 81,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -141434,7 +141734,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 82,
+    "meanScore": 81,
     "isAdult": false,
     "trailer": {
       "id": "d7kd5ZeF4os",
@@ -141519,7 +141819,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 73,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -141681,7 +141981,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 86,
+    "meanScore": 83,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -142835,8 +143135,8 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198730-CKhSjK7W4EY3.jpg",
     "genres": [],
-    "averageScore": 56,
-    "meanScore": 70,
+    "averageScore": 57,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "TO4W5iUe4Jw",
@@ -143148,7 +143448,7 @@
     "startDate": {
       "year": 2026,
       "month": 1,
-      "day": null
+      "day": 5
     },
     "endDate": {
       "year": null,
@@ -143177,7 +143477,11 @@
     "averageScore": null,
     "meanScore": null,
     "isAdult": false,
-    "trailer": null,
+    "trailer": {
+      "id": "j5m10YML4b4",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/j5m10YML4b4/hqdefault.jpg"
+    },
     "synonyms": [],
     "relations": {
       "edges": [
@@ -143563,7 +143867,7 @@
       "Mahou Shoujo"
     ],
     "averageScore": null,
-    "meanScore": 47,
+    "meanScore": 45,
     "isAdult": false,
     "trailer": {
       "id": "RTiWEXeniic",
@@ -144010,7 +144314,7 @@
     },
     "type": "ANIME",
     "format": "TV_SHORT",
-    "status": "NOT_YET_RELEASED",
+    "status": "RELEASING",
     "description": "2 years ago, the elves who lived in the hidden forest lost their homes due to a forest fire, now they are living in the Kanagawa Prefecture.<br><br>\n\nThis story however focuses on a human who becomes the roommate of an elf living in an apartment.<br><br>\n\n(Source: MU)",
     "startDate": {
       "year": 2025,
@@ -144026,7 +144330,7 @@
     "seasonYear": 2026,
     "seasonInt": 261,
     "episodes": null,
-    "duration": null,
+    "duration": 4,
     "countryOfOrigin": "JP",
     "source": "MANGA",
     "hashtag": "#かなエル",
@@ -144042,7 +144346,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 53,
     "isAdult": false,
     "trailer": {
       "id": "FlkKFBETO1s",
@@ -144583,7 +144887,7 @@
             "id": 138239,
             "title": {
               "romaji": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
-              "english": null,
+              "english": "Hanaori-san Still Wants to Fight in the Next Life",
               "native": "花織さんは転生しても喧嘩がしたい"
             },
             "type": "MANGA",
@@ -145340,7 +145644,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 82,
+    "meanScore": 80,
     "isAdult": false,
     "trailer": {
       "id": "pvNj_KZY40A",
@@ -145409,7 +145713,7 @@
   },
   {
     "id": 199162,
-    "idMal": null,
+    "idMal": 62578,
     "title": {
       "romaji": "Cool de M",
       "english": null,
@@ -145469,16 +145773,16 @@
   },
   {
     "id": 199164,
-    "idMal": null,
+    "idMal": 62577,
     "title": {
-      "romaji": "Hijiri Houshou Hana Saint Lime VN: VeasTube Eroero Haishin Edition♪",
+      "romaji": "Seihou Shouka Saint Lime VN: VeasTube Eroero Haishin Edition♪",
       "english": null,
       "native": "聖宝晶華セイントライムVN ～VeasTubeエロエロ配信Edition♪～"
     },
     "type": "ANIME",
     "format": "OVA",
     "status": "NOT_YET_RELEASED",
-    "description": "Based on the erotic game by Tori no Oishii Tokoro.",
+    "description": "Based on the CG Colection by Tori no Oishii Tokoro.",
     "startDate": {
       "year": 2025,
       "month": 12,
@@ -145495,7 +145799,7 @@
     "episodes": null,
     "duration": null,
     "countryOfOrigin": "JP",
-    "source": "VISUAL_NOVEL",
+    "source": "OTHER",
     "hashtag": null,
     "coverImage": {
       "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199164-kQ2sVvNXU392.jpg",
@@ -145784,11 +146088,11 @@
     "source": "MANGA",
     "hashtag": "#DrSTONE",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-jdSHsYvgaMTZ.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199221-jdSHsYvgaMTZ.jpg",
-      "color": "#0d5de4"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199221-Ra5LphnaL5YV.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199221-Ra5LphnaL5YV.jpg",
+      "color": "#3550e4"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/199221-b3W0FfJd4zMy.jpg",
     "genres": [
       "Action",
       "Adventure",
@@ -146435,12 +146739,12 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 79,
+    "meanScore": 78,
     "isAdult": false,
     "trailer": {
-      "id": "YD8WKMizNtk",
+      "id": "59WTgd35QyQ",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/YD8WKMizNtk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/59WTgd35QyQ/hqdefault.jpg"
     },
     "synonyms": [
       "NOBODY"
@@ -147423,9 +147727,9 @@
     "source": "MANGA",
     "hashtag": "#ブルーロック  #エゴい",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199404-8WEh09lJ7q2V.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx199404-8WEh09lJ7q2V.jpg",
-      "color": "#a1e41a"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b199404-Rb7hbFEOHRCq.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/b199404-Rb7hbFEOHRCq.jpg",
+      "color": "#a1e435"
     },
     "bannerImage": null,
     "genres": [
@@ -147438,7 +147742,8 @@
     "isAdult": false,
     "trailer": null,
     "synonyms": [
-      "BLUE LOCK (Sequel)"
+      "BLUE LOCK (Sequel)",
+      "BLUE LOCK Season 3"
     ],
     "relations": {
       "edges": [
@@ -148136,7 +148441,7 @@
       "Adventure"
     ],
     "averageScore": null,
-    "meanScore": 55,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -148596,7 +148901,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 62,
+    "meanScore": 63,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -148803,7 +149108,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 72,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": {
       "id": "GkM1hXNsY0I",
@@ -149144,7 +149449,7 @@
     "type": "ANIME",
     "format": "MUSIC",
     "status": "FINISHED",
-    "description": "Music video for FUJIYAMA CHARISMA. The song contains a cover of “From the New World” and is Included in the project's third album, Charisma Gambo.",
+    "description": "Music video for FUJIYAMA CHARISMA. The song contains a cover of  “From the New World” and is Included in the project's third album, Charisma Gambo.",
     "startDate": {
       "year": 2025,
       "month": 7,
@@ -149247,7 +149552,7 @@
             "id": 189085,
             "title": {
               "romaji": "Charisma 1-shuukan",
-              "english": null,
+              "english": "One Week Charisma",
               "native": "カリスマ1週間"
             },
             "type": "ANIME",
@@ -149446,6 +149751,25 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203116-3b0maRT7QPlc.png",
               "color": null
+            }
+          }
+        },
+        {
+          "id": 118734,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 203250,
+            "title": {
+              "romaji": "Chou Charisma Bon-Odori",
+              "english": "Super Charismatic Bon-Odori",
+              "native": "超カリスマ凡踊り"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203250-7Vp7VFhb6R4z.jpg",
+              "color": "#1abbd6"
             }
           }
         }
@@ -150666,8 +150990,8 @@
       "Action",
       "Drama"
     ],
-    "averageScore": 60,
-    "meanScore": 74,
+    "averageScore": 61,
+    "meanScore": 75,
     "isAdult": false,
     "trailer": {
       "id": "_bEFfPc1feA",
@@ -151271,8 +151595,8 @@
       "Action",
       "Comedy"
     ],
-    "averageScore": 58,
-    "meanScore": 70,
+    "averageScore": 59,
+    "meanScore": 71,
     "isAdult": false,
     "trailer": {
       "id": "Jz2SeJDfml8",
@@ -151565,7 +151889,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 46,
+    "meanScore": 47,
     "isAdult": false,
     "trailer": {
       "id": "6Nix6ivcGLI",
@@ -151642,7 +151966,7 @@
       "Mahou Shoujo"
     ],
     "averageScore": null,
-    "meanScore": 42,
+    "meanScore": 36,
     "isAdult": false,
     "trailer": {
       "id": "Whmrm0JCjyk",
@@ -152096,7 +152420,7 @@
       "Sports"
     ],
     "averageScore": null,
-    "meanScore": 48,
+    "meanScore": 50,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -152945,7 +153269,7 @@
       "Adventure"
     ],
     "averageScore": null,
-    "meanScore": 25,
+    "meanScore": 26,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -152999,7 +153323,7 @@
       "Supernatural"
     ],
     "averageScore": null,
-    "meanScore": 10,
+    "meanScore": 16,
     "isAdult": false,
     "trailer": {
       "id": "NHls0X3A8Zw",
@@ -153481,7 +153805,7 @@
       "Mahou Shoujo"
     ],
     "averageScore": 57,
-    "meanScore": 73,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": {
       "id": "nrwvhoFDwzY",
@@ -154114,7 +154438,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 67,
+    "meanScore": 66,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -154883,18 +155207,18 @@
     "id": 200930,
     "idMal": null,
     "title": {
-      "romaji": "Anal Mania Otaku to Ananie Daisuki Ojou-sama: Kiseki no Matching",
+      "romaji": "Anal Mania Otaku to Ananie Daisuki na Ojou-sama: Kiseki no Matching",
       "english": null,
-      "native": "アナルマニアオタクとアナニー大好きお嬢様～奇跡のマッチング～"
+      "native": "アナルマニアオタクとアナニー大好きなお嬢様～奇跡のマッチング～"
     },
     "type": "ANIME",
     "format": "OVA",
     "status": "NOT_YET_RELEASED",
-    "description": "Based on the CG collection by Pin-Point Quick (ピンポイントクイック).",
+    "description": "Based on the CG collection by Pin-Point Quick (ピンポイントクイック).\n<br><br>\nTakuma Ota is a perverted anal maniac who secretly films the school's toilets and ranks each girl's anus. One day, his secret is discovered by the school's idol, the rich girl Shizue Yukihira...! After learning the protagonist's secret, Shizue says... <i>\"W-Would you please train my anus?!\"</i> The words she utters are unimaginable. How far will Shizue's anal training rank rise?! This young lady, who we thought was very cute and innocent, is trained to become an anal freak!\n<br><br>\n(Source: Mediabank, translated)",
     "startDate": {
-      "year": null,
-      "month": null,
-      "day": null
+      "year": 2026,
+      "month": 3,
+      "day": 20
     },
     "endDate": {
       "year": null,
@@ -154904,15 +155228,15 @@
     "season": "SPRING",
     "seasonYear": 2026,
     "seasonInt": 262,
-    "episodes": null,
+    "episodes": 2,
     "duration": null,
     "countryOfOrigin": "JP",
     "source": "OTHER",
     "hashtag": null,
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/default.jpg",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/default.jpg",
-      "color": null
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx200930-LilV7nMGiVKm.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx200930-LilV7nMGiVKm.png",
+      "color": "#e4bba1"
     },
     "bannerImage": null,
     "genres": [
@@ -154927,7 +155251,24 @@
       "edges": []
     },
     "studios": {
-      "edges": []
+      "edges": [
+        {
+          "id": 45489,
+          "isMain": false,
+          "node": {
+            "id": 6091,
+            "name": "WHITE BEAR"
+          }
+        },
+        {
+          "id": 45490,
+          "isMain": false,
+          "node": {
+            "id": 6098,
+            "name": "Mediabank"
+          }
+        }
+      ]
     }
   },
   {
@@ -155266,8 +155607,8 @@
       "Fantasy",
       "Slice of Life"
     ],
-    "averageScore": 57,
-    "meanScore": 73,
+    "averageScore": 59,
+    "meanScore": 74,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -155833,8 +156174,8 @@
     },
     "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201808-fA6BxJ97YO8Y.jpg",
     "genres": [],
-    "averageScore": 55,
-    "meanScore": 63,
+    "averageScore": 57,
+    "meanScore": 64,
     "isAdult": false,
     "trailer": {
       "id": "do8EmK-XoAg",
@@ -156027,7 +156368,7 @@
       "Sci-Fi"
     ],
     "averageScore": null,
-    "meanScore": 10,
+    "meanScore": 30,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -156130,11 +156471,11 @@
     "source": "ORIGINAL",
     "hashtag": "#超かぐや姫 #CosmicPrincessKaguya",
     "coverImage": {
-      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201903-qomgdBUH9qKY.png",
-      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201903-qomgdBUH9qKY.png",
-      "color": "#7886e4"
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx201903-v43gxQKw8Tc8.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx201903-v43gxQKw8Tc8.jpg",
+      "color": "#e46b35"
     },
-    "bannerImage": null,
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201903-Y20yLk06W45T.jpg",
     "genres": [
       "Fantasy",
       "Music",
@@ -156144,9 +156485,9 @@
     "meanScore": null,
     "isAdult": false,
     "trailer": {
-      "id": "RBZr5aT0qjc",
+      "id": "TH-U3eQwcWM",
       "site": "youtube",
-      "thumbnail": "https://i.ytimg.com/vi/RBZr5aT0qjc/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/TH-U3eQwcWM/hqdefault.jpg"
     },
     "synonyms": [
       "La princesa Kaguya del cosmos",
@@ -158228,7 +158569,7 @@
       "Romance"
     ],
     "averageScore": null,
-    "meanScore": 66,
+    "meanScore": 68,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -159289,7 +159630,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 80,
+    "meanScore": 83,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -160117,7 +160458,7 @@
   },
   {
     "id": 202957,
-    "idMal": null,
+    "idMal": 63042,
     "title": {
       "romaji": "Meitantei Precure!",
       "english": null,
@@ -160765,7 +161106,7 @@
       "Slice of Life"
     ],
     "averageScore": null,
-    "meanScore": 50,
+    "meanScore": 60,
     "isAdult": false,
     "trailer": null,
     "synonyms": [],
@@ -160977,7 +161318,7 @@
       "Fantasy"
     ],
     "averageScore": null,
-    "meanScore": 45,
+    "meanScore": 44,
     "isAdult": false,
     "trailer": null,
     "synonyms": [
@@ -161331,7 +161672,7 @@
             "id": 189085,
             "title": {
               "romaji": "Charisma 1-shuukan",
-              "english": null,
+              "english": "One Week Charisma",
               "native": "カリスマ1週間"
             },
             "type": "ANIME",
@@ -161435,6 +161776,25 @@
             "coverImage": {
               "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199438-85LDcNKVNVvv.jpg",
               "color": "#d65d1a"
+            }
+          }
+        },
+        {
+          "id": 118736,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 203250,
+            "title": {
+              "romaji": "Chou Charisma Bon-Odori",
+              "english": "Super Charismatic Bon-Odori",
+              "native": "超カリスマ凡踊り"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203250-7Vp7VFhb6R4z.jpg",
+              "color": "#1abbd6"
             }
           }
         }
@@ -161747,7 +162107,7 @@
       "Comedy"
     ],
     "averageScore": null,
-    "meanScore": null,
+    "meanScore": 40,
     "isAdult": false,
     "trailer": {
       "id": "M0nJGcs1SUk",
@@ -161891,6 +162251,1099 @@
           "node": {
             "id": 123,
             "name": "Victor Entertainment"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 203250,
+    "idMal": null,
+    "title": {
+      "romaji": "Chou Charisma Bon-Odori",
+      "english": "Super Charismatic Bon-Odori",
+      "native": "超カリスマ凡踊り"
+    },
+    "type": "ANIME",
+    "format": "MUSIC",
+    "status": "FINISHED",
+    "description": "Music video for Chou Charisma Bon Odori. The song contains a cover of ”Tankousetsu\" and is Included in the project's third album, Charisma Gambo.",
+    "startDate": {
+      "year": 2025,
+      "month": 8,
+      "day": 8
+    },
+    "endDate": {
+      "year": 2025,
+      "month": 8,
+      "day": 8
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": 1,
+    "duration": 4,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "hashtag": "#超カリスマ凡踊り",
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203250-7Vp7VFhb6R4z.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203250-7Vp7VFhb6R4z.jpg",
+      "color": "#1abbd6"
+    },
+    "bannerImage": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203250-dVOTRiYOKiB2.jpg",
+    "genres": [],
+    "averageScore": null,
+    "meanScore": 60,
+    "isAdult": false,
+    "trailer": {
+      "id": "CglElwM-jkk",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/CglElwM-jkk/hqdefault.jpg"
+    },
+    "synonyms": [
+      "Cho Charisma Bonodori "
+    ],
+    "relations": {
+      "edges": [
+        {
+          "id": 118705,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 156132,
+            "title": {
+              "romaji": "Charisma: Charisma na Karera wa Charisma House de Karizumai Chuu",
+              "english": null,
+              "native": "カリスマ 〜カリスマな彼らはカリスマハウスで仮住まい中〜"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx156132-p488cVxSOO0g.jpg",
+              "color": "#d65d1a"
+            }
+          }
+        },
+        {
+          "id": 118706,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 156133,
+            "title": {
+              "romaji": "Charisma: Kyou mo Heiwa desu",
+              "english": null,
+              "native": "カリスマ　～きょうもへいわです～"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx156133-yUAcWOgUPNqx.jpg",
+              "color": "#e45d1a"
+            }
+          }
+        },
+        {
+          "id": 118711,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 188943,
+            "title": {
+              "romaji": "Mecha Mecha Charisma",
+              "english": null,
+              "native": "めちゃめちゃカリスマ"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx188943-Psawqvs4QoGZ.jpg",
+              "color": "#e4500d"
+            }
+          }
+        },
+        {
+          "id": 118713,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 189085,
+            "title": {
+              "romaji": "Charisma 1-shuukan",
+              "english": "One Week Charisma",
+              "native": "カリスマ1週間"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189085-KW4gehvxeFG5.jpg",
+              "color": "#ff8635"
+            }
+          }
+        },
+        {
+          "id": 118715,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 189509,
+            "title": {
+              "romaji": "Otsucharisma! Bounenkai",
+              "english": null,
+              "native": "おつカリスマ！忘年会"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189509-HJUJza8VcQ4B.jpg",
+              "color": "#e4ae0d"
+            }
+          }
+        },
+        {
+          "id": 118717,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 189708,
+            "title": {
+              "romaji": "Charisma tte Ii na",
+              "english": null,
+              "native": "カリスマっていいな"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx189708-1CiheoHrqGyH.jpg",
+              "color": "#e46b1a"
+            }
+          }
+        },
+        {
+          "id": 118719,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 190325,
+            "title": {
+              "romaji": "Charisma Picnic",
+              "english": null,
+              "native": "カリスマピクニック"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx190325-9u5E05Mbiiuq.jpg",
+              "color": "#fe500d"
+            }
+          }
+        },
+        {
+          "id": 118721,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 191059,
+            "title": {
+              "romaji": "Charisma Jamboree",
+              "english": null,
+              "native": "カリスマジャンボリー"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191059-QDzqArJRxmPe.jpg",
+              "color": "#ffa143"
+            }
+          }
+        },
+        {
+          "id": 118723,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 192298,
+            "title": {
+              "romaji": "Charisma in Da House",
+              "english": null,
+              "native": "カリスマ・イン・ダ・ハウス"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx192298-NaFkqE2eQ0Kz.jpg",
+              "color": "#f143a1"
+            }
+          }
+        },
+        {
+          "id": 118725,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 194229,
+            "title": {
+              "romaji": "Charisma Pizza Party",
+              "english": null,
+              "native": "カリスマピザパーティー"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194229-bOGNoRxvbVzg.jpg",
+              "color": "#e4a150"
+            }
+          }
+        },
+        {
+          "id": 118727,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 194945,
+            "title": {
+              "romaji": "Charisma Sabira",
+              "english": null,
+              "native": "カリスマさびら"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx194945-eYjoUQ4IZXGG.jpg",
+              "color": "#e4ae43"
+            }
+          }
+        },
+        {
+          "id": 118729,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 196864,
+            "title": {
+              "romaji": "Tottemo Carichuma",
+              "english": null,
+              "native": "とってもかりちゅま"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx196864-99Vdnuvd1SGM.jpg",
+              "color": "#ffbb00"
+            }
+          }
+        },
+        {
+          "id": 118731,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 197643,
+            "title": {
+              "romaji": "Charisma Onsenkyou",
+              "english": null,
+              "native": "カリスマ温泉郷"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx197643-e34G4R3LRz52.jpg",
+              "color": "#e4bb5d"
+            }
+          }
+        },
+        {
+          "id": 118733,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 199438,
+            "title": {
+              "romaji": "FUJIYAMA CHARISMA",
+              "english": null,
+              "native": "FUJIYAMA CHARISMA"
+            },
+            "type": "ANIME",
+            "format": "MUSIC",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx199438-85LDcNKVNVvv.jpg",
+              "color": "#d65d1a"
+            }
+          }
+        },
+        {
+          "id": 118735,
+          "relationType": "CHARACTER",
+          "node": {
+            "id": 203116,
+            "title": {
+              "romaji": "Charisma",
+              "english": null,
+              "native": "カリスマ"
+            },
+            "type": "ANIME",
+            "format": "TV",
+            "status": "NOT_YET_RELEASED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203116-3b0maRT7QPlc.png",
+              "color": null
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45487,
+          "isMain": false,
+          "node": {
+            "id": 6617,
+            "name": "Dazed"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 203275,
+    "idMal": null,
+    "title": {
+      "romaji": "Demons' Crest",
+      "english": null,
+      "native": "デモンズ・クレスト"
+    },
+    "type": "ANIME",
+    "format": null,
+    "status": "NOT_YET_RELEASED",
+    "description": "Sixth-grader Yuuma Ashihara and his twin sister, Sawa, are playing Actual Magic , a brand-new virtual reality MMORPG, when it suddenly begins fusing with the real world. Amid all the chaos and confusion, it becomes clear that death is lurking around every corner, including when Yuuma runs into his classmate Sumika. Before, she was one of the cutest girls in his class, but she’s since undergone a terrible metamorphosis—into one of the game’s horrifying monsters! From the author of Sword Art Online and Accel World comes a story beyond VR and AR, where gaming and reality are one and the same…and staying alive is just the beginning!\n<br><br>\n(Source: Yen Press)",
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": null,
+    "duration": null,
+    "countryOfOrigin": "JP",
+    "source": "LIGHT_NOVEL",
+    "hashtag": "#デモクレ",
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203275-iNNnk8UVmJF4.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203275-iNNnk8UVmJF4.jpg",
+      "color": "#a1bbf1"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": false,
+    "trailer": null,
+    "synonyms": [
+      "デモクレ",
+      "DemoKure"
+    ],
+    "relations": {
+      "edges": [
+        {
+          "id": 118743,
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 155848,
+            "title": {
+              "romaji": "Demons' Crest",
+              "english": null,
+              "native": "デモンズ・クレスト"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "RELEASING",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/b155848-ClIxUNdiSq0E.jpg",
+              "color": "#43bbe4"
+            }
+          }
+        },
+        {
+          "id": 118744,
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 154372,
+            "title": {
+              "romaji": "Demons' Crest",
+              "english": "Demons' Crest",
+              "native": "デモンズ・クレスト"
+            },
+            "type": "MANGA",
+            "format": "NOVEL",
+            "status": "RELEASING",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx154372-w69wQgEL6w13.png",
+              "color": "#5dc9f1"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": []
+    }
+  },
+  {
+    "id": 203296,
+    "idMal": 62649,
+    "title": {
+      "romaji": "Cardfight!! Vanguard: Divinez Genma Seisen-hen",
+      "english": null,
+      "native": "カードファイト!! ヴァンガード Divinez 幻真星戦編"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "The fifth season of <i>Cardfight!! Vanguard: Divinez.</i>",
+    "startDate": {
+      "year": 2026,
+      "month": 1,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": "WINTER",
+    "seasonYear": 2026,
+    "seasonInt": 261,
+    "episodes": null,
+    "duration": null,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203296-CAAx5fmW3tWz.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203296-CAAx5fmW3tWz.jpg",
+      "color": "#e44350"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": false,
+    "trailer": null,
+    "synonyms": [
+      "CARDFIGHT!! VANGUARD Divinez Parallactic Clash"
+    ],
+    "relations": {
+      "edges": [
+        {
+          "id": 118755,
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 191994,
+            "title": {
+              "romaji": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
+              "english": "CARDFIGHT!! VANGUARD Divinez DELUXE Finals",
+              "native": "カードファイト!! ヴァンガード Divinez デラックス決勝編"
+            },
+            "type": "ANIME",
+            "format": "TV",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx191994-hRBORUotkRjI.jpg",
+              "color": "#ffbb43"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": []
+    }
+  },
+  {
+    "id": 203367,
+    "idMal": null,
+    "title": {
+      "romaji": "Mou Ichido, Shitemitai.",
+      "english": null,
+      "native": "もう一度、してみたい。"
+    },
+    "type": "ANIME",
+    "format": null,
+    "status": "NOT_YET_RELEASED",
+    "description": "Inugami, a strong-willed office lady, and her colleague Sarushima are always fighting. As usual, the two spend the night arguing at a bar... and when they wake up, they find themselves at a love hotel together!? They don't remember why they went there, but their bodies remember that it felt amazing.\n<br><br>\n(Source: PinkPineapple, translated)",
+    "startDate": {
+      "year": 2026,
+      "month": 2,
+      "day": 27
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": "WINTER",
+    "seasonYear": 2026,
+    "seasonInt": 261,
+    "episodes": null,
+    "duration": null,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203367-4TejHeBRRVYu.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203367-4TejHeBRRVYu.png",
+      "color": "#f18600"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Hentai"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": true,
+    "trailer": null,
+    "synonyms": [],
+    "relations": {
+      "edges": [
+        {
+          "id": 118807,
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 186944,
+            "title": {
+              "romaji": "Mou Ichido, Shitemitai.",
+              "english": null,
+              "native": "もう一度、してみたい。"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx186944-0eLkk9vg21UU.jpg",
+              "color": "#ff931a"
+            }
+          }
+        },
+        {
+          "id": 118809,
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 169740,
+            "title": {
+              "romaji": "Mou Ichido, Shite Mitai.",
+              "english": null,
+              "native": "もう一度、してみたい。"
+            },
+            "type": "MANGA",
+            "format": "ONE_SHOT",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx169740-J2OjagoAsxQR.jpg",
+              "color": null
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45491,
+          "isMain": false,
+          "node": {
+            "id": 45,
+            "name": "Pink Pineapple"
+          }
+        },
+        {
+          "id": 45492,
+          "isMain": true,
+          "node": {
+            "id": 541,
+            "name": "Seven"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 203368,
+    "idMal": null,
+    "title": {
+      "romaji": "Onegai☆Teacher Shinsaku Animation (Provisional Title)",
+      "english": null,
+      "native": "おねがい☆ティーチャー 新作アニメーション（仮）"
+    },
+    "type": "ANIME",
+    "format": "OVA",
+    "status": "NOT_YET_RELEASED",
+    "description": "New Onegai☆Teacher anime project initiated after the 20th anniversary of the series and the closure of Lake Kizaki Capeground.",
+    "startDate": {
+      "year": 2026,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": null,
+    "duration": null,
+    "countryOfOrigin": "JP",
+    "source": null,
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203368-tZl53bKgcxWN.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203368-tZl53bKgcxWN.jpg",
+      "color": "#1a93d6"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Sci-Fi"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": false,
+    "trailer": null,
+    "synonyms": [],
+    "relations": {
+      "edges": [
+        {
+          "id": 118814,
+          "relationType": "PARENT",
+          "node": {
+            "id": 195,
+            "title": {
+              "romaji": "Onegai☆Teacher",
+              "english": "Please☆Teacher!",
+              "native": "おねがい☆ティーチャー"
+            },
+            "type": "ANIME",
+            "format": "TV",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx195-0qMiRJbg60Tc.png",
+              "color": "#d6bb78"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45493,
+          "isMain": true,
+          "node": {
+            "id": 6137,
+            "name": "Studio M2"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 203448,
+    "idMal": null,
+    "title": {
+      "romaji": "World Trigger REBOOT Project (Provisional Title)",
+      "english": null,
+      "native": "ワールドトリガー REBOOTプロジェクト （仮）"
+    },
+    "type": "ANIME",
+    "format": null,
+    "status": "NOT_YET_RELEASED",
+    "description": "A \"reboot\" project for <i>World Trigger</i>.\n\n<br><br>\n<i>Note: Title and Relations are provisional and will be updated when more info is announced.</i>",
+    "startDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": null,
+    "duration": null,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "hashtag": "#ワートリREBOOT #ワールドトリガー",
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203448-lzXoU41UeJCU.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203448-lzXoU41UeJCU.jpg",
+      "color": "#e4ae93"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": false,
+    "trailer": {
+      "id": "CL1O5P1FWKE",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/CL1O5P1FWKE/hqdefault.jpg"
+    },
+    "synonyms": [
+      "ワートリREBOOT"
+    ],
+    "relations": {
+      "edges": [
+        {
+          "id": 118841,
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 78151,
+            "title": {
+              "romaji": "World Trigger",
+              "english": "World Trigger",
+              "native": "ワールドトリガー"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "RELEASING",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx78151-o2g4GiqaiPyO.jpg",
+              "color": "#f19343"
+            }
+          }
+        },
+        {
+          "id": 118844,
+          "relationType": "PARENT",
+          "node": {
+            "id": 20729,
+            "title": {
+              "romaji": "World Trigger",
+              "english": "World Trigger",
+              "native": "ワールドトリガー"
+            },
+            "type": "ANIME",
+            "format": "TV",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx20729-DnBXnUxFon1B.png",
+              "color": "#f1ae28"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45500,
+          "isMain": false,
+          "node": {
+            "id": 18,
+            "name": "Toei Animation"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 203472,
+    "idMal": null,
+    "title": {
+      "romaji": "Himitsu Kessha Taka no Tsume XX",
+      "english": null,
+      "native": "秘密結社 鷹の爪XX（ダブルエックス）"
+    },
+    "type": "ANIME",
+    "format": "ONA",
+    "status": "NOT_YET_RELEASED",
+    "description": null,
+    "startDate": {
+      "year": 2026,
+      "month": 1,
+      "day": 6
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": "WINTER",
+    "seasonYear": 2026,
+    "seasonInt": 261,
+    "episodes": null,
+    "duration": null,
+    "countryOfOrigin": "JP",
+    "source": "ORIGINAL",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203472-MJDpus1DWo3Z.png",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203472-MJDpus1DWo3Z.png",
+      "color": "#f1ae00"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": false,
+    "trailer": null,
+    "synonyms": [
+      "Eagle Talon XX"
+    ],
+    "relations": {
+      "edges": [
+        {
+          "id": 118855,
+          "relationType": "PREQUEL",
+          "node": {
+            "id": 125153,
+            "title": {
+              "romaji": "Himitsukessha Taka no Tsume: Golden Spell",
+              "english": "Eagle Talon: Golden Spell",
+              "native": "秘密結社 鷹の爪 ～ゴールデン・スペル～"
+            },
+            "type": "ANIME",
+            "format": "TV_SHORT",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx125153-ROvjT0nsLAwa.png",
+              "color": "#bb35ff"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45501,
+          "isMain": true,
+          "node": {
+            "id": 276,
+            "name": "DLE"
+          }
+        },
+        {
+          "id": 45502,
+          "isMain": false,
+          "node": {
+            "id": 6431,
+            "name": "KDDI"
+          }
+        },
+        {
+          "id": 45503,
+          "isMain": false,
+          "node": {
+            "id": 276,
+            "name": "DLE"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 203473,
+    "idMal": 63053,
+    "title": {
+      "romaji": "Kyoufu Collector",
+      "english": null,
+      "native": "恐怖コレクター"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "Urban legends come to life…Everyone’s heard an urban legend before, but few have ever come face-to-face with one. These phenomena are everywhere, existing in the shadows of reality. More and more of them have been appearing in the wake of the faceless kid sighted all over Japan. If you see her or one of the urban legends she brings―pray the boy in the red hood finds you before it’s too late. You won’t stand a chance on your own. But with his help, you may just live to see another day…\n<br><br>\n(Source: Yen Press)",
+    "startDate": {
+      "year": 2026,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": "FALL",
+    "seasonYear": 2026,
+    "seasonInt": 264,
+    "episodes": null,
+    "duration": null,
+    "countryOfOrigin": "JP",
+    "source": "OTHER",
+    "hashtag": null,
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203473-dIUb8kiwnpmo.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203473-dIUb8kiwnpmo.jpg",
+      "color": "#e46b5d"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Supernatural"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": false,
+    "trailer": null,
+    "synonyms": [
+      "Horror Collector"
+    ],
+    "relations": {
+      "edges": [
+        {
+          "id": 118857,
+          "relationType": "ALTERNATIVE",
+          "node": {
+            "id": 146120,
+            "title": {
+              "romaji": "Kyoufu Collector",
+              "english": "Horror Collector",
+              "native": "恐怖コレクター"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "FINISHED",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx146120-42C8Tc7yOkk7.jpg",
+              "color": "#e4356b"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45504,
+          "isMain": false,
+          "node": {
+            "id": 111,
+            "name": "NHK"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 203490,
+    "idMal": 63061,
+    "title": {
+      "romaji": "Uchi no Otouto-domo ga Sumimasen",
+      "english": null,
+      "native": "うちの弟どもがすみません"
+    },
+    "type": "ANIME",
+    "format": "TV",
+    "status": "NOT_YET_RELEASED",
+    "description": "Ito is a second-year high school student and an only child who has to move to a different city; her mother remarried and begins her new life as an older sister of 4 siblings! The start of a family-love-comedy with four step-brothers!",
+    "startDate": {
+      "year": 2026,
+      "month": null,
+      "day": null
+    },
+    "endDate": {
+      "year": null,
+      "month": null,
+      "day": null
+    },
+    "season": null,
+    "seasonYear": null,
+    "seasonInt": null,
+    "episodes": null,
+    "duration": null,
+    "countryOfOrigin": "JP",
+    "source": "MANGA",
+    "hashtag": "#うち弟アニメ",
+    "coverImage": {
+      "large": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/bx203490-6blrdNOdgxn2.jpg",
+      "medium": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/small/bx203490-6blrdNOdgxn2.jpg",
+      "color": "#ffe443"
+    },
+    "bannerImage": null,
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Slice of Life"
+    ],
+    "averageScore": null,
+    "meanScore": null,
+    "isAdult": false,
+    "trailer": {
+      "id": "zYn-Dml5pcs",
+      "site": "youtube",
+      "thumbnail": "https://i.ytimg.com/vi/zYn-Dml5pcs/hqdefault.jpg"
+    },
+    "synonyms": [],
+    "relations": {
+      "edges": [
+        {
+          "id": 118859,
+          "relationType": "ADAPTATION",
+          "node": {
+            "id": 117345,
+            "title": {
+              "romaji": "Uchi no Otoutodomo ga Sumimasen",
+              "english": null,
+              "native": "うちの弟どもがすみません"
+            },
+            "type": "MANGA",
+            "format": "MANGA",
+            "status": "RELEASING",
+            "coverImage": {
+              "large": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/medium/bx117345-NRvzyGbjiyoD.png",
+              "color": "#d61a5d"
+            }
+          }
+        }
+      ]
+    },
+    "studios": {
+      "edges": [
+        {
+          "id": 45511,
+          "isMain": true,
+          "node": {
+            "id": 6075,
+            "name": "Lay-duce"
+          }
+        },
+        {
+          "id": 45512,
+          "isMain": false,
+          "node": {
+            "id": 17,
+            "name": "Aniplex"
           }
         }
       ]
